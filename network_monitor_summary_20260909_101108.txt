@@ -1,0 +1,16 @@
+[SUMMARY] Log file: /Users/zheng/myCode/network_monitor/network_monitor_20260909_101108.txt
+[SUMMARY] Total outage events detected: 12
+[SUMMARY] Event 1: type=INTERNET_ONLY | start=2026-09-09 10:14:15 | end=2026-09-09 10:14:15 | duration=0s | gateway=OK->OK | internet=FAIL->FAIL
+[SUMMARY] Event 2: type=INTERNET_ONLY | start=2026-09-09 10:17:07 | end=2026-09-09 10:17:17 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 3: type=INTERNET_ONLY | start=2026-09-09 10:19:18 | end=2026-09-09 10:19:48 | duration=30s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 4: type=INTERNET_ONLY | start=2026-09-09 10:20:44 | end=2026-09-09 10:21:04 | duration=20s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 5: type=INTERNET_ONLY | start=2026-09-09 10:45:05 | end=2026-09-09 10:45:15 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 6: type=INTERNET_ONLY | start=2026-09-09 10:56:53 | end=2026-09-09 10:57:03 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 7: type=INTERNET_ONLY | start=2026-09-09 10:58:59 | end=2026-09-09 10:59:09 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 8: type=INTERNET_ONLY | start=2026-09-09 11:16:51 | end=2026-09-09 11:17:01 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 9: type=INTERNET_ONLY | start=2026-09-09 11:20:02 | end=2026-09-09 11:20:12 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 10: type=INTERNET_ONLY | start=2026-09-09 11:27:02 | end=2026-09-09 11:27:12 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 11: type=INTERNET_ONLY | start=2026-09-09 11:37:54 | end=2026-09-09 11:38:04 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 12: type=INTERNET_ONLY | start=2026-09-09 11:41:00 | end=2026-09-09 11:41:11 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Breakdown by failure type:
+  - INTERNET_ONLY: 12 event(s)
