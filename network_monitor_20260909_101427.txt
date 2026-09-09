@@ -1,0 +1,1346 @@
+[2026-09-09 10:14:27] START duration_hours=2 interval_seconds=5 gateway=192.168.1.1 external_target=8.8.8.8
+[2026-09-09 10:14:27] gateway=OK gateway_rtt=36.5ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:14:27] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 10:14:37] gateway=OK gateway_rtt=6.0ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:14:47] gateway=OK gateway_rtt=10.3ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:14:57] gateway=OK gateway_rtt=13.0ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:15:07] gateway=OK gateway_rtt=22.8ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:15:17] gateway=OK gateway_rtt=89.4ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:15:27] gateway=OK gateway_rtt=4.6ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:15:37] gateway=OK gateway_rtt=25.4ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:15:47] gateway=OK gateway_rtt=6.3ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:15:58] gateway=OK gateway_rtt=2708.3ms internet=OK internet_rtt=209.3ms gateway_error=none internet_error=none
+[2026-09-09 10:15:58] EVENT_END type=INTERNET_ONLY duration=1m 30s gateway=OK internet=OK
+[2026-09-09 10:16:05] gateway=OK gateway_rtt=372.3ms internet=OK internet_rtt=48.9ms gateway_error=none internet_error=none
+[2026-09-09 10:16:11] gateway=OK gateway_rtt=404.2ms internet=OK internet_rtt=257.8ms gateway_error=none internet_error=none
+[2026-09-09 10:16:17] gateway=OK gateway_rtt=27.4ms internet=OK internet_rtt=42.9ms gateway_error=none internet_error=none
+[2026-09-09 10:16:22] gateway=OK gateway_rtt=7.5ms internet=OK internet_rtt=23.6ms gateway_error=none internet_error=none
+[2026-09-09 10:16:27] gateway=OK gateway_rtt=198.2ms internet=OK internet_rtt=68.1ms gateway_error=none internet_error=none
+[2026-09-09 10:16:32] gateway=OK gateway_rtt=33.7ms internet=OK internet_rtt=17.9ms gateway_error=none internet_error=none
+[2026-09-09 10:16:37] gateway=OK gateway_rtt=46.2ms internet=OK internet_rtt=17.7ms gateway_error=none internet_error=none
+[2026-09-09 10:16:42] gateway=OK gateway_rtt=6.8ms internet=OK internet_rtt=15.9ms gateway_error=none internet_error=none
+[2026-09-09 10:16:47] gateway=OK gateway_rtt=5.5ms internet=OK internet_rtt=17.4ms gateway_error=none internet_error=none
+[2026-09-09 10:16:52] gateway=OK gateway_rtt=5.2ms internet=OK internet_rtt=17.5ms gateway_error=none internet_error=none
+[2026-09-09 10:16:57] gateway=OK gateway_rtt=10.0ms internet=OK internet_rtt=21.1ms gateway_error=none internet_error=none
+[2026-09-09 10:17:02] gateway=OK gateway_rtt=25.4ms internet=OK internet_rtt=17.7ms gateway_error=none internet_error=none
+[2026-09-09 10:17:07] gateway=OK gateway_rtt=12.9ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:17:07] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 10:17:18] gateway=OK gateway_rtt=5.0ms internet=OK internet_rtt=19.3ms gateway_error=none internet_error=none
+[2026-09-09 10:17:18] EVENT_END type=INTERNET_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 10:17:23] gateway=OK gateway_rtt=7.6ms internet=OK internet_rtt=23.7ms gateway_error=none internet_error=none
+[2026-09-09 10:17:28] gateway=OK gateway_rtt=7.9ms internet=OK internet_rtt=14.2ms gateway_error=none internet_error=none
+[2026-09-09 10:17:33] gateway=OK gateway_rtt=70.8ms internet=OK internet_rtt=253.6ms gateway_error=none internet_error=none
+[2026-09-09 10:17:38] gateway=OK gateway_rtt=689.6ms internet=OK internet_rtt=704.9ms gateway_error=none internet_error=none
+[2026-09-09 10:17:44] gateway=OK gateway_rtt=7.5ms internet=OK internet_rtt=16.8ms gateway_error=none internet_error=none
+[2026-09-09 10:17:50] gateway=OK gateway_rtt=5.3ms internet=OK internet_rtt=17.1ms gateway_error=none internet_error=none
+[2026-09-09 10:17:55] gateway=OK gateway_rtt=6.7ms internet=OK internet_rtt=16.4ms gateway_error=none internet_error=none
+[2026-09-09 10:18:00] gateway=OK gateway_rtt=8.4ms internet=OK internet_rtt=16.4ms gateway_error=none internet_error=none
+[2026-09-09 10:18:05] gateway=OK gateway_rtt=8.6ms internet=OK internet_rtt=20.4ms gateway_error=none internet_error=none
+[2026-09-09 10:18:10] gateway=OK gateway_rtt=5.9ms internet=OK internet_rtt=19.7ms gateway_error=none internet_error=none
+[2026-09-09 10:18:15] gateway=OK gateway_rtt=5.8ms internet=OK internet_rtt=28.1ms gateway_error=none internet_error=none
+[2026-09-09 10:18:20] gateway=OK gateway_rtt=11.3ms internet=OK internet_rtt=18.4ms gateway_error=none internet_error=none
+[2026-09-09 10:18:25] gateway=OK gateway_rtt=16.5ms internet=OK internet_rtt=17.7ms gateway_error=none internet_error=none
+[2026-09-09 10:18:30] gateway=OK gateway_rtt=5.4ms internet=OK internet_rtt=18.2ms gateway_error=none internet_error=none
+[2026-09-09 10:18:35] gateway=OK gateway_rtt=20.4ms internet=OK internet_rtt=18.0ms gateway_error=none internet_error=none
+[2026-09-09 10:18:40] gateway=OK gateway_rtt=18.4ms internet=OK internet_rtt=55.0ms gateway_error=none internet_error=none
+[2026-09-09 10:18:45] gateway=OK gateway_rtt=1153.8ms internet=OK internet_rtt=112.5ms gateway_error=none internet_error=none
+[2026-09-09 10:18:51] gateway=OK gateway_rtt=93.4ms internet=OK internet_rtt=49.8ms gateway_error=none internet_error=none
+[2026-09-09 10:18:57] gateway=OK gateway_rtt=231.5ms internet=OK internet_rtt=24.0ms gateway_error=none internet_error=none
+[2026-09-09 10:19:02] gateway=OK gateway_rtt=3609.0ms internet=OK internet_rtt=1282.2ms gateway_error=none internet_error=none
+[2026-09-09 10:19:12] gateway=OK gateway_rtt=29.2ms internet=OK internet_rtt=17.6ms gateway_error=none internet_error=none
+[2026-09-09 10:19:17] gateway=OK gateway_rtt=23.6ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:19:17] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 10:19:27] gateway=OK gateway_rtt=267.9ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:19:37] gateway=OK gateway_rtt=2401.2ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:19:50] gateway=OK gateway_rtt=32.3ms internet=OK internet_rtt=15.8ms gateway_error=none internet_error=none
+[2026-09-09 10:19:50] EVENT_END type=INTERNET_ONLY duration=32s gateway=OK internet=OK
+[2026-09-09 10:19:55] gateway=OK gateway_rtt=26.0ms internet=OK internet_rtt=50.6ms gateway_error=none internet_error=none
+[2026-09-09 10:20:00] gateway=OK gateway_rtt=14.3ms internet=OK internet_rtt=27.2ms gateway_error=none internet_error=none
+[2026-09-09 10:20:05] gateway=OK gateway_rtt=5.6ms internet=OK internet_rtt=20.1ms gateway_error=none internet_error=none
+[2026-09-09 10:20:10] gateway=OK gateway_rtt=5.5ms internet=OK internet_rtt=16.7ms gateway_error=none internet_error=none
+[2026-09-09 10:20:15] gateway=OK gateway_rtt=11.3ms internet=OK internet_rtt=13.8ms gateway_error=none internet_error=none
+[2026-09-09 10:20:20] gateway=OK gateway_rtt=7.7ms internet=OK internet_rtt=15.8ms gateway_error=none internet_error=none
+[2026-09-09 10:20:25] gateway=OK gateway_rtt=6.0ms internet=OK internet_rtt=39.0ms gateway_error=none internet_error=none
+[2026-09-09 10:20:30] gateway=OK gateway_rtt=4.5ms internet=OK internet_rtt=17.8ms gateway_error=none internet_error=none
+[2026-09-09 10:20:35] gateway=OK gateway_rtt=5.7ms internet=OK internet_rtt=19.3ms gateway_error=none internet_error=none
+[2026-09-09 10:20:40] gateway=OK gateway_rtt=9.5ms internet=OK internet_rtt=28.2ms gateway_error=none internet_error=none
+[2026-09-09 10:20:45] gateway=OK gateway_rtt=7.2ms internet=OK internet_rtt=20.8ms gateway_error=none internet_error=none
+[2026-09-09 10:20:50] gateway=OK gateway_rtt=6.4ms internet=OK internet_rtt=15.7ms gateway_error=none internet_error=none
+[2026-09-09 10:20:55] gateway=OK gateway_rtt=10.0ms internet=OK internet_rtt=17.8ms gateway_error=none internet_error=none
+[2026-09-09 10:21:00] gateway=OK gateway_rtt=148.0ms internet=OK internet_rtt=29.9ms gateway_error=none internet_error=none
+[2026-09-09 10:21:06] gateway=OK gateway_rtt=6.1ms internet=OK internet_rtt=19.4ms gateway_error=none internet_error=none
+[2026-09-09 10:21:11] gateway=OK gateway_rtt=2621.6ms internet=OK internet_rtt=364.9ms gateway_error=none internet_error=none
+[2026-09-09 10:21:19] gateway=OK gateway_rtt=30.7ms internet=OK internet_rtt=35.3ms gateway_error=none internet_error=none
+[2026-09-09 10:21:24] gateway=OK gateway_rtt=20.9ms internet=OK internet_rtt=37.6ms gateway_error=none internet_error=none
+[2026-09-09 10:21:29] gateway=OK gateway_rtt=32.8ms internet=OK internet_rtt=152.0ms gateway_error=none internet_error=none
+[2026-09-09 10:21:34] gateway=OK gateway_rtt=605.1ms internet=OK internet_rtt=760.7ms gateway_error=none internet_error=none
+[2026-09-09 10:21:41] gateway=OK gateway_rtt=361.5ms internet=OK internet_rtt=112.3ms gateway_error=none internet_error=none
+[2026-09-09 10:21:46] gateway=OK gateway_rtt=277.3ms internet=OK internet_rtt=56.0ms gateway_error=none internet_error=none
+[2026-09-09 10:21:51] gateway=OK gateway_rtt=52.8ms internet=OK internet_rtt=67.0ms gateway_error=none internet_error=none
+[2026-09-09 10:21:57] gateway=OK gateway_rtt=18.6ms internet=OK internet_rtt=40.3ms gateway_error=none internet_error=none
+[2026-09-09 10:22:02] gateway=OK gateway_rtt=12.7ms internet=OK internet_rtt=34.8ms gateway_error=none internet_error=none
+[2026-09-09 10:22:07] gateway=OK gateway_rtt=7.4ms internet=OK internet_rtt=18.4ms gateway_error=none internet_error=none
+[2026-09-09 10:22:12] gateway=OK gateway_rtt=11.7ms internet=OK internet_rtt=32.0ms gateway_error=none internet_error=none
+[2026-09-09 10:22:17] gateway=OK gateway_rtt=21.7ms internet=OK internet_rtt=32.9ms gateway_error=none internet_error=none
+[2026-09-09 10:22:22] gateway=OK gateway_rtt=6.3ms internet=OK internet_rtt=20.6ms gateway_error=none internet_error=none
+[2026-09-09 10:22:27] gateway=OK gateway_rtt=6.2ms internet=OK internet_rtt=22.8ms gateway_error=none internet_error=none
+[2026-09-09 10:22:32] gateway=OK gateway_rtt=5.5ms internet=OK internet_rtt=19.8ms gateway_error=none internet_error=none
+[2026-09-09 10:22:37] gateway=OK gateway_rtt=5.9ms internet=OK internet_rtt=20.6ms gateway_error=none internet_error=none
+[2026-09-09 10:22:42] gateway=OK gateway_rtt=40.3ms internet=OK internet_rtt=19.3ms gateway_error=none internet_error=none
+[2026-09-09 10:22:47] gateway=OK gateway_rtt=1225.5ms internet=OK internet_rtt=607.4ms gateway_error=none internet_error=none
+[2026-09-09 10:22:54] gateway=OK gateway_rtt=10.8ms internet=OK internet_rtt=18.0ms gateway_error=none internet_error=none
+[2026-09-09 10:22:59] gateway=OK gateway_rtt=8.3ms internet=OK internet_rtt=25.3ms gateway_error=none internet_error=none
+[2026-09-09 10:23:04] gateway=OK gateway_rtt=13.3ms internet=OK internet_rtt=27.7ms gateway_error=none internet_error=none
+[2026-09-09 10:23:09] gateway=OK gateway_rtt=6.9ms internet=OK internet_rtt=17.8ms gateway_error=none internet_error=none
+[2026-09-09 10:23:14] gateway=OK gateway_rtt=17.0ms internet=OK internet_rtt=31.9ms gateway_error=none internet_error=none
+[2026-09-09 10:23:19] gateway=OK gateway_rtt=6.2ms internet=OK internet_rtt=19.6ms gateway_error=none internet_error=none
+[2026-09-09 10:23:24] gateway=OK gateway_rtt=10.1ms internet=OK internet_rtt=15.9ms gateway_error=none internet_error=none
+[2026-09-09 10:23:29] gateway=OK gateway_rtt=21.5ms internet=OK internet_rtt=16.2ms gateway_error=none internet_error=none
+[2026-09-09 10:23:35] gateway=OK gateway_rtt=6.0ms internet=OK internet_rtt=22.2ms gateway_error=none internet_error=none
+[2026-09-09 10:23:40] gateway=OK gateway_rtt=6.6ms internet=OK internet_rtt=20.8ms gateway_error=none internet_error=none
+[2026-09-09 10:23:45] gateway=OK gateway_rtt=7.3ms internet=OK internet_rtt=18.8ms gateway_error=none internet_error=none
+[2026-09-09 10:23:50] gateway=OK gateway_rtt=7.7ms internet=OK internet_rtt=19.3ms gateway_error=none internet_error=none
+[2026-09-09 10:23:55] gateway=OK gateway_rtt=6.6ms internet=OK internet_rtt=21.5ms gateway_error=none internet_error=none
+[2026-09-09 10:24:00] gateway=OK gateway_rtt=6.8ms internet=OK internet_rtt=15.0ms gateway_error=none internet_error=none
+[2026-09-09 10:24:05] gateway=OK gateway_rtt=6.9ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:24:05] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 10:24:15] gateway=OK gateway_rtt=40.9ms internet=OK internet_rtt=26.7ms gateway_error=none internet_error=none
+[2026-09-09 10:24:15] EVENT_END type=INTERNET_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 10:24:20] gateway=OK gateway_rtt=170.1ms internet=OK internet_rtt=200.8ms gateway_error=none internet_error=none
+[2026-09-09 10:24:25] gateway=OK gateway_rtt=6.9ms internet=OK internet_rtt=18.7ms gateway_error=none internet_error=none
+[2026-09-09 10:24:30] gateway=OK gateway_rtt=8.9ms internet=OK internet_rtt=19.6ms gateway_error=none internet_error=none
+[2026-09-09 10:24:36] gateway=OK gateway_rtt=40.3ms internet=OK internet_rtt=28.4ms gateway_error=none internet_error=none
+[2026-09-09 10:24:41] gateway=OK gateway_rtt=8.8ms internet=OK internet_rtt=18.4ms gateway_error=none internet_error=none
+[2026-09-09 10:24:46] gateway=OK gateway_rtt=13.7ms internet=OK internet_rtt=36.3ms gateway_error=none internet_error=none
+[2026-09-09 10:24:51] gateway=OK gateway_rtt=5.5ms internet=OK internet_rtt=15.8ms gateway_error=none internet_error=none
+[2026-09-09 10:24:56] gateway=OK gateway_rtt=720.1ms internet=OK internet_rtt=94.8ms gateway_error=none internet_error=none
+[2026-09-09 10:25:02] gateway=OK gateway_rtt=6.9ms internet=OK internet_rtt=17.5ms gateway_error=none internet_error=none
+[2026-09-09 10:25:07] gateway=OK gateway_rtt=231.7ms internet=OK internet_rtt=327.5ms gateway_error=none internet_error=none
+[2026-09-09 10:25:12] gateway=OK gateway_rtt=4.8ms internet=OK internet_rtt=19.0ms gateway_error=none internet_error=none
+[2026-09-09 10:25:17] gateway=OK gateway_rtt=18.6ms internet=OK internet_rtt=21.7ms gateway_error=none internet_error=none
+[2026-09-09 10:25:22] gateway=OK gateway_rtt=9.1ms internet=OK internet_rtt=18.4ms gateway_error=none internet_error=none
+[2026-09-09 10:25:27] gateway=OK gateway_rtt=1195.1ms internet=OK internet_rtt=108.4ms gateway_error=none internet_error=none
+[2026-09-09 10:25:34] gateway=OK gateway_rtt=45.5ms internet=OK internet_rtt=22.1ms gateway_error=none internet_error=none
+[2026-09-09 10:25:39] gateway=OK gateway_rtt=9.0ms internet=OK internet_rtt=53.3ms gateway_error=none internet_error=none
+[2026-09-09 10:25:44] gateway=OK gateway_rtt=24.2ms internet=OK internet_rtt=40.5ms gateway_error=none internet_error=none
+[2026-09-09 10:25:49] gateway=OK gateway_rtt=50.6ms internet=OK internet_rtt=107.0ms gateway_error=none internet_error=none
+[2026-09-09 10:25:54] gateway=OK gateway_rtt=6.7ms internet=OK internet_rtt=13.8ms gateway_error=none internet_error=none
+[2026-09-09 10:25:59] gateway=OK gateway_rtt=31.5ms internet=OK internet_rtt=36.0ms gateway_error=none internet_error=none
+[2026-09-09 10:26:04] gateway=OK gateway_rtt=17.3ms internet=OK internet_rtt=40.1ms gateway_error=none internet_error=none
+[2026-09-09 10:26:09] gateway=OK gateway_rtt=192.4ms internet=OK internet_rtt=195.3ms gateway_error=none internet_error=none
+[2026-09-09 10:26:15] gateway=OK gateway_rtt=41.4ms internet=OK internet_rtt=27.0ms gateway_error=none internet_error=none
+[2026-09-09 10:26:20] gateway=OK gateway_rtt=786.8ms internet=OK internet_rtt=82.7ms gateway_error=none internet_error=none
+[2026-09-09 10:26:26] gateway=OK gateway_rtt=72.3ms internet=OK internet_rtt=16.8ms gateway_error=none internet_error=none
+[2026-09-09 10:26:31] gateway=OK gateway_rtt=867.7ms internet=OK internet_rtt=635.9ms gateway_error=none internet_error=none
+[2026-09-09 10:26:38] gateway=OK gateway_rtt=14.1ms internet=OK internet_rtt=39.5ms gateway_error=none internet_error=none
+[2026-09-09 10:26:43] gateway=OK gateway_rtt=7.8ms internet=OK internet_rtt=19.5ms gateway_error=none internet_error=none
+[2026-09-09 10:26:48] gateway=OK gateway_rtt=1282.2ms internet=OK internet_rtt=150.7ms gateway_error=none internet_error=none
+[2026-09-09 10:26:54] gateway=OK gateway_rtt=6.7ms internet=OK internet_rtt=22.6ms gateway_error=none internet_error=none
+[2026-09-09 10:26:59] gateway=OK gateway_rtt=6.1ms internet=OK internet_rtt=47.7ms gateway_error=none internet_error=none
+[2026-09-09 10:27:04] gateway=OK gateway_rtt=43.1ms internet=OK internet_rtt=23.3ms gateway_error=none internet_error=none
+[2026-09-09 10:27:09] gateway=OK gateway_rtt=47.2ms internet=OK internet_rtt=35.2ms gateway_error=none internet_error=none
+[2026-09-09 10:27:14] gateway=OK gateway_rtt=31.7ms internet=OK internet_rtt=43.2ms gateway_error=none internet_error=none
+[2026-09-09 10:27:20] gateway=OK gateway_rtt=36.7ms internet=OK internet_rtt=21.1ms gateway_error=none internet_error=none
+[2026-09-09 10:27:25] gateway=OK gateway_rtt=7.7ms internet=OK internet_rtt=46.0ms gateway_error=none internet_error=none
+[2026-09-09 10:27:30] gateway=OK gateway_rtt=9.0ms internet=OK internet_rtt=17.6ms gateway_error=none internet_error=none
+[2026-09-09 10:27:35] gateway=OK gateway_rtt=12.5ms internet=OK internet_rtt=35.2ms gateway_error=none internet_error=none
+[2026-09-09 10:27:40] gateway=OK gateway_rtt=7.9ms internet=OK internet_rtt=17.3ms gateway_error=none internet_error=none
+[2026-09-09 10:27:45] gateway=OK gateway_rtt=7.3ms internet=OK internet_rtt=16.6ms gateway_error=none internet_error=none
+[2026-09-09 10:27:50] gateway=OK gateway_rtt=24.2ms internet=OK internet_rtt=24.5ms gateway_error=none internet_error=none
+[2026-09-09 10:27:55] gateway=OK gateway_rtt=6.4ms internet=OK internet_rtt=23.9ms gateway_error=none internet_error=none
+[2026-09-09 10:28:00] gateway=OK gateway_rtt=5.1ms internet=OK internet_rtt=21.3ms gateway_error=none internet_error=none
+[2026-09-09 10:28:05] gateway=OK gateway_rtt=194.8ms internet=OK internet_rtt=151.9ms gateway_error=none internet_error=none
+[2026-09-09 10:28:10] gateway=OK gateway_rtt=10.0ms internet=OK internet_rtt=16.4ms gateway_error=none internet_error=none
+[2026-09-09 10:28:16] gateway=OK gateway_rtt=5.2ms internet=OK internet_rtt=25.7ms gateway_error=none internet_error=none
+[2026-09-09 10:28:21] gateway=OK gateway_rtt=8.3ms internet=OK internet_rtt=19.8ms gateway_error=none internet_error=none
+[2026-09-09 10:28:26] gateway=OK gateway_rtt=45.6ms internet=OK internet_rtt=12.5ms gateway_error=none internet_error=none
+[2026-09-09 10:28:31] gateway=OK gateway_rtt=8.8ms internet=OK internet_rtt=61.7ms gateway_error=none internet_error=none
+[2026-09-09 10:28:36] gateway=OK gateway_rtt=104.3ms internet=OK internet_rtt=25.1ms gateway_error=none internet_error=none
+[2026-09-09 10:28:41] gateway=OK gateway_rtt=7.2ms internet=OK internet_rtt=22.8ms gateway_error=none internet_error=none
+[2026-09-09 10:28:46] gateway=OK gateway_rtt=44.3ms internet=OK internet_rtt=20.0ms gateway_error=none internet_error=none
+[2026-09-09 10:28:51] gateway=OK gateway_rtt=12.9ms internet=OK internet_rtt=40.5ms gateway_error=none internet_error=none
+[2026-09-09 10:28:56] gateway=OK gateway_rtt=29.6ms internet=OK internet_rtt=22.2ms gateway_error=none internet_error=none
+[2026-09-09 10:29:01] gateway=OK gateway_rtt=20.4ms internet=OK internet_rtt=24.7ms gateway_error=none internet_error=none
+[2026-09-09 10:29:06] gateway=OK gateway_rtt=9.7ms internet=OK internet_rtt=19.8ms gateway_error=none internet_error=none
+[2026-09-09 10:29:11] gateway=OK gateway_rtt=6.7ms internet=OK internet_rtt=18.5ms gateway_error=none internet_error=none
+[2026-09-09 10:29:16] gateway=OK gateway_rtt=11.2ms internet=OK internet_rtt=17.1ms gateway_error=none internet_error=none
+[2026-09-09 10:29:22] gateway=OK gateway_rtt=5.3ms internet=OK internet_rtt=26.9ms gateway_error=none internet_error=none
+[2026-09-09 10:29:27] gateway=OK gateway_rtt=26.9ms internet=OK internet_rtt=39.4ms gateway_error=none internet_error=none
+[2026-09-09 10:29:32] gateway=OK gateway_rtt=17.8ms internet=OK internet_rtt=16.7ms gateway_error=none internet_error=none
+[2026-09-09 10:29:37] gateway=OK gateway_rtt=11.8ms internet=OK internet_rtt=93.0ms gateway_error=none internet_error=none
+[2026-09-09 10:29:42] gateway=OK gateway_rtt=2534.1ms internet=OK internet_rtt=741.0ms gateway_error=none internet_error=none
+[2026-09-09 10:29:50] gateway=OK gateway_rtt=5.9ms internet=OK internet_rtt=19.6ms gateway_error=none internet_error=none
+[2026-09-09 10:29:55] gateway=OK gateway_rtt=8.3ms internet=OK internet_rtt=18.7ms gateway_error=none internet_error=none
+[2026-09-09 10:30:00] gateway=OK gateway_rtt=188.7ms internet=OK internet_rtt=20.8ms gateway_error=none internet_error=none
+[2026-09-09 10:30:06] gateway=OK gateway_rtt=5.0ms internet=OK internet_rtt=23.9ms gateway_error=none internet_error=none
+[2026-09-09 10:30:11] gateway=OK gateway_rtt=10.7ms internet=OK internet_rtt=19.1ms gateway_error=none internet_error=none
+[2026-09-09 10:30:16] gateway=OK gateway_rtt=286.1ms internet=OK internet_rtt=319.5ms gateway_error=none internet_error=none
+[2026-09-09 10:30:21] gateway=OK gateway_rtt=28.5ms internet=OK internet_rtt=20.4ms gateway_error=none internet_error=none
+[2026-09-09 10:30:26] gateway=OK gateway_rtt=10.8ms internet=OK internet_rtt=16.1ms gateway_error=none internet_error=none
+[2026-09-09 10:30:31] gateway=OK gateway_rtt=13.6ms internet=OK internet_rtt=47.0ms gateway_error=none internet_error=none
+[2026-09-09 10:30:37] gateway=OK gateway_rtt=20.8ms internet=OK internet_rtt=18.9ms gateway_error=none internet_error=none
+[2026-09-09 10:30:42] gateway=OK gateway_rtt=7.3ms internet=OK internet_rtt=13.2ms gateway_error=none internet_error=none
+[2026-09-09 10:30:47] gateway=OK gateway_rtt=237.9ms internet=OK internet_rtt=209.5ms gateway_error=none internet_error=none
+[2026-09-09 10:30:52] gateway=OK gateway_rtt=9.2ms internet=OK internet_rtt=20.4ms gateway_error=none internet_error=none
+[2026-09-09 10:30:57] gateway=OK gateway_rtt=7.7ms internet=OK internet_rtt=20.9ms gateway_error=none internet_error=none
+[2026-09-09 10:31:02] gateway=OK gateway_rtt=22.5ms internet=OK internet_rtt=30.0ms gateway_error=none internet_error=none
+[2026-09-09 10:31:07] gateway=OK gateway_rtt=73.4ms internet=OK internet_rtt=15.5ms gateway_error=none internet_error=none
+[2026-09-09 10:31:12] gateway=OK gateway_rtt=5.4ms internet=OK internet_rtt=14.5ms gateway_error=none internet_error=none
+[2026-09-09 10:31:17] gateway=OK gateway_rtt=10.6ms internet=OK internet_rtt=24.2ms gateway_error=none internet_error=none
+[2026-09-09 10:31:22] gateway=OK gateway_rtt=11.5ms internet=OK internet_rtt=20.5ms gateway_error=none internet_error=none
+[2026-09-09 10:31:28] gateway=OK gateway_rtt=9.0ms internet=OK internet_rtt=26.3ms gateway_error=none internet_error=none
+[2026-09-09 10:31:33] gateway=OK gateway_rtt=5.5ms internet=OK internet_rtt=28.6ms gateway_error=none internet_error=none
+[2026-09-09 10:31:38] gateway=OK gateway_rtt=6.4ms internet=OK internet_rtt=22.6ms gateway_error=none internet_error=none
+[2026-09-09 10:31:43] gateway=OK gateway_rtt=10.9ms internet=OK internet_rtt=17.3ms gateway_error=none internet_error=none
+[2026-09-09 10:31:48] gateway=OK gateway_rtt=13.0ms internet=OK internet_rtt=44.2ms gateway_error=none internet_error=none
+[2026-09-09 10:31:53] gateway=OK gateway_rtt=18.6ms internet=OK internet_rtt=20.6ms gateway_error=none internet_error=none
+[2026-09-09 10:31:58] gateway=OK gateway_rtt=8.6ms internet=OK internet_rtt=18.8ms gateway_error=none internet_error=none
+[2026-09-09 10:32:03] gateway=OK gateway_rtt=50.7ms internet=OK internet_rtt=38.4ms gateway_error=none internet_error=none
+[2026-09-09 10:32:08] gateway=OK gateway_rtt=22.5ms internet=OK internet_rtt=24.7ms gateway_error=none internet_error=none
+[2026-09-09 10:32:13] gateway=OK gateway_rtt=27.2ms internet=OK internet_rtt=20.3ms gateway_error=none internet_error=none
+[2026-09-09 10:32:18] gateway=OK gateway_rtt=5.4ms internet=OK internet_rtt=27.3ms gateway_error=none internet_error=none
+[2026-09-09 10:32:23] gateway=OK gateway_rtt=10.6ms internet=OK internet_rtt=49.6ms gateway_error=none internet_error=none
+[2026-09-09 10:32:28] gateway=OK gateway_rtt=10.3ms internet=OK internet_rtt=31.3ms gateway_error=none internet_error=none
+[2026-09-09 10:32:33] gateway=OK gateway_rtt=17.8ms internet=OK internet_rtt=19.6ms gateway_error=none internet_error=none
+[2026-09-09 10:32:39] gateway=OK gateway_rtt=5.8ms internet=OK internet_rtt=70.8ms gateway_error=none internet_error=none
+[2026-09-09 10:32:44] gateway=OK gateway_rtt=7.1ms internet=OK internet_rtt=19.8ms gateway_error=none internet_error=none
+[2026-09-09 10:32:49] gateway=OK gateway_rtt=15.4ms internet=OK internet_rtt=40.8ms gateway_error=none internet_error=none
+[2026-09-09 10:32:54] gateway=OK gateway_rtt=1315.7ms internet=OK internet_rtt=498.1ms gateway_error=none internet_error=none
+[2026-09-09 10:33:01] gateway=OK gateway_rtt=8.6ms internet=OK internet_rtt=16.8ms gateway_error=none internet_error=none
+[2026-09-09 10:33:06] gateway=OK gateway_rtt=36.2ms internet=OK internet_rtt=16.2ms gateway_error=none internet_error=none
+[2026-09-09 10:33:11] gateway=OK gateway_rtt=32.5ms internet=OK internet_rtt=26.2ms gateway_error=none internet_error=none
+[2026-09-09 10:33:16] gateway=OK gateway_rtt=9.1ms internet=OK internet_rtt=37.4ms gateway_error=none internet_error=none
+[2026-09-09 10:33:21] gateway=OK gateway_rtt=6.9ms internet=OK internet_rtt=29.4ms gateway_error=none internet_error=none
+[2026-09-09 10:33:26] gateway=OK gateway_rtt=8.7ms internet=OK internet_rtt=22.6ms gateway_error=none internet_error=none
+[2026-09-09 10:33:31] gateway=OK gateway_rtt=5.3ms internet=OK internet_rtt=19.1ms gateway_error=none internet_error=none
+[2026-09-09 10:33:36] gateway=OK gateway_rtt=8.3ms internet=OK internet_rtt=19.7ms gateway_error=none internet_error=none
+[2026-09-09 10:33:41] gateway=OK gateway_rtt=25.6ms internet=OK internet_rtt=39.5ms gateway_error=none internet_error=none
+[2026-09-09 10:33:46] gateway=OK gateway_rtt=19.8ms internet=OK internet_rtt=22.7ms gateway_error=none internet_error=none
+[2026-09-09 10:33:51] gateway=OK gateway_rtt=29.1ms internet=OK internet_rtt=44.2ms gateway_error=none internet_error=none
+[2026-09-09 10:33:56] gateway=OK gateway_rtt=852.7ms internet=OK internet_rtt=295.4ms gateway_error=none internet_error=none
+[2026-09-09 10:34:03] gateway=OK gateway_rtt=18.3ms internet=OK internet_rtt=59.9ms gateway_error=none internet_error=none
+[2026-09-09 10:34:08] gateway=OK gateway_rtt=7.2ms internet=OK internet_rtt=17.4ms gateway_error=none internet_error=none
+[2026-09-09 10:34:13] gateway=OK gateway_rtt=7.5ms internet=OK internet_rtt=16.6ms gateway_error=none internet_error=none
+[2026-09-09 10:34:18] gateway=OK gateway_rtt=7.2ms internet=OK internet_rtt=21.5ms gateway_error=none internet_error=none
+[2026-09-09 10:34:23] gateway=OK gateway_rtt=14.2ms internet=OK internet_rtt=33.8ms gateway_error=none internet_error=none
+[2026-09-09 10:34:28] gateway=OK gateway_rtt=7.4ms internet=OK internet_rtt=11.6ms gateway_error=none internet_error=none
+[2026-09-09 10:34:33] gateway=OK gateway_rtt=4.8ms internet=OK internet_rtt=17.6ms gateway_error=none internet_error=none
+[2026-09-09 10:34:38] gateway=OK gateway_rtt=4.5ms internet=OK internet_rtt=21.5ms gateway_error=none internet_error=none
+[2026-09-09 10:34:43] gateway=OK gateway_rtt=8.3ms internet=OK internet_rtt=23.9ms gateway_error=none internet_error=none
+[2026-09-09 10:34:48] gateway=OK gateway_rtt=7.1ms internet=OK internet_rtt=19.7ms gateway_error=none internet_error=none
+[2026-09-09 10:34:53] gateway=OK gateway_rtt=10.7ms internet=OK internet_rtt=20.3ms gateway_error=none internet_error=none
+[2026-09-09 10:34:58] gateway=OK gateway_rtt=23.5ms internet=OK internet_rtt=15.9ms gateway_error=none internet_error=none
+[2026-09-09 10:35:03] gateway=OK gateway_rtt=9.1ms internet=OK internet_rtt=18.1ms gateway_error=none internet_error=none
+[2026-09-09 10:35:08] gateway=OK gateway_rtt=7.2ms internet=OK internet_rtt=20.2ms gateway_error=none internet_error=none
+[2026-09-09 10:35:13] gateway=OK gateway_rtt=7.1ms internet=OK internet_rtt=18.1ms gateway_error=none internet_error=none
+[2026-09-09 10:35:18] gateway=OK gateway_rtt=7.4ms internet=OK internet_rtt=24.0ms gateway_error=none internet_error=none
+[2026-09-09 10:35:23] gateway=OK gateway_rtt=11.9ms internet=OK internet_rtt=17.5ms gateway_error=none internet_error=none
+[2026-09-09 10:35:29] gateway=OK gateway_rtt=12.2ms internet=OK internet_rtt=17.3ms gateway_error=none internet_error=none
+[2026-09-09 10:35:34] gateway=OK gateway_rtt=508.0ms internet=OK internet_rtt=508.6ms gateway_error=none internet_error=none
+[2026-09-09 10:35:40] gateway=OK gateway_rtt=9.5ms internet=OK internet_rtt=23.8ms gateway_error=none internet_error=none
+[2026-09-09 10:35:45] gateway=OK gateway_rtt=16.2ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:35:45] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 10:35:55] gateway=OK gateway_rtt=93.8ms internet=OK internet_rtt=47.1ms gateway_error=none internet_error=none
+[2026-09-09 10:35:55] EVENT_END type=INTERNET_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 10:36:00] gateway=OK gateway_rtt=1091.8ms internet=OK internet_rtt=209.2ms gateway_error=none internet_error=none
+[2026-09-09 10:36:06] gateway=OK gateway_rtt=341.8ms internet=OK internet_rtt=34.4ms gateway_error=none internet_error=none
+[2026-09-09 10:36:12] gateway=OK gateway_rtt=20.9ms internet=OK internet_rtt=18.6ms gateway_error=none internet_error=none
+[2026-09-09 10:36:17] gateway=OK gateway_rtt=41.3ms internet=OK internet_rtt=17.1ms gateway_error=none internet_error=none
+[2026-09-09 10:36:22] gateway=OK gateway_rtt=5.6ms internet=OK internet_rtt=27.1ms gateway_error=none internet_error=none
+[2026-09-09 10:36:27] gateway=OK gateway_rtt=10.9ms internet=OK internet_rtt=19.6ms gateway_error=none internet_error=none
+[2026-09-09 10:36:32] gateway=OK gateway_rtt=109.3ms internet=OK internet_rtt=74.2ms gateway_error=none internet_error=none
+[2026-09-09 10:36:37] gateway=OK gateway_rtt=713.8ms internet=OK internet_rtt=705.1ms gateway_error=none internet_error=none
+[2026-09-09 10:36:44] gateway=OK gateway_rtt=172.2ms internet=OK internet_rtt=35.5ms gateway_error=none internet_error=none
+[2026-09-09 10:36:49] gateway=OK gateway_rtt=18.2ms internet=OK internet_rtt=48.6ms gateway_error=none internet_error=none
+[2026-09-09 10:36:54] gateway=OK gateway_rtt=34.4ms internet=OK internet_rtt=21.2ms gateway_error=none internet_error=none
+[2026-09-09 10:36:59] gateway=OK gateway_rtt=31.5ms internet=OK internet_rtt=56.8ms gateway_error=none internet_error=none
+[2026-09-09 10:37:04] gateway=OK gateway_rtt=806.4ms internet=OK internet_rtt=1407.1ms gateway_error=none internet_error=none
+[2026-09-09 10:37:11] gateway=OK gateway_rtt=209.3ms internet=OK internet_rtt=417.3ms gateway_error=none internet_error=none
+[2026-09-09 10:37:17] gateway=OK gateway_rtt=416.7ms internet=OK internet_rtt=188.9ms gateway_error=none internet_error=none
+[2026-09-09 10:37:23] gateway=OK gateway_rtt=11.8ms internet=OK internet_rtt=26.0ms gateway_error=none internet_error=none
+[2026-09-09 10:37:28] gateway=OK gateway_rtt=4.9ms internet=OK internet_rtt=19.5ms gateway_error=none internet_error=none
+[2026-09-09 10:37:33] gateway=OK gateway_rtt=7.6ms internet=OK internet_rtt=18.7ms gateway_error=none internet_error=none
+[2026-09-09 10:37:38] gateway=OK gateway_rtt=14.1ms internet=OK internet_rtt=26.3ms gateway_error=none internet_error=none
+[2026-09-09 10:37:43] gateway=OK gateway_rtt=14.2ms internet=OK internet_rtt=17.9ms gateway_error=none internet_error=none
+[2026-09-09 10:37:48] gateway=OK gateway_rtt=5.8ms internet=OK internet_rtt=16.5ms gateway_error=none internet_error=none
+[2026-09-09 10:37:53] gateway=OK gateway_rtt=6.5ms internet=OK internet_rtt=15.9ms gateway_error=none internet_error=none
+[2026-09-09 10:37:58] gateway=OK gateway_rtt=5.1ms internet=OK internet_rtt=21.1ms gateway_error=none internet_error=none
+[2026-09-09 10:38:03] gateway=OK gateway_rtt=9.2ms internet=OK internet_rtt=17.2ms gateway_error=none internet_error=none
+[2026-09-09 10:38:08] gateway=OK gateway_rtt=7.1ms internet=OK internet_rtt=18.5ms gateway_error=none internet_error=none
+[2026-09-09 10:38:13] gateway=OK gateway_rtt=15.0ms internet=OK internet_rtt=18.4ms gateway_error=none internet_error=none
+[2026-09-09 10:38:18] gateway=OK gateway_rtt=11.8ms internet=OK internet_rtt=43.8ms gateway_error=none internet_error=none
+[2026-09-09 10:38:23] gateway=OK gateway_rtt=9.6ms internet=OK internet_rtt=19.5ms gateway_error=none internet_error=none
+[2026-09-09 10:38:28] gateway=OK gateway_rtt=6.9ms internet=OK internet_rtt=23.7ms gateway_error=none internet_error=none
+[2026-09-09 10:38:33] gateway=OK gateway_rtt=6.1ms internet=OK internet_rtt=17.3ms gateway_error=none internet_error=none
+[2026-09-09 10:38:39] gateway=OK gateway_rtt=7.3ms internet=OK internet_rtt=19.1ms gateway_error=none internet_error=none
+[2026-09-09 10:38:44] gateway=OK gateway_rtt=6.3ms internet=OK internet_rtt=16.4ms gateway_error=none internet_error=none
+[2026-09-09 10:38:49] gateway=OK gateway_rtt=9.3ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:38:49] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 10:38:59] gateway=OK gateway_rtt=5.5ms internet=OK internet_rtt=17.2ms gateway_error=none internet_error=none
+[2026-09-09 10:38:59] EVENT_END type=INTERNET_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 10:39:04] gateway=OK gateway_rtt=5.3ms internet=OK internet_rtt=19.0ms gateway_error=none internet_error=none
+[2026-09-09 10:39:09] gateway=OK gateway_rtt=11.5ms internet=OK internet_rtt=19.7ms gateway_error=none internet_error=none
+[2026-09-09 10:39:14] gateway=OK gateway_rtt=11.7ms internet=OK internet_rtt=16.4ms gateway_error=none internet_error=none
+[2026-09-09 10:39:19] gateway=OK gateway_rtt=6.4ms internet=OK internet_rtt=18.9ms gateway_error=none internet_error=none
+[2026-09-09 10:39:24] gateway=OK gateway_rtt=8.7ms internet=OK internet_rtt=15.7ms gateway_error=none internet_error=none
+[2026-09-09 10:39:29] gateway=OK gateway_rtt=4.4ms internet=OK internet_rtt=18.0ms gateway_error=none internet_error=none
+[2026-09-09 10:39:34] gateway=OK gateway_rtt=24.3ms internet=OK internet_rtt=53.1ms gateway_error=none internet_error=none
+[2026-09-09 10:39:39] gateway=OK gateway_rtt=74.1ms internet=OK internet_rtt=25.7ms gateway_error=none internet_error=none
+[2026-09-09 10:39:44] gateway=OK gateway_rtt=39.4ms internet=OK internet_rtt=33.8ms gateway_error=none internet_error=none
+[2026-09-09 10:39:49] gateway=OK gateway_rtt=91.4ms internet=OK internet_rtt=13.2ms gateway_error=none internet_error=none
+[2026-09-09 10:39:54] gateway=OK gateway_rtt=27.8ms internet=OK internet_rtt=12.1ms gateway_error=none internet_error=none
+[2026-09-09 10:40:00] gateway=OK gateway_rtt=6.8ms internet=OK internet_rtt=53.9ms gateway_error=none internet_error=none
+[2026-09-09 10:40:05] gateway=OK gateway_rtt=7.7ms internet=OK internet_rtt=19.1ms gateway_error=none internet_error=none
+[2026-09-09 10:40:10] gateway=OK gateway_rtt=5.7ms internet=OK internet_rtt=20.2ms gateway_error=none internet_error=none
+[2026-09-09 10:40:15] gateway=OK gateway_rtt=436.0ms internet=OK internet_rtt=558.3ms gateway_error=none internet_error=none
+[2026-09-09 10:40:21] gateway=OK gateway_rtt=1668.3ms internet=OK internet_rtt=340.6ms gateway_error=none internet_error=none
+[2026-09-09 10:40:28] gateway=OK gateway_rtt=106.0ms internet=OK internet_rtt=65.3ms gateway_error=none internet_error=none
+[2026-09-09 10:40:33] gateway=OK gateway_rtt=119.4ms internet=OK internet_rtt=55.5ms gateway_error=none internet_error=none
+[2026-09-09 10:40:38] gateway=OK gateway_rtt=7.3ms internet=OK internet_rtt=18.6ms gateway_error=none internet_error=none
+[2026-09-09 10:40:43] gateway=OK gateway_rtt=10.5ms internet=OK internet_rtt=20.7ms gateway_error=none internet_error=none
+[2026-09-09 10:40:48] gateway=OK gateway_rtt=10.7ms internet=OK internet_rtt=82.8ms gateway_error=none internet_error=none
+[2026-09-09 10:40:53] gateway=OK gateway_rtt=202.7ms internet=OK internet_rtt=107.8ms gateway_error=none internet_error=none
+[2026-09-09 10:40:59] gateway=OK gateway_rtt=9.0ms internet=OK internet_rtt=21.1ms gateway_error=none internet_error=none
+[2026-09-09 10:41:04] gateway=OK gateway_rtt=5.4ms internet=OK internet_rtt=30.7ms gateway_error=none internet_error=none
+[2026-09-09 10:41:09] gateway=OK gateway_rtt=7.0ms internet=OK internet_rtt=17.1ms gateway_error=none internet_error=none
+[2026-09-09 10:41:14] gateway=OK gateway_rtt=6.0ms internet=OK internet_rtt=18.8ms gateway_error=none internet_error=none
+[2026-09-09 10:41:19] gateway=OK gateway_rtt=26.5ms internet=OK internet_rtt=21.8ms gateway_error=none internet_error=none
+[2026-09-09 10:41:24] gateway=OK gateway_rtt=9.1ms internet=OK internet_rtt=18.6ms gateway_error=none internet_error=none
+[2026-09-09 10:41:29] gateway=OK gateway_rtt=6.6ms internet=OK internet_rtt=20.1ms gateway_error=none internet_error=none
+[2026-09-09 10:41:34] gateway=OK gateway_rtt=6.6ms internet=OK internet_rtt=18.4ms gateway_error=none internet_error=none
+[2026-09-09 10:41:39] gateway=OK gateway_rtt=92.8ms internet=OK internet_rtt=13.6ms gateway_error=none internet_error=none
+[2026-09-09 10:41:44] gateway=OK gateway_rtt=12.1ms internet=OK internet_rtt=24.6ms gateway_error=none internet_error=none
+[2026-09-09 10:41:49] gateway=OK gateway_rtt=16.8ms internet=OK internet_rtt=29.8ms gateway_error=none internet_error=none
+[2026-09-09 10:41:54] gateway=OK gateway_rtt=8.4ms internet=OK internet_rtt=166.1ms gateway_error=none internet_error=none
+[2026-09-09 10:42:00] gateway=OK gateway_rtt=11.2ms internet=OK internet_rtt=26.6ms gateway_error=none internet_error=none
+[2026-09-09 10:42:05] gateway=OK gateway_rtt=47.6ms internet=OK internet_rtt=38.3ms gateway_error=none internet_error=none
+[2026-09-09 10:42:10] gateway=OK gateway_rtt=11.3ms internet=OK internet_rtt=19.9ms gateway_error=none internet_error=none
+[2026-09-09 10:42:15] gateway=OK gateway_rtt=132.7ms internet=OK internet_rtt=39.8ms gateway_error=none internet_error=none
+[2026-09-09 10:42:20] gateway=OK gateway_rtt=328.8ms internet=OK internet_rtt=24.6ms gateway_error=none internet_error=none
+[2026-09-09 10:42:25] gateway=OK gateway_rtt=914.3ms internet=OK internet_rtt=912.1ms gateway_error=none internet_error=none
+[2026-09-09 10:42:32] gateway=OK gateway_rtt=1138.7ms internet=OK internet_rtt=196.3ms gateway_error=none internet_error=none
+[2026-09-09 10:42:39] gateway=OK gateway_rtt=9.3ms internet=OK internet_rtt=194.4ms gateway_error=none internet_error=none
+[2026-09-09 10:42:44] gateway=OK gateway_rtt=18.8ms internet=OK internet_rtt=45.4ms gateway_error=none internet_error=none
+[2026-09-09 10:42:49] gateway=OK gateway_rtt=364.2ms internet=OK internet_rtt=59.9ms gateway_error=none internet_error=none
+[2026-09-09 10:42:54] gateway=OK gateway_rtt=21.5ms internet=OK internet_rtt=12.5ms gateway_error=none internet_error=none
+[2026-09-09 10:43:00] gateway=OK gateway_rtt=6.8ms internet=OK internet_rtt=14.5ms gateway_error=none internet_error=none
+[2026-09-09 10:43:05] gateway=OK gateway_rtt=7.7ms internet=OK internet_rtt=136.1ms gateway_error=none internet_error=none
+[2026-09-09 10:43:10] gateway=OK gateway_rtt=41.5ms internet=OK internet_rtt=21.9ms gateway_error=none internet_error=none
+[2026-09-09 10:43:15] gateway=OK gateway_rtt=130.9ms internet=OK internet_rtt=25.0ms gateway_error=none internet_error=none
+[2026-09-09 10:43:20] gateway=OK gateway_rtt=480.7ms internet=OK internet_rtt=120.6ms gateway_error=none internet_error=none
+[2026-09-09 10:43:26] gateway=OK gateway_rtt=32.8ms internet=OK internet_rtt=26.8ms gateway_error=none internet_error=none
+[2026-09-09 10:43:31] gateway=OK gateway_rtt=32.6ms internet=OK internet_rtt=44.2ms gateway_error=none internet_error=none
+[2026-09-09 10:43:36] gateway=OK gateway_rtt=24.9ms internet=OK internet_rtt=18.4ms gateway_error=none internet_error=none
+[2026-09-09 10:43:41] gateway=OK gateway_rtt=5.9ms internet=OK internet_rtt=33.8ms gateway_error=none internet_error=none
+[2026-09-09 10:43:46] gateway=OK gateway_rtt=18.3ms internet=OK internet_rtt=14.7ms gateway_error=none internet_error=none
+[2026-09-09 10:43:51] gateway=OK gateway_rtt=70.5ms internet=OK internet_rtt=64.9ms gateway_error=none internet_error=none
+[2026-09-09 10:43:56] gateway=OK gateway_rtt=19.5ms internet=OK internet_rtt=54.7ms gateway_error=none internet_error=none
+[2026-09-09 10:44:01] gateway=OK gateway_rtt=196.0ms internet=OK internet_rtt=15.7ms gateway_error=none internet_error=none
+[2026-09-09 10:44:07] gateway=OK gateway_rtt=91.2ms internet=OK internet_rtt=46.7ms gateway_error=none internet_error=none
+[2026-09-09 10:44:12] gateway=OK gateway_rtt=22.5ms internet=OK internet_rtt=31.9ms gateway_error=none internet_error=none
+[2026-09-09 10:44:17] gateway=OK gateway_rtt=10.3ms internet=OK internet_rtt=37.8ms gateway_error=none internet_error=none
+[2026-09-09 10:44:22] gateway=OK gateway_rtt=24.2ms internet=OK internet_rtt=23.3ms gateway_error=none internet_error=none
+[2026-09-09 10:44:27] gateway=OK gateway_rtt=71.8ms internet=OK internet_rtt=27.5ms gateway_error=none internet_error=none
+[2026-09-09 10:44:32] gateway=OK gateway_rtt=627.9ms internet=OK internet_rtt=1842.1ms gateway_error=none internet_error=none
+[2026-09-09 10:44:40] gateway=OK gateway_rtt=10.1ms internet=OK internet_rtt=19.0ms gateway_error=none internet_error=none
+[2026-09-09 10:44:45] gateway=OK gateway_rtt=361.2ms internet=OK internet_rtt=97.1ms gateway_error=none internet_error=none
+[2026-09-09 10:44:50] gateway=OK gateway_rtt=56.3ms internet=OK internet_rtt=70.4ms gateway_error=none internet_error=none
+[2026-09-09 10:44:55] gateway=OK gateway_rtt=41.1ms internet=OK internet_rtt=43.1ms gateway_error=none internet_error=none
+[2026-09-09 10:45:01] gateway=OK gateway_rtt=4.6ms internet=OK internet_rtt=19.1ms gateway_error=none internet_error=none
+[2026-09-09 10:45:06] gateway=OK gateway_rtt=29.7ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:45:06] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 10:45:16] gateway=OK gateway_rtt=84.4ms internet=OK internet_rtt=40.2ms gateway_error=none internet_error=none
+[2026-09-09 10:45:16] EVENT_END type=INTERNET_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 10:45:21] gateway=OK gateway_rtt=142.3ms internet=OK internet_rtt=16.4ms gateway_error=none internet_error=none
+[2026-09-09 10:45:26] gateway=OK gateway_rtt=21.6ms internet=OK internet_rtt=19.2ms gateway_error=none internet_error=none
+[2026-09-09 10:45:31] gateway=OK gateway_rtt=136.7ms internet=OK internet_rtt=68.4ms gateway_error=none internet_error=none
+[2026-09-09 10:45:36] gateway=OK gateway_rtt=10.5ms internet=OK internet_rtt=206.2ms gateway_error=none internet_error=none
+[2026-09-09 10:45:42] gateway=OK gateway_rtt=29.6ms internet=OK internet_rtt=19.3ms gateway_error=none internet_error=none
+[2026-09-09 10:45:47] gateway=OK gateway_rtt=85.1ms internet=OK internet_rtt=92.9ms gateway_error=none internet_error=none
+[2026-09-09 10:45:52] gateway=OK gateway_rtt=5.4ms internet=OK internet_rtt=20.9ms gateway_error=none internet_error=none
+[2026-09-09 10:45:57] gateway=OK gateway_rtt=62.2ms internet=OK internet_rtt=86.5ms gateway_error=none internet_error=none
+[2026-09-09 10:46:02] gateway=OK gateway_rtt=468.4ms internet=OK internet_rtt=15.7ms gateway_error=none internet_error=none
+[2026-09-09 10:46:08] gateway=OK gateway_rtt=134.6ms internet=OK internet_rtt=161.1ms gateway_error=none internet_error=none
+[2026-09-09 10:46:13] gateway=OK gateway_rtt=18.9ms internet=OK internet_rtt=36.1ms gateway_error=none internet_error=none
+[2026-09-09 10:46:18] gateway=OK gateway_rtt=71.0ms internet=OK internet_rtt=252.9ms gateway_error=none internet_error=none
+[2026-09-09 10:46:23] gateway=OK gateway_rtt=7.6ms internet=OK internet_rtt=24.0ms gateway_error=none internet_error=none
+[2026-09-09 10:46:28] gateway=OK gateway_rtt=5.6ms internet=OK internet_rtt=29.0ms gateway_error=none internet_error=none
+[2026-09-09 10:46:33] gateway=OK gateway_rtt=6.2ms internet=OK internet_rtt=19.3ms gateway_error=none internet_error=none
+[2026-09-09 10:46:38] gateway=OK gateway_rtt=26.4ms internet=OK internet_rtt=25.2ms gateway_error=none internet_error=none
+[2026-09-09 10:46:44] gateway=OK gateway_rtt=5.8ms internet=OK internet_rtt=26.1ms gateway_error=none internet_error=none
+[2026-09-09 10:46:49] gateway=OK gateway_rtt=12.5ms internet=OK internet_rtt=18.6ms gateway_error=none internet_error=none
+[2026-09-09 10:46:54] gateway=OK gateway_rtt=5.2ms internet=OK internet_rtt=19.0ms gateway_error=none internet_error=none
+[2026-09-09 10:46:59] gateway=OK gateway_rtt=14.5ms internet=OK internet_rtt=20.1ms gateway_error=none internet_error=none
+[2026-09-09 10:47:04] gateway=OK gateway_rtt=30.1ms internet=OK internet_rtt=18.2ms gateway_error=none internet_error=none
+[2026-09-09 10:47:09] gateway=OK gateway_rtt=43.1ms internet=OK internet_rtt=31.5ms gateway_error=none internet_error=none
+[2026-09-09 10:47:14] gateway=OK gateway_rtt=3317.2ms internet=OK internet_rtt=946.2ms gateway_error=none internet_error=none
+[2026-09-09 10:47:23] gateway=OK gateway_rtt=29.9ms internet=OK internet_rtt=19.4ms gateway_error=none internet_error=none
+[2026-09-09 10:47:28] gateway=OK gateway_rtt=8.0ms internet=OK internet_rtt=17.8ms gateway_error=none internet_error=none
+[2026-09-09 10:47:33] gateway=OK gateway_rtt=7.0ms internet=OK internet_rtt=18.3ms gateway_error=none internet_error=none
+[2026-09-09 10:47:38] gateway=OK gateway_rtt=6.9ms internet=OK internet_rtt=26.3ms gateway_error=none internet_error=none
+[2026-09-09 10:47:43] gateway=OK gateway_rtt=7.3ms internet=OK internet_rtt=24.2ms gateway_error=none internet_error=none
+[2026-09-09 10:47:49] gateway=OK gateway_rtt=8.4ms internet=OK internet_rtt=21.1ms gateway_error=none internet_error=none
+[2026-09-09 10:47:54] gateway=OK gateway_rtt=15.6ms internet=OK internet_rtt=45.2ms gateway_error=none internet_error=none
+[2026-09-09 10:47:59] gateway=OK gateway_rtt=9.0ms internet=OK internet_rtt=15.7ms gateway_error=none internet_error=none
+[2026-09-09 10:48:04] gateway=OK gateway_rtt=39.5ms internet=OK internet_rtt=17.8ms gateway_error=none internet_error=none
+[2026-09-09 10:48:09] gateway=OK gateway_rtt=6.0ms internet=OK internet_rtt=20.2ms gateway_error=none internet_error=none
+[2026-09-09 10:48:14] gateway=OK gateway_rtt=9.9ms internet=OK internet_rtt=18.6ms gateway_error=none internet_error=none
+[2026-09-09 10:48:19] gateway=OK gateway_rtt=8.3ms internet=OK internet_rtt=16.4ms gateway_error=none internet_error=none
+[2026-09-09 10:48:24] gateway=OK gateway_rtt=6.5ms internet=OK internet_rtt=19.7ms gateway_error=none internet_error=none
+[2026-09-09 10:48:29] gateway=OK gateway_rtt=8.5ms internet=OK internet_rtt=24.3ms gateway_error=none internet_error=none
+[2026-09-09 10:48:34] gateway=OK gateway_rtt=11.4ms internet=OK internet_rtt=19.9ms gateway_error=none internet_error=none
+[2026-09-09 10:48:39] gateway=OK gateway_rtt=6.6ms internet=OK internet_rtt=13.4ms gateway_error=none internet_error=none
+[2026-09-09 10:48:44] gateway=OK gateway_rtt=7.0ms internet=OK internet_rtt=17.8ms gateway_error=none internet_error=none
+[2026-09-09 10:48:49] gateway=OK gateway_rtt=7.0ms internet=OK internet_rtt=19.2ms gateway_error=none internet_error=none
+[2026-09-09 10:48:54] gateway=OK gateway_rtt=23.6ms internet=OK internet_rtt=20.7ms gateway_error=none internet_error=none
+[2026-09-09 10:48:59] gateway=OK gateway_rtt=6.8ms internet=OK internet_rtt=30.1ms gateway_error=none internet_error=none
+[2026-09-09 10:49:04] gateway=OK gateway_rtt=7.5ms internet=OK internet_rtt=21.0ms gateway_error=none internet_error=none
+[2026-09-09 10:49:10] gateway=OK gateway_rtt=5.2ms internet=OK internet_rtt=23.9ms gateway_error=none internet_error=none
+[2026-09-09 10:49:15] gateway=OK gateway_rtt=38.7ms internet=OK internet_rtt=17.0ms gateway_error=none internet_error=none
+[2026-09-09 10:49:20] gateway=OK gateway_rtt=9.0ms internet=OK internet_rtt=44.4ms gateway_error=none internet_error=none
+[2026-09-09 10:49:25] gateway=OK gateway_rtt=55.9ms internet=OK internet_rtt=27.3ms gateway_error=none internet_error=none
+[2026-09-09 10:49:30] gateway=OK gateway_rtt=28.5ms internet=OK internet_rtt=59.5ms gateway_error=none internet_error=none
+[2026-09-09 10:49:35] gateway=OK gateway_rtt=6.1ms internet=OK internet_rtt=20.9ms gateway_error=none internet_error=none
+[2026-09-09 10:49:40] gateway=OK gateway_rtt=5.3ms internet=OK internet_rtt=20.0ms gateway_error=none internet_error=none
+[2026-09-09 10:49:45] gateway=OK gateway_rtt=7.6ms internet=OK internet_rtt=18.3ms gateway_error=none internet_error=none
+[2026-09-09 10:49:50] gateway=OK gateway_rtt=6.3ms internet=OK internet_rtt=18.4ms gateway_error=none internet_error=none
+[2026-09-09 10:49:55] gateway=OK gateway_rtt=16.4ms internet=OK internet_rtt=18.6ms gateway_error=none internet_error=none
+[2026-09-09 10:50:00] gateway=OK gateway_rtt=9.0ms internet=OK internet_rtt=17.0ms gateway_error=none internet_error=none
+[2026-09-09 10:50:05] gateway=OK gateway_rtt=6.5ms internet=OK internet_rtt=66.3ms gateway_error=none internet_error=none
+[2026-09-09 10:50:10] gateway=OK gateway_rtt=11.3ms internet=OK internet_rtt=61.7ms gateway_error=none internet_error=none
+[2026-09-09 10:50:15] gateway=OK gateway_rtt=7.8ms internet=OK internet_rtt=33.8ms gateway_error=none internet_error=none
+[2026-09-09 10:50:21] gateway=OK gateway_rtt=9.1ms internet=OK internet_rtt=16.5ms gateway_error=none internet_error=none
+[2026-09-09 10:50:26] gateway=OK gateway_rtt=8.6ms internet=OK internet_rtt=17.9ms gateway_error=none internet_error=none
+[2026-09-09 10:50:31] gateway=OK gateway_rtt=8.6ms internet=OK internet_rtt=41.6ms gateway_error=none internet_error=none
+[2026-09-09 10:50:36] gateway=OK gateway_rtt=6.6ms internet=OK internet_rtt=25.3ms gateway_error=none internet_error=none
+[2026-09-09 10:50:41] gateway=OK gateway_rtt=8.3ms internet=OK internet_rtt=16.2ms gateway_error=none internet_error=none
+[2026-09-09 10:50:46] gateway=OK gateway_rtt=8.3ms internet=OK internet_rtt=60.1ms gateway_error=none internet_error=none
+[2026-09-09 10:50:51] gateway=OK gateway_rtt=10.5ms internet=OK internet_rtt=16.4ms gateway_error=none internet_error=none
+[2026-09-09 10:50:56] gateway=OK gateway_rtt=7.6ms internet=OK internet_rtt=17.6ms gateway_error=none internet_error=none
+[2026-09-09 10:51:01] gateway=OK gateway_rtt=6.4ms internet=OK internet_rtt=17.5ms gateway_error=none internet_error=none
+[2026-09-09 10:51:06] gateway=OK gateway_rtt=8.2ms internet=OK internet_rtt=17.0ms gateway_error=none internet_error=none
+[2026-09-09 10:51:11] gateway=OK gateway_rtt=6.7ms internet=OK internet_rtt=19.9ms gateway_error=none internet_error=none
+[2026-09-09 10:51:16] gateway=OK gateway_rtt=6.1ms internet=OK internet_rtt=19.5ms gateway_error=none internet_error=none
+[2026-09-09 10:51:21] gateway=OK gateway_rtt=6.1ms internet=OK internet_rtt=53.0ms gateway_error=none internet_error=none
+[2026-09-09 10:51:26] gateway=OK gateway_rtt=6.9ms internet=OK internet_rtt=11.5ms gateway_error=none internet_error=none
+[2026-09-09 10:51:31] gateway=OK gateway_rtt=283.6ms internet=OK internet_rtt=55.4ms gateway_error=none internet_error=none
+[2026-09-09 10:51:37] gateway=OK gateway_rtt=416.3ms internet=OK internet_rtt=253.9ms gateway_error=none internet_error=none
+[2026-09-09 10:51:42] gateway=OK gateway_rtt=18.3ms internet=OK internet_rtt=24.1ms gateway_error=none internet_error=none
+[2026-09-09 10:51:48] gateway=OK gateway_rtt=9.3ms internet=OK internet_rtt=21.8ms gateway_error=none internet_error=none
+[2026-09-09 10:51:53] gateway=OK gateway_rtt=5.9ms internet=OK internet_rtt=22.5ms gateway_error=none internet_error=none
+[2026-09-09 10:51:58] gateway=OK gateway_rtt=5.5ms internet=OK internet_rtt=17.0ms gateway_error=none internet_error=none
+[2026-09-09 10:52:03] gateway=OK gateway_rtt=296.8ms internet=OK internet_rtt=18.7ms gateway_error=none internet_error=none
+[2026-09-09 10:52:08] gateway=OK gateway_rtt=10.1ms internet=OK internet_rtt=20.7ms gateway_error=none internet_error=none
+[2026-09-09 10:52:13] gateway=OK gateway_rtt=9.8ms internet=OK internet_rtt=14.2ms gateway_error=none internet_error=none
+[2026-09-09 10:52:18] gateway=OK gateway_rtt=5.3ms internet=OK internet_rtt=15.5ms gateway_error=none internet_error=none
+[2026-09-09 10:52:23] gateway=OK gateway_rtt=8.9ms internet=OK internet_rtt=22.0ms gateway_error=none internet_error=none
+[2026-09-09 10:52:28] gateway=OK gateway_rtt=41.8ms internet=OK internet_rtt=34.5ms gateway_error=none internet_error=none
+[2026-09-09 10:52:33] gateway=OK gateway_rtt=2461.6ms internet=OK internet_rtt=177.8ms gateway_error=none internet_error=none
+[2026-09-09 10:52:41] gateway=OK gateway_rtt=5.1ms internet=OK internet_rtt=17.1ms gateway_error=none internet_error=none
+[2026-09-09 10:52:46] gateway=OK gateway_rtt=7.1ms internet=OK internet_rtt=21.6ms gateway_error=none internet_error=none
+[2026-09-09 10:52:51] gateway=OK gateway_rtt=31.0ms internet=OK internet_rtt=20.8ms gateway_error=none internet_error=none
+[2026-09-09 10:52:56] gateway=OK gateway_rtt=6.4ms internet=OK internet_rtt=18.3ms gateway_error=none internet_error=none
+[2026-09-09 10:53:01] gateway=OK gateway_rtt=11.0ms internet=OK internet_rtt=15.9ms gateway_error=none internet_error=none
+[2026-09-09 10:53:06] gateway=OK gateway_rtt=15.2ms internet=OK internet_rtt=21.4ms gateway_error=none internet_error=none
+[2026-09-09 10:53:11] gateway=OK gateway_rtt=36.2ms internet=OK internet_rtt=18.5ms gateway_error=none internet_error=none
+[2026-09-09 10:53:16] gateway=OK gateway_rtt=5.4ms internet=OK internet_rtt=19.6ms gateway_error=none internet_error=none
+[2026-09-09 10:53:21] gateway=OK gateway_rtt=13.8ms internet=OK internet_rtt=24.2ms gateway_error=none internet_error=none
+[2026-09-09 10:53:27] gateway=OK gateway_rtt=20.6ms internet=OK internet_rtt=22.1ms gateway_error=none internet_error=none
+[2026-09-09 10:53:32] gateway=OK gateway_rtt=7.6ms internet=OK internet_rtt=16.3ms gateway_error=none internet_error=none
+[2026-09-09 10:53:37] gateway=OK gateway_rtt=10.0ms internet=OK internet_rtt=20.8ms gateway_error=none internet_error=none
+[2026-09-09 10:53:42] gateway=OK gateway_rtt=39.0ms internet=OK internet_rtt=23.0ms gateway_error=none internet_error=none
+[2026-09-09 10:53:47] gateway=OK gateway_rtt=8.2ms internet=OK internet_rtt=194.9ms gateway_error=none internet_error=none
+[2026-09-09 10:53:52] gateway=OK gateway_rtt=15.2ms internet=OK internet_rtt=34.0ms gateway_error=none internet_error=none
+[2026-09-09 10:53:57] gateway=OK gateway_rtt=4.9ms internet=OK internet_rtt=19.6ms gateway_error=none internet_error=none
+[2026-09-09 10:54:02] gateway=OK gateway_rtt=10.5ms internet=OK internet_rtt=22.5ms gateway_error=none internet_error=none
+[2026-09-09 10:54:07] gateway=OK gateway_rtt=142.5ms internet=OK internet_rtt=69.1ms gateway_error=none internet_error=none
+[2026-09-09 10:54:12] gateway=OK gateway_rtt=9.2ms internet=OK internet_rtt=21.6ms gateway_error=none internet_error=none
+[2026-09-09 10:54:18] gateway=OK gateway_rtt=5.8ms internet=OK internet_rtt=17.8ms gateway_error=none internet_error=none
+[2026-09-09 10:54:23] gateway=OK gateway_rtt=5.8ms internet=OK internet_rtt=17.2ms gateway_error=none internet_error=none
+[2026-09-09 10:54:28] gateway=OK gateway_rtt=8.4ms internet=OK internet_rtt=12.9ms gateway_error=none internet_error=none
+[2026-09-09 10:54:33] gateway=OK gateway_rtt=18.3ms internet=OK internet_rtt=24.9ms gateway_error=none internet_error=none
+[2026-09-09 10:54:38] gateway=OK gateway_rtt=7.5ms internet=OK internet_rtt=16.7ms gateway_error=none internet_error=none
+[2026-09-09 10:54:43] gateway=OK gateway_rtt=33.8ms internet=OK internet_rtt=22.1ms gateway_error=none internet_error=none
+[2026-09-09 10:54:48] gateway=OK gateway_rtt=10.0ms internet=OK internet_rtt=22.0ms gateway_error=none internet_error=none
+[2026-09-09 10:54:53] gateway=OK gateway_rtt=5.4ms internet=OK internet_rtt=24.7ms gateway_error=none internet_error=none
+[2026-09-09 10:54:58] gateway=OK gateway_rtt=18.9ms internet=OK internet_rtt=19.2ms gateway_error=none internet_error=none
+[2026-09-09 10:55:03] gateway=OK gateway_rtt=5.5ms internet=OK internet_rtt=16.1ms gateway_error=none internet_error=none
+[2026-09-09 10:55:08] gateway=OK gateway_rtt=8.0ms internet=OK internet_rtt=15.1ms gateway_error=none internet_error=none
+[2026-09-09 10:55:13] gateway=OK gateway_rtt=8.3ms internet=OK internet_rtt=17.2ms gateway_error=none internet_error=none
+[2026-09-09 10:55:18] gateway=OK gateway_rtt=5.4ms internet=OK internet_rtt=18.6ms gateway_error=none internet_error=none
+[2026-09-09 10:55:23] gateway=OK gateway_rtt=35.9ms internet=OK internet_rtt=15.5ms gateway_error=none internet_error=none
+[2026-09-09 10:55:28] gateway=OK gateway_rtt=5.5ms internet=OK internet_rtt=20.4ms gateway_error=none internet_error=none
+[2026-09-09 10:55:33] gateway=OK gateway_rtt=5.5ms internet=OK internet_rtt=16.7ms gateway_error=none internet_error=none
+[2026-09-09 10:55:38] gateway=OK gateway_rtt=7.3ms internet=OK internet_rtt=17.9ms gateway_error=none internet_error=none
+[2026-09-09 10:55:44] gateway=OK gateway_rtt=6.6ms internet=OK internet_rtt=18.8ms gateway_error=none internet_error=none
+[2026-09-09 10:55:49] gateway=OK gateway_rtt=5.3ms internet=OK internet_rtt=20.0ms gateway_error=none internet_error=none
+[2026-09-09 10:55:54] gateway=OK gateway_rtt=7.3ms internet=OK internet_rtt=21.4ms gateway_error=none internet_error=none
+[2026-09-09 10:55:59] gateway=OK gateway_rtt=5.6ms internet=OK internet_rtt=20.6ms gateway_error=none internet_error=none
+[2026-09-09 10:56:04] gateway=OK gateway_rtt=32.4ms internet=OK internet_rtt=17.1ms gateway_error=none internet_error=none
+[2026-09-09 10:56:09] gateway=OK gateway_rtt=5.4ms internet=OK internet_rtt=14.2ms gateway_error=none internet_error=none
+[2026-09-09 10:56:14] gateway=OK gateway_rtt=9.9ms internet=OK internet_rtt=16.5ms gateway_error=none internet_error=none
+[2026-09-09 10:56:19] gateway=OK gateway_rtt=107.0ms internet=OK internet_rtt=18.1ms gateway_error=none internet_error=none
+[2026-09-09 10:56:24] gateway=OK gateway_rtt=6.8ms internet=OK internet_rtt=18.2ms gateway_error=none internet_error=none
+[2026-09-09 10:56:29] gateway=OK gateway_rtt=4.4ms internet=OK internet_rtt=18.6ms gateway_error=none internet_error=none
+[2026-09-09 10:56:34] gateway=OK gateway_rtt=5.0ms internet=OK internet_rtt=21.2ms gateway_error=none internet_error=none
+[2026-09-09 10:56:39] gateway=OK gateway_rtt=1374.6ms internet=OK internet_rtt=521.8ms gateway_error=none internet_error=none
+[2026-09-09 10:56:46] gateway=OK gateway_rtt=774.7ms internet=OK internet_rtt=832.8ms gateway_error=none internet_error=none
+[2026-09-09 10:56:53] gateway=OK gateway_rtt=8.5ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:56:53] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 10:57:03] gateway=OK gateway_rtt=201.4ms internet=OK internet_rtt=229.5ms gateway_error=none internet_error=none
+[2026-09-09 10:57:03] EVENT_END type=INTERNET_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 10:57:08] gateway=OK gateway_rtt=7.5ms internet=OK internet_rtt=15.6ms gateway_error=none internet_error=none
+[2026-09-09 10:57:13] gateway=OK gateway_rtt=47.2ms internet=OK internet_rtt=26.7ms gateway_error=none internet_error=none
+[2026-09-09 10:57:18] gateway=OK gateway_rtt=5.4ms internet=OK internet_rtt=20.5ms gateway_error=none internet_error=none
+[2026-09-09 10:57:23] gateway=OK gateway_rtt=7.0ms internet=OK internet_rtt=26.4ms gateway_error=none internet_error=none
+[2026-09-09 10:57:29] gateway=OK gateway_rtt=36.2ms internet=OK internet_rtt=23.9ms gateway_error=none internet_error=none
+[2026-09-09 10:57:34] gateway=OK gateway_rtt=8.3ms internet=OK internet_rtt=17.6ms gateway_error=none internet_error=none
+[2026-09-09 10:57:39] gateway=OK gateway_rtt=67.9ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:57:39] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 10:57:49] gateway=OK gateway_rtt=418.2ms internet=OK internet_rtt=85.1ms gateway_error=none internet_error=none
+[2026-09-09 10:57:49] EVENT_END type=INTERNET_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 10:57:54] gateway=OK gateway_rtt=867.1ms internet=OK internet_rtt=639.2ms gateway_error=none internet_error=none
+[2026-09-09 10:58:01] gateway=OK gateway_rtt=2259.2ms internet=OK internet_rtt=1991.2ms gateway_error=none internet_error=none
+[2026-09-09 10:58:10] gateway=OK gateway_rtt=342.6ms internet=OK internet_rtt=293.6ms gateway_error=none internet_error=none
+[2026-09-09 10:58:16] gateway=OK gateway_rtt=2392.4ms internet=OK internet_rtt=74.7ms gateway_error=none internet_error=none
+[2026-09-09 10:58:23] gateway=OK gateway_rtt=3566.0ms internet=OK internet_rtt=190.5ms gateway_error=none internet_error=none
+[2026-09-09 10:58:32] gateway=OK gateway_rtt=476.3ms internet=OK internet_rtt=476.0ms gateway_error=none internet_error=none
+[2026-09-09 10:58:38] gateway=OK gateway_rtt=465.2ms internet=OK internet_rtt=112.9ms gateway_error=none internet_error=none
+[2026-09-09 10:58:44] gateway=OK gateway_rtt=7.9ms internet=OK internet_rtt=35.4ms gateway_error=none internet_error=none
+[2026-09-09 10:58:49] gateway=OK gateway_rtt=116.4ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:58:49] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 10:58:59] gateway=OK gateway_rtt=13.3ms internet=OK internet_rtt=54.7ms gateway_error=none internet_error=none
+[2026-09-09 10:58:59] EVENT_END type=INTERNET_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 10:59:04] gateway=OK gateway_rtt=11.0ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 10:59:04] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 10:59:14] gateway=OK gateway_rtt=707.7ms internet=OK internet_rtt=593.3ms gateway_error=none internet_error=none
+[2026-09-09 10:59:14] EVENT_END type=INTERNET_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 10:59:20] gateway=OK gateway_rtt=165.3ms internet=OK internet_rtt=188.1ms gateway_error=none internet_error=none
+[2026-09-09 10:59:26] gateway=OK gateway_rtt=7.5ms internet=OK internet_rtt=26.9ms gateway_error=none internet_error=none
+[2026-09-09 10:59:31] gateway=OK gateway_rtt=12.1ms internet=OK internet_rtt=17.9ms gateway_error=none internet_error=none
+[2026-09-09 10:59:36] gateway=OK gateway_rtt=359.1ms internet=OK internet_rtt=97.9ms gateway_error=none internet_error=none
+[2026-09-09 10:59:41] gateway=OK gateway_rtt=241.8ms internet=OK internet_rtt=36.4ms gateway_error=none internet_error=none
+[2026-09-09 10:59:47] gateway=OK gateway_rtt=76.8ms internet=OK internet_rtt=45.7ms gateway_error=none internet_error=none
+[2026-09-09 10:59:52] gateway=OK gateway_rtt=25.6ms internet=OK internet_rtt=29.6ms gateway_error=none internet_error=none
+[2026-09-09 10:59:57] gateway=OK gateway_rtt=1304.8ms internet=OK internet_rtt=1080.3ms gateway_error=none internet_error=none
+[2026-09-09 11:00:04] gateway=OK gateway_rtt=17.3ms internet=OK internet_rtt=44.9ms gateway_error=none internet_error=none
+[2026-09-09 11:00:09] gateway=OK gateway_rtt=437.4ms internet=OK internet_rtt=131.1ms gateway_error=none internet_error=none
+[2026-09-09 11:00:15] gateway=OK gateway_rtt=643.3ms internet=OK internet_rtt=1235.2ms gateway_error=none internet_error=none
+[2026-09-09 11:00:22] gateway=OK gateway_rtt=9.2ms internet=OK internet_rtt=22.7ms gateway_error=none internet_error=none
+[2026-09-09 11:00:27] gateway=OK gateway_rtt=173.4ms internet=OK internet_rtt=24.2ms gateway_error=none internet_error=none
+[2026-09-09 11:00:32] gateway=OK gateway_rtt=4981.3ms internet=OK internet_rtt=1388.5ms gateway_error=none internet_error=none
+[2026-09-09 11:00:44] gateway=OK gateway_rtt=135.9ms internet=OK internet_rtt=68.2ms gateway_error=none internet_error=none
+[2026-09-09 11:00:49] gateway=OK gateway_rtt=383.0ms internet=OK internet_rtt=45.6ms gateway_error=none internet_error=none
+[2026-09-09 11:00:54] gateway=OK gateway_rtt=560.0ms internet=OK internet_rtt=849.8ms gateway_error=none internet_error=none
+[2026-09-09 11:01:01] gateway=OK gateway_rtt=3303.9ms internet=OK internet_rtt=2945.4ms gateway_error=none internet_error=none
+[2026-09-09 11:01:12] gateway=OK gateway_rtt=695.1ms internet=OK internet_rtt=983.6ms gateway_error=none internet_error=none
+[2026-09-09 11:01:19] gateway=OK gateway_rtt=1273.1ms internet=OK internet_rtt=464.3ms gateway_error=none internet_error=none
+[2026-09-09 11:01:25] gateway=OK gateway_rtt=27.0ms internet=OK internet_rtt=23.1ms gateway_error=none internet_error=none
+[2026-09-09 11:01:31] gateway=OK gateway_rtt=855.9ms internet=OK internet_rtt=75.9ms gateway_error=none internet_error=none
+[2026-09-09 11:01:36] gateway=OK gateway_rtt=2582.1ms internet=OK internet_rtt=385.4ms gateway_error=none internet_error=none
+[2026-09-09 11:01:44] gateway=OK gateway_rtt=159.3ms internet=OK internet_rtt=231.7ms gateway_error=none internet_error=none
+[2026-09-09 11:01:50] gateway=OK gateway_rtt=780.4ms internet=OK internet_rtt=920.5ms gateway_error=none internet_error=none
+[2026-09-09 11:01:57] gateway=OK gateway_rtt=2360.9ms internet=OK internet_rtt=1641.1ms gateway_error=none internet_error=none
+[2026-09-09 11:02:06] gateway=FAIL gateway_rtt=N/A internet=OK internet_rtt=1596.0ms gateway_error=ping command timed out internet_error=none
+[2026-09-09 11:02:06] EVENT_START type=GATEWAY_ONLY gateway=FAIL internet=OK
+[2026-09-09 11:02:17] gateway=OK gateway_rtt=1213.3ms internet=OK internet_rtt=596.9ms gateway_error=none internet_error=none
+[2026-09-09 11:02:17] EVENT_END type=GATEWAY_ONLY duration=11s gateway=OK internet=OK
+[2026-09-09 11:02:24] gateway=OK gateway_rtt=985.3ms internet=OK internet_rtt=1892.5ms gateway_error=none internet_error=none
+[2026-09-09 11:02:32] gateway=OK gateway_rtt=404.0ms internet=OK internet_rtt=16.8ms gateway_error=none internet_error=none
+[2026-09-09 11:02:38] gateway=OK gateway_rtt=2389.0ms internet=OK internet_rtt=2664.8ms gateway_error=none internet_error=none
+[2026-09-09 11:02:48] gateway=OK gateway_rtt=14.2ms internet=OK internet_rtt=18.9ms gateway_error=none internet_error=none
+[2026-09-09 11:02:53] gateway=OK gateway_rtt=99.8ms internet=OK internet_rtt=74.1ms gateway_error=none internet_error=none
+[2026-09-09 11:02:58] gateway=OK gateway_rtt=72.4ms internet=OK internet_rtt=48.8ms gateway_error=none internet_error=none
+[2026-09-09 11:03:03] gateway=OK gateway_rtt=112.2ms internet=OK internet_rtt=31.2ms gateway_error=none internet_error=none
+[2026-09-09 11:03:08] gateway=OK gateway_rtt=760.5ms internet=OK internet_rtt=3200.9ms gateway_error=none internet_error=none
+[2026-09-09 11:03:17] gateway=OK gateway_rtt=256.0ms internet=OK internet_rtt=306.3ms gateway_error=none internet_error=none
+[2026-09-09 11:03:23] gateway=OK gateway_rtt=371.4ms internet=OK internet_rtt=146.5ms gateway_error=none internet_error=none
+[2026-09-09 11:03:28] gateway=OK gateway_rtt=22.4ms internet=OK internet_rtt=62.3ms gateway_error=none internet_error=none
+[2026-09-09 11:03:33] gateway=OK gateway_rtt=106.5ms internet=OK internet_rtt=22.5ms gateway_error=none internet_error=none
+[2026-09-09 11:03:39] gateway=OK gateway_rtt=190.5ms internet=OK internet_rtt=430.8ms gateway_error=none internet_error=none
+[2026-09-09 11:03:44] gateway=FAIL gateway_rtt=N/A internet=OK internet_rtt=64.8ms gateway_error=ping command timed out internet_error=none
+[2026-09-09 11:03:44] EVENT_START type=GATEWAY_ONLY gateway=FAIL internet=OK
+[2026-09-09 11:03:54] gateway=OK gateway_rtt=533.2ms internet=OK internet_rtt=399.6ms gateway_error=none internet_error=none
+[2026-09-09 11:03:54] EVENT_END type=GATEWAY_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 11:04:00] gateway=OK gateway_rtt=335.3ms internet=OK internet_rtt=209.7ms gateway_error=none internet_error=none
+[2026-09-09 11:04:06] gateway=OK gateway_rtt=504.8ms internet=OK internet_rtt=127.9ms gateway_error=none internet_error=none
+[2026-09-09 11:04:12] gateway=OK gateway_rtt=213.6ms internet=OK internet_rtt=152.9ms gateway_error=none internet_error=none
+[2026-09-09 11:04:17] gateway=OK gateway_rtt=623.9ms internet=OK internet_rtt=63.8ms gateway_error=none internet_error=none
+[2026-09-09 11:04:23] gateway=OK gateway_rtt=995.4ms internet=OK internet_rtt=1182.2ms gateway_error=none internet_error=none
+[2026-09-09 11:04:30] gateway=OK gateway_rtt=435.3ms internet=OK internet_rtt=721.5ms gateway_error=none internet_error=none
+[2026-09-09 11:04:36] gateway=OK gateway_rtt=407.2ms internet=OK internet_rtt=225.0ms gateway_error=none internet_error=none
+[2026-09-09 11:04:42] gateway=OK gateway_rtt=205.4ms internet=OK internet_rtt=127.9ms gateway_error=none internet_error=none
+[2026-09-09 11:04:47] gateway=OK gateway_rtt=777.7ms internet=OK internet_rtt=340.9ms gateway_error=none internet_error=none
+[2026-09-09 11:04:53] gateway=OK gateway_rtt=79.9ms internet=OK internet_rtt=95.7ms gateway_error=none internet_error=none
+[2026-09-09 11:04:58] gateway=OK gateway_rtt=33.1ms internet=OK internet_rtt=47.6ms gateway_error=none internet_error=none
+[2026-09-09 11:05:04] gateway=OK gateway_rtt=617.9ms internet=OK internet_rtt=179.7ms gateway_error=none internet_error=none
+[2026-09-09 11:05:09] gateway=OK gateway_rtt=300.7ms internet=OK internet_rtt=140.2ms gateway_error=none internet_error=none
+[2026-09-09 11:05:15] gateway=OK gateway_rtt=9.2ms internet=OK internet_rtt=13.3ms gateway_error=none internet_error=none
+[2026-09-09 11:05:20] gateway=OK gateway_rtt=1363.6ms internet=OK internet_rtt=185.0ms gateway_error=none internet_error=none
+[2026-09-09 11:05:26] gateway=OK gateway_rtt=6.6ms internet=OK internet_rtt=19.0ms gateway_error=none internet_error=none
+[2026-09-09 11:05:32] gateway=OK gateway_rtt=570.4ms internet=OK internet_rtt=173.4ms gateway_error=none internet_error=none
+[2026-09-09 11:05:37] gateway=OK gateway_rtt=13.3ms internet=OK internet_rtt=19.2ms gateway_error=none internet_error=none
+[2026-09-09 11:05:42] gateway=OK gateway_rtt=274.4ms internet=OK internet_rtt=192.3ms gateway_error=none internet_error=none
+[2026-09-09 11:05:48] gateway=OK gateway_rtt=2971.4ms internet=OK internet_rtt=2224.0ms gateway_error=none internet_error=none
+[2026-09-09 11:05:58] gateway=OK gateway_rtt=28.7ms internet=OK internet_rtt=42.2ms gateway_error=none internet_error=none
+[2026-09-09 11:06:03] gateway=OK gateway_rtt=5.6ms internet=OK internet_rtt=15.2ms gateway_error=none internet_error=none
+[2026-09-09 11:06:08] gateway=OK gateway_rtt=5.5ms internet=OK internet_rtt=14.0ms gateway_error=none internet_error=none
+[2026-09-09 11:06:13] gateway=OK gateway_rtt=222.6ms internet=OK internet_rtt=284.9ms gateway_error=none internet_error=none
+[2026-09-09 11:06:19] gateway=OK gateway_rtt=91.7ms internet=OK internet_rtt=138.5ms gateway_error=none internet_error=none
+[2026-09-09 11:06:24] gateway=OK gateway_rtt=1078.8ms internet=OK internet_rtt=230.8ms gateway_error=none internet_error=none
+[2026-09-09 11:06:30] gateway=OK gateway_rtt=82.2ms internet=OK internet_rtt=123.6ms gateway_error=none internet_error=none
+[2026-09-09 11:06:36] gateway=OK gateway_rtt=5.4ms internet=OK internet_rtt=16.4ms gateway_error=none internet_error=none
+[2026-09-09 11:06:41] gateway=OK gateway_rtt=780.1ms internet=OK internet_rtt=519.1ms gateway_error=none internet_error=none
+[2026-09-09 11:06:47] gateway=OK gateway_rtt=151.6ms internet=OK internet_rtt=192.6ms gateway_error=none internet_error=none
+[2026-09-09 11:06:52] gateway=OK gateway_rtt=2663.2ms internet=OK internet_rtt=1932.2ms gateway_error=none internet_error=none
+[2026-09-09 11:07:02] gateway=OK gateway_rtt=1039.6ms internet=OK internet_rtt=939.0ms gateway_error=none internet_error=none
+[2026-09-09 11:07:09] gateway=OK gateway_rtt=132.9ms internet=OK internet_rtt=125.2ms gateway_error=none internet_error=none
+[2026-09-09 11:07:14] gateway=OK gateway_rtt=110.2ms internet=OK internet_rtt=163.3ms gateway_error=none internet_error=none
+[2026-09-09 11:07:20] gateway=OK gateway_rtt=5.4ms internet=OK internet_rtt=18.9ms gateway_error=none internet_error=none
+[2026-09-09 11:07:25] gateway=OK gateway_rtt=4221.8ms internet=OK internet_rtt=463.5ms gateway_error=none internet_error=none
+[2026-09-09 11:07:34] gateway=OK gateway_rtt=19.0ms internet=OK internet_rtt=26.6ms gateway_error=none internet_error=none
+[2026-09-09 11:07:39] gateway=OK gateway_rtt=48.8ms internet=OK internet_rtt=35.3ms gateway_error=none internet_error=none
+[2026-09-09 11:07:45] gateway=OK gateway_rtt=387.4ms internet=OK internet_rtt=106.2ms gateway_error=none internet_error=none
+[2026-09-09 11:07:50] gateway=OK gateway_rtt=563.1ms internet=OK internet_rtt=854.6ms gateway_error=none internet_error=none
+[2026-09-09 11:07:57] gateway=OK gateway_rtt=2512.9ms internet=OK internet_rtt=1870.6ms gateway_error=none internet_error=none
+[2026-09-09 11:08:06] gateway=OK gateway_rtt=10.4ms internet=OK internet_rtt=25.1ms gateway_error=none internet_error=none
+[2026-09-09 11:08:11] gateway=OK gateway_rtt=269.7ms internet=OK internet_rtt=275.4ms gateway_error=none internet_error=none
+[2026-09-09 11:08:17] gateway=OK gateway_rtt=27.9ms internet=OK internet_rtt=33.3ms gateway_error=none internet_error=none
+[2026-09-09 11:08:22] gateway=OK gateway_rtt=1963.7ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 11:08:22] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 11:08:34] gateway=OK gateway_rtt=1738.1ms internet=OK internet_rtt=154.9ms gateway_error=none internet_error=none
+[2026-09-09 11:08:34] EVENT_END type=INTERNET_ONLY duration=11s gateway=OK internet=OK
+[2026-09-09 11:08:41] gateway=OK gateway_rtt=22.1ms internet=OK internet_rtt=67.7ms gateway_error=none internet_error=none
+[2026-09-09 11:08:46] gateway=OK gateway_rtt=292.0ms internet=OK internet_rtt=321.3ms gateway_error=none internet_error=none
+[2026-09-09 11:08:51] gateway=OK gateway_rtt=546.0ms internet=OK internet_rtt=722.3ms gateway_error=none internet_error=none
+[2026-09-09 11:08:58] gateway=OK gateway_rtt=3278.7ms internet=OK internet_rtt=1771.6ms gateway_error=none internet_error=none
+[2026-09-09 11:09:08] gateway=OK gateway_rtt=511.4ms internet=OK internet_rtt=380.8ms gateway_error=none internet_error=none
+[2026-09-09 11:09:14] gateway=OK gateway_rtt=1263.7ms internet=OK internet_rtt=859.2ms gateway_error=none internet_error=none
+[2026-09-09 11:09:21] gateway=OK gateway_rtt=200.4ms internet=OK internet_rtt=199.7ms gateway_error=none internet_error=none
+[2026-09-09 11:09:26] gateway=OK gateway_rtt=347.2ms internet=OK internet_rtt=245.7ms gateway_error=none internet_error=none
+[2026-09-09 11:09:32] gateway=OK gateway_rtt=1442.2ms internet=OK internet_rtt=1083.6ms gateway_error=none internet_error=none
+[2026-09-09 11:09:39] gateway=OK gateway_rtt=364.5ms internet=OK internet_rtt=378.5ms gateway_error=none internet_error=none
+[2026-09-09 11:09:45] gateway=OK gateway_rtt=68.9ms internet=OK internet_rtt=67.3ms gateway_error=none internet_error=none
+[2026-09-09 11:09:50] gateway=OK gateway_rtt=88.0ms internet=OK internet_rtt=98.2ms gateway_error=none internet_error=none
+[2026-09-09 11:09:56] gateway=OK gateway_rtt=191.1ms internet=OK internet_rtt=326.6ms gateway_error=none internet_error=none
+[2026-09-09 11:10:01] gateway=OK gateway_rtt=566.1ms internet=OK internet_rtt=337.8ms gateway_error=none internet_error=none
+[2026-09-09 11:10:07] gateway=OK gateway_rtt=1332.2ms internet=OK internet_rtt=244.2ms gateway_error=none internet_error=none
+[2026-09-09 11:10:14] gateway=OK gateway_rtt=163.8ms internet=OK internet_rtt=180.9ms gateway_error=none internet_error=none
+[2026-09-09 11:10:19] gateway=OK gateway_rtt=83.9ms internet=OK internet_rtt=23.0ms gateway_error=none internet_error=none
+[2026-09-09 11:10:24] gateway=OK gateway_rtt=15.5ms internet=OK internet_rtt=15.1ms gateway_error=none internet_error=none
+[2026-09-09 11:10:29] gateway=OK gateway_rtt=322.5ms internet=OK internet_rtt=458.6ms gateway_error=none internet_error=none
+[2026-09-09 11:10:35] gateway=OK gateway_rtt=1405.8ms internet=OK internet_rtt=2066.2ms gateway_error=none internet_error=none
+[2026-09-09 11:10:44] gateway=OK gateway_rtt=248.6ms internet=OK internet_rtt=42.3ms gateway_error=none internet_error=none
+[2026-09-09 11:10:49] gateway=OK gateway_rtt=227.8ms internet=OK internet_rtt=276.0ms gateway_error=none internet_error=none
+[2026-09-09 11:10:54] gateway=OK gateway_rtt=34.7ms internet=OK internet_rtt=13.4ms gateway_error=none internet_error=none
+[2026-09-09 11:10:59] gateway=OK gateway_rtt=4.7ms internet=OK internet_rtt=79.1ms gateway_error=none internet_error=none
+[2026-09-09 11:11:05] gateway=OK gateway_rtt=160.7ms internet=OK internet_rtt=69.7ms gateway_error=none internet_error=none
+[2026-09-09 11:11:10] gateway=OK gateway_rtt=1198.0ms internet=OK internet_rtt=1111.7ms gateway_error=none internet_error=none
+[2026-09-09 11:11:17] gateway=OK gateway_rtt=496.8ms internet=OK internet_rtt=302.1ms gateway_error=none internet_error=none
+[2026-09-09 11:11:23] gateway=OK gateway_rtt=76.0ms internet=OK internet_rtt=59.7ms gateway_error=none internet_error=none
+[2026-09-09 11:11:28] gateway=OK gateway_rtt=53.8ms internet=OK internet_rtt=49.6ms gateway_error=none internet_error=none
+[2026-09-09 11:11:33] gateway=OK gateway_rtt=168.8ms internet=OK internet_rtt=337.9ms gateway_error=none internet_error=none
+[2026-09-09 11:11:39] gateway=OK gateway_rtt=644.6ms internet=OK internet_rtt=609.2ms gateway_error=none internet_error=none
+[2026-09-09 11:11:45] gateway=OK gateway_rtt=15.2ms internet=OK internet_rtt=33.7ms gateway_error=none internet_error=none
+[2026-09-09 11:11:50] gateway=OK gateway_rtt=70.5ms internet=OK internet_rtt=126.3ms gateway_error=none internet_error=none
+[2026-09-09 11:11:55] gateway=OK gateway_rtt=494.0ms internet=OK internet_rtt=205.7ms gateway_error=none internet_error=none
+[2026-09-09 11:12:01] gateway=OK gateway_rtt=98.3ms internet=OK internet_rtt=126.6ms gateway_error=none internet_error=none
+[2026-09-09 11:12:06] gateway=OK gateway_rtt=499.8ms internet=OK internet_rtt=1171.8ms gateway_error=none internet_error=none
+[2026-09-09 11:12:13] gateway=OK gateway_rtt=1845.9ms internet=OK internet_rtt=884.7ms gateway_error=none internet_error=none
+[2026-09-09 11:12:21] gateway=OK gateway_rtt=105.3ms internet=OK internet_rtt=74.2ms gateway_error=none internet_error=none
+[2026-09-09 11:12:26] gateway=OK gateway_rtt=134.1ms internet=OK internet_rtt=352.5ms gateway_error=none internet_error=none
+[2026-09-09 11:12:32] gateway=OK gateway_rtt=448.4ms internet=OK internet_rtt=800.7ms gateway_error=none internet_error=none
+[2026-09-09 11:12:38] gateway=OK gateway_rtt=146.9ms internet=OK internet_rtt=149.8ms gateway_error=none internet_error=none
+[2026-09-09 11:12:43] gateway=OK gateway_rtt=2014.1ms internet=OK internet_rtt=1587.3ms gateway_error=none internet_error=none
+[2026-09-09 11:12:52] gateway=OK gateway_rtt=38.1ms internet=OK internet_rtt=14.5ms gateway_error=none internet_error=none
+[2026-09-09 11:12:57] gateway=OK gateway_rtt=282.2ms internet=OK internet_rtt=348.4ms gateway_error=none internet_error=none
+[2026-09-09 11:13:03] gateway=OK gateway_rtt=14.9ms internet=OK internet_rtt=40.3ms gateway_error=none internet_error=none
+[2026-09-09 11:13:08] gateway=OK gateway_rtt=160.2ms internet=OK internet_rtt=182.3ms gateway_error=none internet_error=none
+[2026-09-09 11:13:13] gateway=OK gateway_rtt=12.0ms internet=OK internet_rtt=33.6ms gateway_error=none internet_error=none
+[2026-09-09 11:13:18] gateway=OK gateway_rtt=1756.4ms internet=OK internet_rtt=1288.8ms gateway_error=none internet_error=none
+[2026-09-09 11:13:26] gateway=OK gateway_rtt=284.2ms internet=OK internet_rtt=205.6ms gateway_error=none internet_error=none
+[2026-09-09 11:13:32] gateway=OK gateway_rtt=73.3ms internet=OK internet_rtt=61.7ms gateway_error=none internet_error=none
+[2026-09-09 11:13:37] gateway=OK gateway_rtt=85.0ms internet=OK internet_rtt=54.9ms gateway_error=none internet_error=none
+[2026-09-09 11:13:42] gateway=OK gateway_rtt=56.6ms internet=OK internet_rtt=98.1ms gateway_error=none internet_error=none
+[2026-09-09 11:13:47] gateway=OK gateway_rtt=1359.9ms internet=OK internet_rtt=2841.2ms gateway_error=none internet_error=none
+[2026-09-09 11:13:57] gateway=OK gateway_rtt=172.5ms internet=OK internet_rtt=132.9ms gateway_error=none internet_error=none
+[2026-09-09 11:14:02] gateway=OK gateway_rtt=44.9ms internet=OK internet_rtt=49.1ms gateway_error=none internet_error=none
+[2026-09-09 11:14:07] gateway=OK gateway_rtt=790.2ms internet=OK internet_rtt=150.5ms gateway_error=none internet_error=none
+[2026-09-09 11:14:13] gateway=OK gateway_rtt=280.9ms internet=OK internet_rtt=16.2ms gateway_error=none internet_error=none
+[2026-09-09 11:14:18] gateway=OK gateway_rtt=3127.9ms internet=OK internet_rtt=2852.0ms gateway_error=none internet_error=none
+[2026-09-09 11:14:29] gateway=OK gateway_rtt=330.7ms internet=OK internet_rtt=428.1ms gateway_error=none internet_error=none
+[2026-09-09 11:14:35] gateway=OK gateway_rtt=92.2ms internet=OK internet_rtt=170.7ms gateway_error=none internet_error=none
+[2026-09-09 11:14:40] gateway=OK gateway_rtt=189.5ms internet=OK internet_rtt=94.7ms gateway_error=none internet_error=none
+[2026-09-09 11:14:46] gateway=OK gateway_rtt=400.5ms internet=OK internet_rtt=461.8ms gateway_error=none internet_error=none
+[2026-09-09 11:14:52] gateway=OK gateway_rtt=1768.0ms internet=OK internet_rtt=1279.0ms gateway_error=none internet_error=none
+[2026-09-09 11:15:00] gateway=OK gateway_rtt=1382.7ms internet=OK internet_rtt=800.5ms gateway_error=none internet_error=none
+[2026-09-09 11:15:07] gateway=OK gateway_rtt=67.7ms internet=OK internet_rtt=63.9ms gateway_error=none internet_error=none
+[2026-09-09 11:15:12] gateway=OK gateway_rtt=1474.8ms internet=OK internet_rtt=510.5ms gateway_error=none internet_error=none
+[2026-09-09 11:15:19] gateway=OK gateway_rtt=13.3ms internet=OK internet_rtt=37.7ms gateway_error=none internet_error=none
+[2026-09-09 11:15:24] gateway=OK gateway_rtt=1134.4ms internet=OK internet_rtt=2530.1ms gateway_error=none internet_error=none
+[2026-09-09 11:15:33] gateway=OK gateway_rtt=184.5ms internet=OK internet_rtt=89.3ms gateway_error=none internet_error=none
+[2026-09-09 11:15:38] gateway=OK gateway_rtt=978.7ms internet=OK internet_rtt=1649.1ms gateway_error=none internet_error=none
+[2026-09-09 11:15:46] gateway=OK gateway_rtt=37.0ms internet=OK internet_rtt=30.3ms gateway_error=none internet_error=none
+[2026-09-09 11:15:51] gateway=OK gateway_rtt=60.8ms internet=OK internet_rtt=54.4ms gateway_error=none internet_error=none
+[2026-09-09 11:15:56] gateway=OK gateway_rtt=2966.6ms internet=OK internet_rtt=353.5ms gateway_error=none internet_error=none
+[2026-09-09 11:16:04] gateway=OK gateway_rtt=281.2ms internet=OK internet_rtt=273.0ms gateway_error=none internet_error=none
+[2026-09-09 11:16:10] gateway=OK gateway_rtt=209.5ms internet=OK internet_rtt=158.8ms gateway_error=none internet_error=none
+[2026-09-09 11:16:15] gateway=OK gateway_rtt=7.1ms internet=OK internet_rtt=19.0ms gateway_error=none internet_error=none
+[2026-09-09 11:16:20] gateway=OK gateway_rtt=161.9ms internet=OK internet_rtt=35.9ms gateway_error=none internet_error=none
+[2026-09-09 11:16:26] gateway=OK gateway_rtt=1021.8ms internet=OK internet_rtt=4457.8ms gateway_error=none internet_error=none
+[2026-09-09 11:16:36] gateway=OK gateway_rtt=29.7ms internet=OK internet_rtt=20.0ms gateway_error=none internet_error=none
+[2026-09-09 11:16:41] gateway=OK gateway_rtt=308.9ms internet=OK internet_rtt=375.1ms gateway_error=none internet_error=none
+[2026-09-09 11:16:47] gateway=OK gateway_rtt=935.0ms internet=OK internet_rtt=43.7ms gateway_error=none internet_error=none
+[2026-09-09 11:16:53] gateway=OK gateway_rtt=905.2ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 11:16:53] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 11:17:04] gateway=OK gateway_rtt=4067.6ms internet=OK internet_rtt=2192.0ms gateway_error=none internet_error=none
+[2026-09-09 11:17:04] EVENT_END type=INTERNET_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 11:17:15] gateway=OK gateway_rtt=3192.8ms internet=OK internet_rtt=1362.2ms gateway_error=none internet_error=none
+[2026-09-09 11:17:25] gateway=OK gateway_rtt=343.3ms internet=OK internet_rtt=320.6ms gateway_error=none internet_error=none
+[2026-09-09 11:17:31] gateway=OK gateway_rtt=4134.7ms internet=OK internet_rtt=1741.8ms gateway_error=none internet_error=none
+[2026-09-09 11:17:41] gateway=OK gateway_rtt=38.6ms internet=OK internet_rtt=53.5ms gateway_error=none internet_error=none
+[2026-09-09 11:17:47] gateway=OK gateway_rtt=117.2ms internet=OK internet_rtt=105.3ms gateway_error=none internet_error=none
+[2026-09-09 11:17:52] gateway=OK gateway_rtt=706.5ms internet=OK internet_rtt=251.5ms gateway_error=none internet_error=none
+[2026-09-09 11:17:58] gateway=OK gateway_rtt=99.0ms internet=OK internet_rtt=432.1ms gateway_error=none internet_error=none
+[2026-09-09 11:18:03] gateway=OK gateway_rtt=2226.9ms internet=OK internet_rtt=1522.6ms gateway_error=none internet_error=none
+[2026-09-09 11:18:12] gateway=OK gateway_rtt=310.4ms internet=OK internet_rtt=278.2ms gateway_error=none internet_error=none
+[2026-09-09 11:18:18] gateway=OK gateway_rtt=818.3ms internet=OK internet_rtt=164.1ms gateway_error=none internet_error=none
+[2026-09-09 11:18:24] gateway=OK gateway_rtt=478.5ms internet=OK internet_rtt=93.4ms gateway_error=none internet_error=none
+[2026-09-09 11:18:29] gateway=OK gateway_rtt=400.8ms internet=OK internet_rtt=44.8ms gateway_error=none internet_error=none
+[2026-09-09 11:18:35] gateway=OK gateway_rtt=4553.4ms internet=OK internet_rtt=377.7ms gateway_error=none internet_error=none
+[2026-09-09 11:18:45] gateway=OK gateway_rtt=45.6ms internet=OK internet_rtt=31.8ms gateway_error=none internet_error=none
+[2026-09-09 11:18:50] gateway=OK gateway_rtt=257.2ms internet=OK internet_rtt=83.5ms gateway_error=none internet_error=none
+[2026-09-09 11:18:55] gateway=OK gateway_rtt=510.3ms internet=OK internet_rtt=209.7ms gateway_error=none internet_error=none
+[2026-09-09 11:19:01] gateway=OK gateway_rtt=638.5ms internet=OK internet_rtt=378.1ms gateway_error=none internet_error=none
+[2026-09-09 11:19:07] gateway=OK gateway_rtt=11.4ms internet=OK internet_rtt=19.7ms gateway_error=none internet_error=none
+[2026-09-09 11:19:12] gateway=OK gateway_rtt=5.7ms internet=OK internet_rtt=15.6ms gateway_error=none internet_error=none
+[2026-09-09 11:19:17] gateway=OK gateway_rtt=140.0ms internet=OK internet_rtt=64.5ms gateway_error=none internet_error=none
+[2026-09-09 11:19:22] gateway=OK gateway_rtt=79.3ms internet=OK internet_rtt=254.2ms gateway_error=none internet_error=none
+[2026-09-09 11:19:28] gateway=OK gateway_rtt=283.8ms internet=OK internet_rtt=318.3ms gateway_error=none internet_error=none
+[2026-09-09 11:19:33] gateway=OK gateway_rtt=206.6ms internet=OK internet_rtt=38.6ms gateway_error=none internet_error=none
+[2026-09-09 11:19:39] gateway=OK gateway_rtt=4305.7ms internet=OK internet_rtt=495.0ms gateway_error=none internet_error=none
+[2026-09-09 11:19:48] gateway=OK gateway_rtt=747.5ms internet=OK internet_rtt=601.0ms gateway_error=none internet_error=none
+[2026-09-09 11:19:55] gateway=OK gateway_rtt=2452.2ms internet=OK internet_rtt=2589.8ms gateway_error=none internet_error=none
+[2026-09-09 11:20:05] gateway=OK gateway_rtt=12.4ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 11:20:05] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 11:20:15] gateway=OK gateway_rtt=287.4ms internet=OK internet_rtt=254.0ms gateway_error=none internet_error=none
+[2026-09-09 11:20:15] EVENT_END type=INTERNET_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 11:20:21] gateway=OK gateway_rtt=13.6ms internet=OK internet_rtt=88.2ms gateway_error=none internet_error=none
+[2026-09-09 11:20:26] gateway=OK gateway_rtt=1479.8ms internet=OK internet_rtt=865.1ms gateway_error=none internet_error=none
+[2026-09-09 11:20:33] gateway=OK gateway_rtt=815.3ms internet=OK internet_rtt=796.7ms gateway_error=none internet_error=none
+[2026-09-09 11:20:40] gateway=OK gateway_rtt=986.1ms internet=OK internet_rtt=354.7ms gateway_error=none internet_error=none
+[2026-09-09 11:20:46] gateway=OK gateway_rtt=1198.7ms internet=OK internet_rtt=1105.3ms gateway_error=none internet_error=none
+[2026-09-09 11:20:53] gateway=OK gateway_rtt=125.8ms internet=OK internet_rtt=34.3ms gateway_error=none internet_error=none
+[2026-09-09 11:20:59] gateway=OK gateway_rtt=348.0ms internet=OK internet_rtt=155.8ms gateway_error=none internet_error=none
+[2026-09-09 11:21:04] gateway=OK gateway_rtt=295.7ms internet=OK internet_rtt=70.5ms gateway_error=none internet_error=none
+[2026-09-09 11:21:10] gateway=OK gateway_rtt=33.3ms internet=OK internet_rtt=56.3ms gateway_error=none internet_error=none
+[2026-09-09 11:21:15] gateway=FAIL gateway_rtt=N/A internet=OK internet_rtt=13.7ms gateway_error=ping command timed out internet_error=none
+[2026-09-09 11:21:15] EVENT_START type=GATEWAY_ONLY gateway=FAIL internet=OK
+[2026-09-09 11:21:25] gateway=OK gateway_rtt=192.1ms internet=OK internet_rtt=41.3ms gateway_error=none internet_error=none
+[2026-09-09 11:21:25] EVENT_END type=GATEWAY_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 11:21:30] gateway=OK gateway_rtt=6.9ms internet=OK internet_rtt=15.9ms gateway_error=none internet_error=none
+[2026-09-09 11:21:35] gateway=OK gateway_rtt=6.4ms internet=OK internet_rtt=18.6ms gateway_error=none internet_error=none
+[2026-09-09 11:21:40] gateway=OK gateway_rtt=16.6ms internet=OK internet_rtt=22.8ms gateway_error=none internet_error=none
+[2026-09-09 11:21:45] gateway=OK gateway_rtt=2867.2ms internet=OK internet_rtt=2254.2ms gateway_error=none internet_error=none
+[2026-09-09 11:21:55] gateway=OK gateway_rtt=9.2ms internet=OK internet_rtt=21.7ms gateway_error=none internet_error=none
+[2026-09-09 11:22:00] gateway=OK gateway_rtt=19.5ms internet=OK internet_rtt=38.4ms gateway_error=none internet_error=none
+[2026-09-09 11:22:05] gateway=OK gateway_rtt=270.0ms internet=OK internet_rtt=86.6ms gateway_error=none internet_error=none
+[2026-09-09 11:22:11] gateway=OK gateway_rtt=462.9ms internet=OK internet_rtt=207.3ms gateway_error=none internet_error=none
+[2026-09-09 11:22:17] gateway=OK gateway_rtt=5.3ms internet=OK internet_rtt=19.5ms gateway_error=none internet_error=none
+[2026-09-09 11:22:22] gateway=OK gateway_rtt=5.6ms internet=OK internet_rtt=18.5ms gateway_error=none internet_error=none
+[2026-09-09 11:22:27] gateway=OK gateway_rtt=404.9ms internet=OK internet_rtt=118.1ms gateway_error=none internet_error=none
+[2026-09-09 11:22:32] gateway=OK gateway_rtt=1606.1ms internet=OK internet_rtt=533.8ms gateway_error=none internet_error=none
+[2026-09-09 11:22:39] gateway=OK gateway_rtt=1055.1ms internet=OK internet_rtt=1016.5ms gateway_error=none internet_error=none
+[2026-09-09 11:22:46] gateway=OK gateway_rtt=990.2ms internet=OK internet_rtt=179.8ms gateway_error=none internet_error=none
+[2026-09-09 11:22:53] gateway=OK gateway_rtt=2700.3ms internet=OK internet_rtt=383.3ms gateway_error=none internet_error=none
+[2026-09-09 11:23:01] gateway=OK gateway_rtt=105.6ms internet=OK internet_rtt=50.3ms gateway_error=none internet_error=none
+[2026-09-09 11:23:06] gateway=OK gateway_rtt=17.3ms internet=OK internet_rtt=29.2ms gateway_error=none internet_error=none
+[2026-09-09 11:23:11] gateway=OK gateway_rtt=123.2ms internet=OK internet_rtt=100.3ms gateway_error=none internet_error=none
+[2026-09-09 11:23:16] gateway=OK gateway_rtt=77.8ms internet=OK internet_rtt=55.6ms gateway_error=none internet_error=none
+[2026-09-09 11:23:21] gateway=OK gateway_rtt=4578.8ms internet=OK internet_rtt=1392.4ms gateway_error=none internet_error=none
+[2026-09-09 11:23:32] gateway=OK gateway_rtt=572.3ms internet=OK internet_rtt=256.9ms gateway_error=none internet_error=none
+[2026-09-09 11:23:38] gateway=OK gateway_rtt=43.9ms internet=OK internet_rtt=134.7ms gateway_error=none internet_error=none
+[2026-09-09 11:23:44] gateway=OK gateway_rtt=35.7ms internet=OK internet_rtt=95.5ms gateway_error=none internet_error=none
+[2026-09-09 11:23:49] gateway=OK gateway_rtt=95.4ms internet=OK internet_rtt=57.4ms gateway_error=none internet_error=none
+[2026-09-09 11:23:54] gateway=OK gateway_rtt=3895.7ms internet=OK internet_rtt=2045.9ms gateway_error=none internet_error=none
+[2026-09-09 11:24:05] gateway=OK gateway_rtt=111.3ms internet=OK internet_rtt=154.0ms gateway_error=none internet_error=none
+[2026-09-09 11:24:10] gateway=OK gateway_rtt=393.8ms internet=OK internet_rtt=401.7ms gateway_error=none internet_error=none
+[2026-09-09 11:24:16] gateway=OK gateway_rtt=295.0ms internet=OK internet_rtt=136.3ms gateway_error=none internet_error=none
+[2026-09-09 11:24:21] gateway=OK gateway_rtt=21.3ms internet=OK internet_rtt=48.0ms gateway_error=none internet_error=none
+[2026-09-09 11:24:27] gateway=OK gateway_rtt=1551.2ms internet=OK internet_rtt=1610.5ms gateway_error=none internet_error=none
+[2026-09-09 11:24:35] gateway=OK gateway_rtt=144.1ms internet=OK internet_rtt=19.8ms gateway_error=none internet_error=none
+[2026-09-09 11:24:40] gateway=OK gateway_rtt=68.1ms internet=OK internet_rtt=88.9ms gateway_error=none internet_error=none
+[2026-09-09 11:24:45] gateway=OK gateway_rtt=31.3ms internet=OK internet_rtt=23.5ms gateway_error=none internet_error=none
+[2026-09-09 11:24:50] gateway=OK gateway_rtt=228.3ms internet=OK internet_rtt=132.2ms gateway_error=none internet_error=none
+[2026-09-09 11:24:56] gateway=OK gateway_rtt=154.8ms internet=OK internet_rtt=47.5ms gateway_error=none internet_error=none
+[2026-09-09 11:25:01] gateway=OK gateway_rtt=913.9ms internet=OK internet_rtt=157.2ms gateway_error=none internet_error=none
+[2026-09-09 11:25:07] gateway=OK gateway_rtt=93.2ms internet=OK internet_rtt=71.3ms gateway_error=none internet_error=none
+[2026-09-09 11:25:12] gateway=OK gateway_rtt=213.1ms internet=OK internet_rtt=103.3ms gateway_error=none internet_error=none
+[2026-09-09 11:25:17] gateway=OK gateway_rtt=1028.2ms internet=OK internet_rtt=537.6ms gateway_error=none internet_error=none
+[2026-09-09 11:25:24] gateway=OK gateway_rtt=1051.5ms internet=OK internet_rtt=63.2ms gateway_error=none internet_error=none
+[2026-09-09 11:25:30] gateway=OK gateway_rtt=4715.6ms internet=OK internet_rtt=618.5ms gateway_error=none internet_error=none
+[2026-09-09 11:25:41] gateway=OK gateway_rtt=55.5ms internet=OK internet_rtt=179.9ms gateway_error=none internet_error=none
+[2026-09-09 11:25:46] gateway=OK gateway_rtt=272.8ms internet=OK internet_rtt=163.5ms gateway_error=none internet_error=none
+[2026-09-09 11:25:51] gateway=OK gateway_rtt=1826.7ms internet=OK internet_rtt=1564.4ms gateway_error=none internet_error=none
+[2026-09-09 11:26:00] gateway=FAIL gateway_rtt=N/A internet=OK internet_rtt=1568.2ms gateway_error=ping command timed out internet_error=none
+[2026-09-09 11:26:00] EVENT_START type=GATEWAY_ONLY gateway=FAIL internet=OK
+[2026-09-09 11:26:11] gateway=OK gateway_rtt=289.8ms internet=OK internet_rtt=239.5ms gateway_error=none internet_error=none
+[2026-09-09 11:26:11] EVENT_END type=GATEWAY_ONLY duration=11s gateway=OK internet=OK
+[2026-09-09 11:26:17] gateway=OK gateway_rtt=1483.6ms internet=OK internet_rtt=604.4ms gateway_error=none internet_error=none
+[2026-09-09 11:26:24] gateway=OK gateway_rtt=54.1ms internet=OK internet_rtt=19.6ms gateway_error=none internet_error=none
+[2026-09-09 11:26:29] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 11:26:29] EVENT_START type=BOTH_FAIL gateway=FAIL internet=FAIL
+[2026-09-09 11:26:44] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 11:26:59] gateway=OK gateway_rtt=1124.8ms internet=OK internet_rtt=485.4ms gateway_error=none internet_error=none
+[2026-09-09 11:26:59] EVENT_END type=BOTH_FAIL duration=30s gateway=OK internet=OK
+[2026-09-09 11:27:06] gateway=OK gateway_rtt=11.3ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 11:27:06] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 11:27:16] gateway=OK gateway_rtt=2730.4ms internet=OK internet_rtt=2255.5ms gateway_error=none internet_error=none
+[2026-09-09 11:27:16] EVENT_END type=INTERNET_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 11:27:26] gateway=OK gateway_rtt=1067.1ms internet=OK internet_rtt=539.3ms gateway_error=none internet_error=none
+[2026-09-09 11:27:33] gateway=OK gateway_rtt=2818.5ms internet=OK internet_rtt=1606.5ms gateway_error=none internet_error=none
+[2026-09-09 11:27:42] gateway=OK gateway_rtt=4206.4ms internet=OK internet_rtt=1245.1ms gateway_error=none internet_error=none
+[2026-09-09 11:27:52] gateway=OK gateway_rtt=2234.6ms internet=OK internet_rtt=2321.0ms gateway_error=none internet_error=none
+[2026-09-09 11:28:02] gateway=OK gateway_rtt=982.4ms internet=OK internet_rtt=2263.5ms gateway_error=none internet_error=none
+[2026-09-09 11:28:10] gateway=FAIL gateway_rtt=N/A internet=OK internet_rtt=4915.6ms gateway_error=ping command timed out internet_error=none
+[2026-09-09 11:28:10] EVENT_START type=GATEWAY_ONLY gateway=FAIL internet=OK
+[2026-09-09 11:28:25] gateway=OK gateway_rtt=50.7ms internet=OK internet_rtt=29.6ms gateway_error=none internet_error=none
+[2026-09-09 11:28:25] EVENT_END type=GATEWAY_ONLY duration=14s gateway=OK internet=OK
+[2026-09-09 11:28:30] gateway=OK gateway_rtt=527.8ms internet=OK internet_rtt=187.0ms gateway_error=none internet_error=none
+[2026-09-09 11:28:36] gateway=OK gateway_rtt=42.1ms internet=OK internet_rtt=106.1ms gateway_error=none internet_error=none
+[2026-09-09 11:28:41] gateway=OK gateway_rtt=1232.9ms internet=OK internet_rtt=3203.0ms gateway_error=none internet_error=none
+[2026-09-09 11:28:51] gateway=OK gateway_rtt=886.5ms internet=OK internet_rtt=497.1ms gateway_error=none internet_error=none
+[2026-09-09 11:28:57] gateway=OK gateway_rtt=804.2ms internet=OK internet_rtt=312.5ms gateway_error=none internet_error=none
+[2026-09-09 11:29:03] gateway=OK gateway_rtt=15.7ms internet=OK internet_rtt=20.8ms gateway_error=none internet_error=none
+[2026-09-09 11:29:08] gateway=OK gateway_rtt=125.7ms internet=OK internet_rtt=48.5ms gateway_error=none internet_error=none
+[2026-09-09 11:29:14] gateway=OK gateway_rtt=395.7ms internet=OK internet_rtt=94.6ms gateway_error=none internet_error=none
+[2026-09-09 11:29:19] gateway=OK gateway_rtt=199.1ms internet=OK internet_rtt=307.2ms gateway_error=none internet_error=none
+[2026-09-09 11:29:25] gateway=OK gateway_rtt=146.4ms internet=OK internet_rtt=300.2ms gateway_error=none internet_error=none
+[2026-09-09 11:29:30] gateway=OK gateway_rtt=164.8ms internet=OK internet_rtt=187.7ms gateway_error=none internet_error=none
+[2026-09-09 11:29:36] gateway=OK gateway_rtt=117.4ms internet=OK internet_rtt=790.1ms gateway_error=none internet_error=none
+[2026-09-09 11:29:41] gateway=OK gateway_rtt=11.5ms internet=OK internet_rtt=21.4ms gateway_error=none internet_error=none
+[2026-09-09 11:29:47] gateway=OK gateway_rtt=2103.2ms internet=OK internet_rtt=1152.6ms gateway_error=none internet_error=none
+[2026-09-09 11:29:55] gateway=OK gateway_rtt=613.4ms internet=OK internet_rtt=39.5ms gateway_error=none internet_error=none
+[2026-09-09 11:30:00] gateway=OK gateway_rtt=110.1ms internet=OK internet_rtt=102.6ms gateway_error=none internet_error=none
+[2026-09-09 11:30:06] gateway=OK gateway_rtt=231.7ms internet=OK internet_rtt=211.8ms gateway_error=none internet_error=none
+[2026-09-09 11:30:11] gateway=OK gateway_rtt=5.5ms internet=OK internet_rtt=14.6ms gateway_error=none internet_error=none
+[2026-09-09 11:30:16] gateway=OK gateway_rtt=3881.7ms internet=OK internet_rtt=1099.8ms gateway_error=none internet_error=none
+[2026-09-09 11:30:26] gateway=OK gateway_rtt=719.2ms internet=OK internet_rtt=320.5ms gateway_error=none internet_error=none
+[2026-09-09 11:30:32] gateway=OK gateway_rtt=8.0ms internet=OK internet_rtt=20.4ms gateway_error=none internet_error=none
+[2026-09-09 11:30:37] gateway=OK gateway_rtt=162.7ms internet=OK internet_rtt=151.6ms gateway_error=none internet_error=none
+[2026-09-09 11:30:43] gateway=OK gateway_rtt=7.8ms internet=OK internet_rtt=29.3ms gateway_error=none internet_error=none
+[2026-09-09 11:30:48] gateway=OK gateway_rtt=17.3ms internet=OK internet_rtt=15.1ms gateway_error=none internet_error=none
+[2026-09-09 11:30:53] gateway=OK gateway_rtt=5.7ms internet=OK internet_rtt=18.8ms gateway_error=none internet_error=none
+[2026-09-09 11:30:58] gateway=OK gateway_rtt=333.0ms internet=OK internet_rtt=211.9ms gateway_error=none internet_error=none
+[2026-09-09 11:31:04] gateway=OK gateway_rtt=22.3ms internet=OK internet_rtt=19.8ms gateway_error=none internet_error=none
+[2026-09-09 11:31:09] gateway=OK gateway_rtt=7.0ms internet=OK internet_rtt=44.5ms gateway_error=none internet_error=none
+[2026-09-09 11:31:14] gateway=OK gateway_rtt=21.8ms internet=OK internet_rtt=40.2ms gateway_error=none internet_error=none
+[2026-09-09 11:31:19] gateway=OK gateway_rtt=8.5ms internet=OK internet_rtt=119.1ms gateway_error=none internet_error=none
+[2026-09-09 11:31:24] gateway=OK gateway_rtt=1227.3ms internet=OK internet_rtt=803.5ms gateway_error=none internet_error=none
+[2026-09-09 11:31:31] gateway=OK gateway_rtt=15.9ms internet=OK internet_rtt=342.9ms gateway_error=none internet_error=none
+[2026-09-09 11:31:36] gateway=OK gateway_rtt=32.4ms internet=OK internet_rtt=152.6ms gateway_error=none internet_error=none
+[2026-09-09 11:31:42] gateway=OK gateway_rtt=3842.3ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 11:31:42] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 11:31:55] gateway=OK gateway_rtt=1447.7ms internet=OK internet_rtt=138.3ms gateway_error=none internet_error=none
+[2026-09-09 11:31:55] EVENT_END type=INTERNET_ONLY duration=13s gateway=OK internet=OK
+[2026-09-09 11:32:02] gateway=OK gateway_rtt=79.1ms internet=OK internet_rtt=76.8ms gateway_error=none internet_error=none
+[2026-09-09 11:32:07] gateway=OK gateway_rtt=1712.9ms internet=OK internet_rtt=3263.1ms gateway_error=none internet_error=none
+[2026-09-09 11:32:17] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 11:32:17] EVENT_START type=BOTH_FAIL gateway=FAIL internet=FAIL
+[2026-09-09 11:32:32] gateway=OK gateway_rtt=4500.6ms internet=OK internet_rtt=1889.4ms gateway_error=none internet_error=none
+[2026-09-09 11:32:32] EVENT_END type=BOTH_FAIL duration=15s gateway=OK internet=OK
+[2026-09-09 11:32:44] gateway=OK gateway_rtt=36.3ms internet=OK internet_rtt=52.6ms gateway_error=none internet_error=none
+[2026-09-09 11:32:49] gateway=OK gateway_rtt=785.6ms internet=OK internet_rtt=78.7ms gateway_error=none internet_error=none
+[2026-09-09 11:32:55] gateway=OK gateway_rtt=163.1ms internet=OK internet_rtt=537.7ms gateway_error=none internet_error=none
+[2026-09-09 11:33:00] gateway=OK gateway_rtt=1069.3ms internet=OK internet_rtt=35.8ms gateway_error=none internet_error=none
+[2026-09-09 11:33:07] gateway=OK gateway_rtt=36.2ms internet=OK internet_rtt=46.9ms gateway_error=none internet_error=none
+[2026-09-09 11:33:12] gateway=OK gateway_rtt=401.5ms internet=OK internet_rtt=144.9ms gateway_error=none internet_error=none
+[2026-09-09 11:33:17] gateway=OK gateway_rtt=2164.3ms internet=OK internet_rtt=265.4ms gateway_error=none internet_error=none
+[2026-09-09 11:33:25] gateway=OK gateway_rtt=1215.0ms internet=OK internet_rtt=320.9ms gateway_error=none internet_error=none
+[2026-09-09 11:33:31] gateway=OK gateway_rtt=2102.1ms internet=OK internet_rtt=409.0ms gateway_error=none internet_error=none
+[2026-09-09 11:33:39] gateway=OK gateway_rtt=23.8ms internet=OK internet_rtt=43.5ms gateway_error=none internet_error=none
+[2026-09-09 11:33:44] gateway=OK gateway_rtt=370.0ms internet=OK internet_rtt=236.5ms gateway_error=none internet_error=none
+[2026-09-09 11:33:50] gateway=OK gateway_rtt=450.8ms internet=OK internet_rtt=452.9ms gateway_error=none internet_error=none
+[2026-09-09 11:33:56] gateway=OK gateway_rtt=8.5ms internet=OK internet_rtt=19.2ms gateway_error=none internet_error=none
+[2026-09-09 11:34:01] gateway=OK gateway_rtt=25.5ms internet=OK internet_rtt=27.0ms gateway_error=none internet_error=none
+[2026-09-09 11:34:06] gateway=OK gateway_rtt=305.3ms internet=OK internet_rtt=35.9ms gateway_error=none internet_error=none
+[2026-09-09 11:34:11] gateway=OK gateway_rtt=14.0ms internet=OK internet_rtt=45.2ms gateway_error=none internet_error=none
+[2026-09-09 11:34:16] gateway=OK gateway_rtt=5.5ms internet=OK internet_rtt=17.1ms gateway_error=none internet_error=none
+[2026-09-09 11:34:21] gateway=OK gateway_rtt=8.8ms internet=OK internet_rtt=25.7ms gateway_error=none internet_error=none
+[2026-09-09 11:34:26] gateway=OK gateway_rtt=143.1ms internet=OK internet_rtt=45.7ms gateway_error=none internet_error=none
+[2026-09-09 11:34:31] gateway=OK gateway_rtt=23.5ms internet=OK internet_rtt=16.8ms gateway_error=none internet_error=none
+[2026-09-09 11:34:37] gateway=OK gateway_rtt=22.8ms internet=OK internet_rtt=17.4ms gateway_error=none internet_error=none
+[2026-09-09 11:34:42] gateway=OK gateway_rtt=8.8ms internet=OK internet_rtt=48.3ms gateway_error=none internet_error=none
+[2026-09-09 11:34:47] gateway=OK gateway_rtt=58.8ms internet=OK internet_rtt=23.7ms gateway_error=none internet_error=none
+[2026-09-09 11:34:52] gateway=OK gateway_rtt=8.6ms internet=OK internet_rtt=51.0ms gateway_error=none internet_error=none
+[2026-09-09 11:34:57] gateway=OK gateway_rtt=8.1ms internet=OK internet_rtt=21.0ms gateway_error=none internet_error=none
+[2026-09-09 11:35:02] gateway=OK gateway_rtt=24.5ms internet=OK internet_rtt=66.1ms gateway_error=none internet_error=none
+[2026-09-09 11:35:07] gateway=OK gateway_rtt=1217.6ms internet=OK internet_rtt=317.5ms gateway_error=none internet_error=none
+[2026-09-09 11:35:14] gateway=OK gateway_rtt=324.0ms internet=OK internet_rtt=256.7ms gateway_error=none internet_error=none
+[2026-09-09 11:35:19] gateway=OK gateway_rtt=2175.8ms internet=OK internet_rtt=1175.6ms gateway_error=none internet_error=none
+[2026-09-09 11:35:28] gateway=OK gateway_rtt=6.4ms internet=OK internet_rtt=15.8ms gateway_error=none internet_error=none
+[2026-09-09 11:35:33] gateway=OK gateway_rtt=2382.6ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 11:35:33] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 11:35:45] gateway=OK gateway_rtt=105.1ms internet=OK internet_rtt=516.4ms gateway_error=none internet_error=none
+[2026-09-09 11:35:45] EVENT_END type=INTERNET_ONLY duration=12s gateway=OK internet=OK
+[2026-09-09 11:35:51] gateway=OK gateway_rtt=2271.8ms internet=OK internet_rtt=1452.9ms gateway_error=none internet_error=none
+[2026-09-09 11:35:59] gateway=OK gateway_rtt=1318.8ms internet=OK internet_rtt=1550.8ms gateway_error=none internet_error=none
+[2026-09-09 11:36:07] gateway=OK gateway_rtt=3257.6ms internet=OK internet_rtt=1581.8ms gateway_error=none internet_error=none
+[2026-09-09 11:36:17] gateway=OK gateway_rtt=267.2ms internet=OK internet_rtt=255.6ms gateway_error=none internet_error=none
+[2026-09-09 11:36:23] gateway=OK gateway_rtt=6.8ms internet=OK internet_rtt=12.5ms gateway_error=none internet_error=none
+[2026-09-09 11:36:28] gateway=OK gateway_rtt=758.1ms internet=OK internet_rtt=290.5ms gateway_error=none internet_error=none
+[2026-09-09 11:36:34] gateway=OK gateway_rtt=5.4ms internet=OK internet_rtt=19.6ms gateway_error=none internet_error=none
+[2026-09-09 11:36:39] gateway=OK gateway_rtt=10.9ms internet=OK internet_rtt=16.4ms gateway_error=none internet_error=none
+[2026-09-09 11:36:44] gateway=OK gateway_rtt=20.3ms internet=OK internet_rtt=42.1ms gateway_error=none internet_error=none
+[2026-09-09 11:36:49] gateway=OK gateway_rtt=8.5ms internet=OK internet_rtt=11.5ms gateway_error=none internet_error=none
+[2026-09-09 11:36:54] gateway=OK gateway_rtt=9.7ms internet=OK internet_rtt=17.5ms gateway_error=none internet_error=none
+[2026-09-09 11:36:59] gateway=OK gateway_rtt=6.2ms internet=OK internet_rtt=48.7ms gateway_error=none internet_error=none
+[2026-09-09 11:37:04] gateway=OK gateway_rtt=9.4ms internet=OK internet_rtt=16.6ms gateway_error=none internet_error=none
+[2026-09-09 11:37:09] gateway=OK gateway_rtt=84.0ms internet=OK internet_rtt=449.6ms gateway_error=none internet_error=none
+[2026-09-09 11:37:15] gateway=OK gateway_rtt=1560.7ms internet=OK internet_rtt=503.3ms gateway_error=none internet_error=none
+[2026-09-09 11:37:22] gateway=OK gateway_rtt=19.3ms internet=OK internet_rtt=27.2ms gateway_error=none internet_error=none
+[2026-09-09 11:37:27] gateway=OK gateway_rtt=92.1ms internet=OK internet_rtt=24.1ms gateway_error=none internet_error=none
+[2026-09-09 11:37:32] gateway=OK gateway_rtt=358.1ms internet=OK internet_rtt=66.7ms gateway_error=none internet_error=none
+[2026-09-09 11:37:38] gateway=OK gateway_rtt=6.1ms internet=OK internet_rtt=17.4ms gateway_error=none internet_error=none
+[2026-09-09 11:37:43] gateway=OK gateway_rtt=9.3ms internet=OK internet_rtt=25.0ms gateway_error=none internet_error=none
+[2026-09-09 11:37:48] gateway=OK gateway_rtt=3896.2ms internet=OK internet_rtt=3477.1ms gateway_error=none internet_error=none
+[2026-09-09 11:38:00] gateway=OK gateway_rtt=8.4ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 11:38:00] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 11:38:10] gateway=OK gateway_rtt=814.3ms internet=OK internet_rtt=480.3ms gateway_error=none internet_error=none
+[2026-09-09 11:38:10] EVENT_END type=INTERNET_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 11:38:17] gateway=OK gateway_rtt=2589.4ms internet=OK internet_rtt=196.6ms gateway_error=none internet_error=none
+[2026-09-09 11:38:24] gateway=OK gateway_rtt=5.0ms internet=OK internet_rtt=16.1ms gateway_error=none internet_error=none
+[2026-09-09 11:38:29] gateway=OK gateway_rtt=8.3ms internet=OK internet_rtt=17.5ms gateway_error=none internet_error=none
+[2026-09-09 11:38:35] gateway=OK gateway_rtt=254.7ms internet=OK internet_rtt=338.0ms gateway_error=none internet_error=none
+[2026-09-09 11:38:40] gateway=OK gateway_rtt=7.2ms internet=OK internet_rtt=18.2ms gateway_error=none internet_error=none
+[2026-09-09 11:38:45] gateway=OK gateway_rtt=13.2ms internet=OK internet_rtt=70.0ms gateway_error=none internet_error=none
+[2026-09-09 11:38:50] gateway=OK gateway_rtt=16.3ms internet=OK internet_rtt=18.3ms gateway_error=none internet_error=none
+[2026-09-09 11:38:55] gateway=OK gateway_rtt=5.5ms internet=OK internet_rtt=19.9ms gateway_error=none internet_error=none
+[2026-09-09 11:39:00] gateway=OK gateway_rtt=172.1ms internet=OK internet_rtt=252.2ms gateway_error=none internet_error=none
+[2026-09-09 11:39:06] gateway=OK gateway_rtt=6.0ms internet=OK internet_rtt=16.6ms gateway_error=none internet_error=none
+[2026-09-09 11:39:11] gateway=OK gateway_rtt=7.6ms internet=OK internet_rtt=18.9ms gateway_error=none internet_error=none
+[2026-09-09 11:39:16] gateway=OK gateway_rtt=7.4ms internet=OK internet_rtt=32.4ms gateway_error=none internet_error=none
+[2026-09-09 11:39:21] gateway=OK gateway_rtt=1811.9ms internet=OK internet_rtt=143.1ms gateway_error=none internet_error=none
+[2026-09-09 11:39:28] gateway=OK gateway_rtt=7.6ms internet=OK internet_rtt=19.9ms gateway_error=none internet_error=none
+[2026-09-09 11:39:33] gateway=OK gateway_rtt=4.8ms internet=OK internet_rtt=36.9ms gateway_error=none internet_error=none
+[2026-09-09 11:39:38] gateway=OK gateway_rtt=6.1ms internet=OK internet_rtt=22.3ms gateway_error=none internet_error=none
+[2026-09-09 11:39:43] gateway=OK gateway_rtt=4.7ms internet=OK internet_rtt=20.4ms gateway_error=none internet_error=none
+[2026-09-09 11:39:48] gateway=OK gateway_rtt=156.2ms internet=OK internet_rtt=37.7ms gateway_error=none internet_error=none
+[2026-09-09 11:39:54] gateway=OK gateway_rtt=7.7ms internet=OK internet_rtt=21.7ms gateway_error=none internet_error=none
+[2026-09-09 11:39:59] gateway=OK gateway_rtt=21.9ms internet=OK internet_rtt=24.2ms gateway_error=none internet_error=none
+[2026-09-09 11:40:04] gateway=OK gateway_rtt=7.0ms internet=OK internet_rtt=15.6ms gateway_error=none internet_error=none
+[2026-09-09 11:40:09] gateway=OK gateway_rtt=315.0ms internet=OK internet_rtt=29.4ms gateway_error=none internet_error=none
+[2026-09-09 11:40:14] gateway=OK gateway_rtt=110.1ms internet=OK internet_rtt=197.0ms gateway_error=none internet_error=none
+[2026-09-09 11:40:19] gateway=OK gateway_rtt=5.4ms internet=OK internet_rtt=17.7ms gateway_error=none internet_error=none
+[2026-09-09 11:40:25] gateway=OK gateway_rtt=8.5ms internet=OK internet_rtt=24.2ms gateway_error=none internet_error=none
+[2026-09-09 11:40:30] gateway=OK gateway_rtt=35.1ms internet=OK internet_rtt=14.8ms gateway_error=none internet_error=none
+[2026-09-09 11:40:35] gateway=OK gateway_rtt=1600.5ms internet=OK internet_rtt=1099.0ms gateway_error=none internet_error=none
+[2026-09-09 11:40:42] gateway=OK gateway_rtt=8.5ms internet=OK internet_rtt=16.8ms gateway_error=none internet_error=none
+[2026-09-09 11:40:47] gateway=OK gateway_rtt=251.2ms internet=OK internet_rtt=58.1ms gateway_error=none internet_error=none
+[2026-09-09 11:40:53] gateway=OK gateway_rtt=8.1ms internet=OK internet_rtt=18.9ms gateway_error=none internet_error=none
+[2026-09-09 11:40:58] gateway=OK gateway_rtt=5.8ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 11:40:58] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 11:41:08] gateway=OK gateway_rtt=40.3ms internet=OK internet_rtt=304.2ms gateway_error=none internet_error=none
+[2026-09-09 11:41:08] EVENT_END type=INTERNET_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 11:41:13] gateway=OK gateway_rtt=69.1ms internet=OK internet_rtt=181.2ms gateway_error=none internet_error=none
+[2026-09-09 11:41:18] gateway=OK gateway_rtt=621.9ms internet=OK internet_rtt=40.7ms gateway_error=none internet_error=none
+[2026-09-09 11:41:24] gateway=OK gateway_rtt=390.8ms internet=OK internet_rtt=34.1ms gateway_error=none internet_error=none
+[2026-09-09 11:41:30] gateway=OK gateway_rtt=1453.8ms internet=OK internet_rtt=458.6ms gateway_error=none internet_error=none
+[2026-09-09 11:41:37] gateway=OK gateway_rtt=1170.9ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 11:41:37] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 11:41:48] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 11:42:03] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 11:42:18] gateway=OK gateway_rtt=3435.0ms internet=OK internet_rtt=777.4ms gateway_error=none internet_error=none
+[2026-09-09 11:42:18] EVENT_END type=INTERNET_ONLY duration=41s gateway=OK internet=OK
+[2026-09-09 11:42:27] gateway=OK gateway_rtt=888.0ms internet=OK internet_rtt=488.1ms gateway_error=none internet_error=none
+[2026-09-09 11:42:33] gateway=OK gateway_rtt=2082.1ms internet=OK internet_rtt=1872.3ms gateway_error=none internet_error=none
+[2026-09-09 11:42:42] gateway=OK gateway_rtt=2916.4ms internet=OK internet_rtt=1334.8ms gateway_error=none internet_error=none
+[2026-09-09 11:42:52] gateway=OK gateway_rtt=27.8ms internet=OK internet_rtt=73.9ms gateway_error=none internet_error=none
+[2026-09-09 11:42:57] gateway=OK gateway_rtt=123.8ms internet=OK internet_rtt=42.0ms gateway_error=none internet_error=none
+[2026-09-09 11:43:02] gateway=OK gateway_rtt=49.3ms internet=OK internet_rtt=34.2ms gateway_error=none internet_error=none
+[2026-09-09 11:43:07] gateway=OK gateway_rtt=5.6ms internet=OK internet_rtt=25.2ms gateway_error=none internet_error=none
+[2026-09-09 11:43:12] gateway=OK gateway_rtt=13.1ms internet=OK internet_rtt=23.9ms gateway_error=none internet_error=none
+[2026-09-09 11:43:17] gateway=OK gateway_rtt=18.1ms internet=OK internet_rtt=13.1ms gateway_error=none internet_error=none
+[2026-09-09 11:43:22] gateway=OK gateway_rtt=4.1ms internet=OK internet_rtt=11.7ms gateway_error=none internet_error=none
+[2026-09-09 11:43:27] gateway=OK gateway_rtt=275.7ms internet=OK internet_rtt=208.2ms gateway_error=none internet_error=none
+[2026-09-09 11:43:33] gateway=OK gateway_rtt=9.9ms internet=OK internet_rtt=452.1ms gateway_error=none internet_error=none
+[2026-09-09 11:43:38] gateway=OK gateway_rtt=22.9ms internet=OK internet_rtt=28.6ms gateway_error=none internet_error=none
+[2026-09-09 11:43:44] gateway=OK gateway_rtt=19.8ms internet=OK internet_rtt=27.9ms gateway_error=none internet_error=none
+[2026-09-09 11:43:49] gateway=OK gateway_rtt=9.5ms internet=OK internet_rtt=23.7ms gateway_error=none internet_error=none
+[2026-09-09 11:43:54] gateway=OK gateway_rtt=14.3ms internet=OK internet_rtt=21.3ms gateway_error=none internet_error=none
+[2026-09-09 11:43:59] gateway=OK gateway_rtt=14.9ms internet=OK internet_rtt=22.2ms gateway_error=none internet_error=none
+[2026-09-09 11:44:04] gateway=OK gateway_rtt=14.1ms internet=OK internet_rtt=21.5ms gateway_error=none internet_error=none
+[2026-09-09 11:44:09] gateway=OK gateway_rtt=1205.3ms internet=OK internet_rtt=85.5ms gateway_error=none internet_error=none
+[2026-09-09 11:44:15] gateway=OK gateway_rtt=103.5ms internet=OK internet_rtt=38.2ms gateway_error=none internet_error=none
+[2026-09-09 11:44:20] gateway=OK gateway_rtt=16.6ms internet=OK internet_rtt=20.4ms gateway_error=none internet_error=none
+[2026-09-09 11:44:25] gateway=OK gateway_rtt=50.9ms internet=OK internet_rtt=93.4ms gateway_error=none internet_error=none
+[2026-09-09 11:44:31] gateway=OK gateway_rtt=147.3ms internet=OK internet_rtt=191.3ms gateway_error=none internet_error=none
+[2026-09-09 11:44:36] gateway=OK gateway_rtt=86.2ms internet=OK internet_rtt=99.9ms gateway_error=none internet_error=none
+[2026-09-09 11:44:41] gateway=OK gateway_rtt=1340.2ms internet=OK internet_rtt=173.4ms gateway_error=none internet_error=none
+[2026-09-09 11:44:48] gateway=FAIL gateway_rtt=N/A internet=OK internet_rtt=771.5ms gateway_error=ping command timed out internet_error=none
+[2026-09-09 11:44:48] EVENT_START type=GATEWAY_ONLY gateway=FAIL internet=OK
+[2026-09-09 11:44:59] gateway=FAIL gateway_rtt=N/A internet=OK internet_rtt=1237.6ms gateway_error=ping command timed out internet_error=none
+[2026-09-09 11:45:10] gateway=OK gateway_rtt=737.0ms internet=OK internet_rtt=1578.9ms gateway_error=none internet_error=none
+[2026-09-09 11:45:10] EVENT_END type=GATEWAY_ONLY duration=22s gateway=OK internet=OK
+[2026-09-09 11:45:17] gateway=OK gateway_rtt=28.2ms internet=OK internet_rtt=27.7ms gateway_error=none internet_error=none
+[2026-09-09 11:45:22] gateway=OK gateway_rtt=6.4ms internet=OK internet_rtt=27.3ms gateway_error=none internet_error=none
+[2026-09-09 11:45:27] gateway=OK gateway_rtt=18.0ms internet=OK internet_rtt=31.2ms gateway_error=none internet_error=none
+[2026-09-09 11:45:32] gateway=OK gateway_rtt=10.7ms internet=OK internet_rtt=19.2ms gateway_error=none internet_error=none
+[2026-09-09 11:45:37] gateway=OK gateway_rtt=181.1ms internet=OK internet_rtt=17.1ms gateway_error=none internet_error=none
+[2026-09-09 11:45:43] gateway=OK gateway_rtt=32.5ms internet=OK internet_rtt=18.9ms gateway_error=none internet_error=none
+[2026-09-09 11:45:48] gateway=OK gateway_rtt=7.8ms internet=OK internet_rtt=41.6ms gateway_error=none internet_error=none
+[2026-09-09 11:45:53] gateway=OK gateway_rtt=111.8ms internet=OK internet_rtt=160.9ms gateway_error=none internet_error=none
+[2026-09-09 11:45:58] gateway=OK gateway_rtt=1348.4ms internet=OK internet_rtt=466.5ms gateway_error=none internet_error=none
+[2026-09-09 11:46:05] gateway=OK gateway_rtt=4.5ms internet=OK internet_rtt=20.5ms gateway_error=none internet_error=none
+[2026-09-09 11:46:10] gateway=OK gateway_rtt=16.4ms internet=OK internet_rtt=24.9ms gateway_error=none internet_error=none
+[2026-09-09 11:46:15] gateway=OK gateway_rtt=3826.6ms internet=OK internet_rtt=971.0ms gateway_error=none internet_error=none
+[2026-09-09 11:46:25] gateway=OK gateway_rtt=1222.7ms internet=OK internet_rtt=574.3ms gateway_error=none internet_error=none
+[2026-09-09 11:46:32] gateway=OK gateway_rtt=3106.4ms internet=OK internet_rtt=493.5ms gateway_error=none internet_error=none
+[2026-09-09 11:46:40] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 11:46:40] EVENT_START type=BOTH_FAIL gateway=FAIL internet=FAIL
+[2026-09-09 11:46:55] gateway=OK gateway_rtt=2811.2ms internet=OK internet_rtt=4870.4ms gateway_error=none internet_error=none
+[2026-09-09 11:46:55] EVENT_END type=BOTH_FAIL duration=15s gateway=OK internet=OK
+[2026-09-09 11:47:08] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 11:47:08] EVENT_START type=BOTH_FAIL gateway=FAIL internet=FAIL
+[2026-09-09 11:47:23] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 11:47:38] gateway=OK gateway_rtt=103.2ms internet=OK internet_rtt=210.1ms gateway_error=none internet_error=none
+[2026-09-09 11:47:38] EVENT_END type=BOTH_FAIL duration=30s gateway=OK internet=OK
+[2026-09-09 11:47:43] gateway=OK gateway_rtt=369.6ms internet=OK internet_rtt=330.6ms gateway_error=none internet_error=none
+[2026-09-09 11:47:49] gateway=FAIL gateway_rtt=N/A internet=OK internet_rtt=548.1ms gateway_error=ping command timed out internet_error=none
+[2026-09-09 11:47:49] EVENT_START type=GATEWAY_ONLY gateway=FAIL internet=OK
+[2026-09-09 11:48:00] gateway=OK gateway_rtt=13.8ms internet=OK internet_rtt=217.1ms gateway_error=none internet_error=none
+[2026-09-09 11:48:00] EVENT_END type=GATEWAY_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 11:48:05] gateway=OK gateway_rtt=35.0ms internet=OK internet_rtt=143.2ms gateway_error=none internet_error=none
+[2026-09-09 11:48:10] gateway=OK gateway_rtt=8.8ms internet=OK internet_rtt=21.2ms gateway_error=none internet_error=none
+[2026-09-09 11:48:15] gateway=OK gateway_rtt=8.2ms internet=OK internet_rtt=54.8ms gateway_error=none internet_error=none
+[2026-09-09 11:48:20] gateway=OK gateway_rtt=4931.4ms internet=OK internet_rtt=718.5ms gateway_error=none internet_error=none
+[2026-09-09 11:48:31] gateway=FAIL gateway_rtt=N/A internet=OK internet_rtt=80.2ms gateway_error=ping command timed out internet_error=none
+[2026-09-09 11:48:31] EVENT_START type=GATEWAY_ONLY gateway=FAIL internet=OK
+[2026-09-09 11:48:41] gateway=OK gateway_rtt=2364.3ms internet=OK internet_rtt=291.9ms gateway_error=none internet_error=none
+[2026-09-09 11:48:41] EVENT_END type=GATEWAY_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 11:48:49] gateway=OK gateway_rtt=10.7ms internet=OK internet_rtt=26.4ms gateway_error=none internet_error=none
+[2026-09-09 11:48:54] gateway=OK gateway_rtt=1904.0ms internet=OK internet_rtt=2884.0ms gateway_error=none internet_error=none
+[2026-09-09 11:49:04] gateway=OK gateway_rtt=3476.6ms internet=OK internet_rtt=962.5ms gateway_error=none internet_error=none
+[2026-09-09 11:49:13] gateway=OK gateway_rtt=3480.3ms internet=OK internet_rtt=100.2ms gateway_error=none internet_error=none
+[2026-09-09 11:49:22] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 11:49:22] EVENT_START type=BOTH_FAIL gateway=FAIL internet=FAIL
+[2026-09-09 11:49:37] gateway=OK gateway_rtt=89.7ms internet=OK internet_rtt=50.2ms gateway_error=none internet_error=none
+[2026-09-09 11:49:37] EVENT_END type=BOTH_FAIL duration=15s gateway=OK internet=OK
+[2026-09-09 11:49:42] gateway=OK gateway_rtt=445.8ms internet=OK internet_rtt=1384.4ms gateway_error=none internet_error=none
+[2026-09-09 11:49:49] gateway=OK gateway_rtt=10.2ms internet=OK internet_rtt=54.9ms gateway_error=none internet_error=none
+[2026-09-09 11:49:54] gateway=OK gateway_rtt=851.3ms internet=OK internet_rtt=29.2ms gateway_error=none internet_error=none
+[2026-09-09 11:50:00] gateway=OK gateway_rtt=2174.4ms internet=OK internet_rtt=191.9ms gateway_error=none internet_error=none
+[2026-09-09 11:50:07] gateway=OK gateway_rtt=126.2ms internet=OK internet_rtt=330.6ms gateway_error=none internet_error=none
+[2026-09-09 11:50:13] gateway=OK gateway_rtt=1141.6ms internet=OK internet_rtt=49.7ms gateway_error=none internet_error=none
+[2026-09-09 11:50:19] gateway=OK gateway_rtt=1937.8ms internet=OK internet_rtt=335.1ms gateway_error=none internet_error=none
+[2026-09-09 11:50:26] gateway=OK gateway_rtt=305.6ms internet=OK internet_rtt=1624.4ms gateway_error=none internet_error=none
+[2026-09-09 11:50:33] gateway=OK gateway_rtt=94.2ms internet=OK internet_rtt=196.9ms gateway_error=none internet_error=none
+[2026-09-09 11:50:39] gateway=OK gateway_rtt=981.6ms internet=OK internet_rtt=160.1ms gateway_error=none internet_error=none
+[2026-09-09 11:50:45] gateway=OK gateway_rtt=1936.1ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 11:50:45] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 11:50:57] gateway=OK gateway_rtt=546.2ms internet=OK internet_rtt=2873.0ms gateway_error=none internet_error=none
+[2026-09-09 11:50:57] EVENT_END type=INTERNET_ONLY duration=11s gateway=OK internet=OK
+[2026-09-09 11:51:05] gateway=OK gateway_rtt=374.7ms internet=OK internet_rtt=26.0ms gateway_error=none internet_error=none
+[2026-09-09 11:51:11] gateway=OK gateway_rtt=34.0ms internet=OK internet_rtt=26.4ms gateway_error=none internet_error=none
+[2026-09-09 11:51:16] gateway=FAIL gateway_rtt=N/A internet=OK internet_rtt=798.1ms gateway_error=ping command timed out internet_error=none
+[2026-09-09 11:51:16] EVENT_START type=GATEWAY_ONLY gateway=FAIL internet=OK
+[2026-09-09 11:51:27] gateway=OK gateway_rtt=1075.7ms internet=OK internet_rtt=282.7ms gateway_error=none internet_error=none
+[2026-09-09 11:51:27] EVENT_END type=GATEWAY_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 11:51:33] gateway=OK gateway_rtt=9.2ms internet=OK internet_rtt=32.0ms gateway_error=none internet_error=none
+[2026-09-09 11:51:38] gateway=OK gateway_rtt=63.8ms internet=OK internet_rtt=135.1ms gateway_error=none internet_error=none
+[2026-09-09 11:51:43] gateway=OK gateway_rtt=2212.8ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 11:51:43] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 11:51:55] gateway=OK gateway_rtt=3252.2ms internet=OK internet_rtt=2432.7ms gateway_error=none internet_error=none
+[2026-09-09 11:51:55] EVENT_END type=INTERNET_ONLY duration=12s gateway=OK internet=OK
+[2026-09-09 11:52:06] gateway=FAIL gateway_rtt=N/A internet=OK internet_rtt=2910.1ms gateway_error=ping command timed out internet_error=none
+[2026-09-09 11:52:06] EVENT_START type=GATEWAY_ONLY gateway=FAIL internet=OK
+[2026-09-09 11:52:19] gateway=OK gateway_rtt=1606.4ms internet=OK internet_rtt=1001.9ms gateway_error=none internet_error=none
+[2026-09-09 11:52:19] EVENT_END type=GATEWAY_ONLY duration=12s gateway=OK internet=OK
+[2026-09-09 11:52:27] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 11:52:27] EVENT_START type=BOTH_FAIL gateway=FAIL internet=FAIL
+[2026-09-09 11:52:42] gateway=OK gateway_rtt=1210.3ms internet=OK internet_rtt=53.1ms gateway_error=none internet_error=none
+[2026-09-09 11:52:42] EVENT_END type=BOTH_FAIL duration=15s gateway=OK internet=OK
+[2026-09-09 11:52:48] gateway=OK gateway_rtt=26.9ms internet=OK internet_rtt=27.0ms gateway_error=none internet_error=none
+[2026-09-09 11:52:53] gateway=OK gateway_rtt=19.1ms internet=OK internet_rtt=20.5ms gateway_error=none internet_error=none
+[2026-09-09 11:52:58] gateway=OK gateway_rtt=5.0ms internet=OK internet_rtt=37.7ms gateway_error=none internet_error=none
+[2026-09-09 11:53:03] gateway=OK gateway_rtt=139.6ms internet=OK internet_rtt=108.5ms gateway_error=none internet_error=none
+[2026-09-09 11:53:09] gateway=OK gateway_rtt=26.4ms internet=OK internet_rtt=59.0ms gateway_error=none internet_error=none
+[2026-09-09 11:53:14] gateway=OK gateway_rtt=14.7ms internet=OK internet_rtt=24.9ms gateway_error=none internet_error=none
+[2026-09-09 11:53:19] gateway=OK gateway_rtt=104.0ms internet=OK internet_rtt=130.9ms gateway_error=none internet_error=none
+[2026-09-09 11:53:24] gateway=OK gateway_rtt=18.8ms internet=OK internet_rtt=52.3ms gateway_error=none internet_error=none
+[2026-09-09 11:53:29] gateway=OK gateway_rtt=5.6ms internet=OK internet_rtt=16.9ms gateway_error=none internet_error=none
+[2026-09-09 11:53:34] gateway=OK gateway_rtt=146.5ms internet=OK internet_rtt=185.4ms gateway_error=none internet_error=none
+[2026-09-09 11:53:40] gateway=OK gateway_rtt=8.4ms internet=OK internet_rtt=19.5ms gateway_error=none internet_error=none
+[2026-09-09 11:53:45] gateway=OK gateway_rtt=5.0ms internet=OK internet_rtt=21.4ms gateway_error=none internet_error=none
+[2026-09-09 11:53:50] gateway=OK gateway_rtt=293.4ms internet=OK internet_rtt=197.8ms gateway_error=none internet_error=none
+[2026-09-09 11:53:55] gateway=OK gateway_rtt=1258.5ms internet=OK internet_rtt=2940.4ms gateway_error=none internet_error=none
+[2026-09-09 11:54:04] gateway=OK gateway_rtt=1834.1ms internet=OK internet_rtt=763.8ms gateway_error=none internet_error=none
+[2026-09-09 11:54:12] gateway=OK gateway_rtt=4005.8ms internet=OK internet_rtt=1056.7ms gateway_error=none internet_error=none
+[2026-09-09 11:54:22] gateway=OK gateway_rtt=1077.1ms internet=OK internet_rtt=752.2ms gateway_error=none internet_error=none
+[2026-09-09 11:54:29] gateway=OK gateway_rtt=33.7ms internet=OK internet_rtt=49.8ms gateway_error=none internet_error=none
+[2026-09-09 11:54:34] gateway=OK gateway_rtt=10.5ms internet=OK internet_rtt=54.0ms gateway_error=none internet_error=none
+[2026-09-09 11:54:39] gateway=OK gateway_rtt=810.1ms internet=OK internet_rtt=476.0ms gateway_error=none internet_error=none
+[2026-09-09 11:54:45] gateway=OK gateway_rtt=3757.2ms internet=OK internet_rtt=749.2ms gateway_error=none internet_error=none
+[2026-09-09 11:54:55] gateway=OK gateway_rtt=33.7ms internet=OK internet_rtt=38.5ms gateway_error=none internet_error=none
+[2026-09-09 11:55:00] gateway=OK gateway_rtt=12.0ms internet=OK internet_rtt=19.4ms gateway_error=none internet_error=none
+[2026-09-09 11:55:05] gateway=OK gateway_rtt=5.2ms internet=OK internet_rtt=45.3ms gateway_error=none internet_error=none
+[2026-09-09 11:55:10] gateway=OK gateway_rtt=5.6ms internet=OK internet_rtt=18.4ms gateway_error=none internet_error=none
+[2026-09-09 11:55:15] gateway=FAIL gateway_rtt=N/A internet=OK internet_rtt=715.3ms gateway_error=ping command timed out internet_error=none
+[2026-09-09 11:55:15] EVENT_START type=GATEWAY_ONLY gateway=FAIL internet=OK
+[2026-09-09 11:55:26] gateway=OK gateway_rtt=193.0ms internet=OK internet_rtt=61.7ms gateway_error=none internet_error=none
+[2026-09-09 11:55:26] EVENT_END type=GATEWAY_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 11:55:31] gateway=OK gateway_rtt=264.1ms internet=OK internet_rtt=24.6ms gateway_error=none internet_error=none
+[2026-09-09 11:55:37] gateway=OK gateway_rtt=4689.4ms internet=OK internet_rtt=1625.6ms gateway_error=none internet_error=none
+[2026-09-09 11:55:48] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 11:55:48] EVENT_START type=BOTH_FAIL gateway=FAIL internet=FAIL
+[2026-09-09 11:56:03] gateway=OK gateway_rtt=3184.8ms internet=OK internet_rtt=812.6ms gateway_error=none internet_error=none
+[2026-09-09 11:56:03] EVENT_END type=BOTH_FAIL duration=15s gateway=OK internet=OK
+[2026-09-09 11:56:12] gateway=FAIL gateway_rtt=N/A internet=OK internet_rtt=4521.7ms gateway_error=ping command timed out internet_error=none
+[2026-09-09 11:56:12] EVENT_START type=GATEWAY_ONLY gateway=FAIL internet=OK
+[2026-09-09 11:56:27] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 11:56:42] gateway=OK gateway_rtt=1070.9ms internet=OK internet_rtt=331.4ms gateway_error=none internet_error=none
+[2026-09-09 11:56:42] EVENT_END type=GATEWAY_ONLY duration=29s gateway=OK internet=OK
+[2026-09-09 11:56:48] gateway=OK gateway_rtt=297.2ms internet=OK internet_rtt=681.5ms gateway_error=none internet_error=none
+[2026-09-09 11:56:54] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 11:56:54] EVENT_START type=BOTH_FAIL gateway=FAIL internet=FAIL
+[2026-09-09 11:57:09] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 11:57:24] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 11:57:39] gateway=OK gateway_rtt=29.0ms internet=OK internet_rtt=31.9ms gateway_error=none internet_error=none
+[2026-09-09 11:57:39] EVENT_END type=BOTH_FAIL duration=45s gateway=OK internet=OK
+[2026-09-09 11:57:44] gateway=OK gateway_rtt=11.0ms internet=OK internet_rtt=28.1ms gateway_error=none internet_error=none
+[2026-09-09 11:57:49] gateway=OK gateway_rtt=1045.1ms internet=OK internet_rtt=721.4ms gateway_error=none internet_error=none
+[2026-09-09 11:57:56] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 11:57:56] EVENT_START type=BOTH_FAIL gateway=FAIL internet=FAIL
+[2026-09-09 11:58:11] gateway=OK gateway_rtt=7.8ms internet=OK internet_rtt=18.8ms gateway_error=none internet_error=none
+[2026-09-09 11:58:11] EVENT_END type=BOTH_FAIL duration=15s gateway=OK internet=OK
+[2026-09-09 11:58:16] gateway=OK gateway_rtt=15.6ms internet=OK internet_rtt=23.2ms gateway_error=none internet_error=none
+[2026-09-09 11:58:21] gateway=OK gateway_rtt=1019.2ms internet=OK internet_rtt=20.4ms gateway_error=none internet_error=none
+[2026-09-09 11:58:27] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 11:58:27] EVENT_START type=BOTH_FAIL gateway=FAIL internet=FAIL
+[2026-09-09 11:58:42] gateway=OK gateway_rtt=109.7ms internet=OK internet_rtt=111.6ms gateway_error=none internet_error=none
+[2026-09-09 11:58:42] EVENT_END type=BOTH_FAIL duration=15s gateway=OK internet=OK
+[2026-09-09 11:58:48] gateway=OK gateway_rtt=2003.1ms internet=OK internet_rtt=434.2ms gateway_error=none internet_error=none
+[2026-09-09 11:58:55] gateway=OK gateway_rtt=2485.8ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 11:58:55] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 11:59:08] gateway=OK gateway_rtt=1567.8ms internet=OK internet_rtt=2667.5ms gateway_error=none internet_error=none
+[2026-09-09 11:59:08] EVENT_END type=INTERNET_ONLY duration=12s gateway=OK internet=OK
+[2026-09-09 11:59:17] gateway=OK gateway_rtt=12.1ms internet=OK internet_rtt=33.7ms gateway_error=none internet_error=none
+[2026-09-09 11:59:22] gateway=OK gateway_rtt=1173.3ms internet=OK internet_rtt=1624.0ms gateway_error=none internet_error=none
+[2026-09-09 11:59:30] gateway=OK gateway_rtt=3891.9ms internet=OK internet_rtt=2102.2ms gateway_error=none internet_error=none
+[2026-09-09 11:59:41] gateway=OK gateway_rtt=651.6ms internet=OK internet_rtt=201.1ms gateway_error=none internet_error=none
+[2026-09-09 11:59:47] gateway=OK gateway_rtt=20.7ms internet=OK internet_rtt=175.0ms gateway_error=none internet_error=none
+[2026-09-09 11:59:52] gateway=OK gateway_rtt=346.4ms internet=OK internet_rtt=264.5ms gateway_error=none internet_error=none
+[2026-09-09 11:59:58] gateway=OK gateway_rtt=303.2ms internet=OK internet_rtt=347.8ms gateway_error=none internet_error=none
+[2026-09-09 12:00:03] gateway=OK gateway_rtt=3919.1ms internet=OK internet_rtt=367.8ms gateway_error=none internet_error=none
+[2026-09-09 12:00:13] gateway=OK gateway_rtt=312.9ms internet=OK internet_rtt=104.7ms gateway_error=none internet_error=none
+[2026-09-09 12:00:18] gateway=OK gateway_rtt=189.9ms internet=OK internet_rtt=198.8ms gateway_error=none internet_error=none
+[2026-09-09 12:00:23] gateway=OK gateway_rtt=23.0ms internet=OK internet_rtt=20.7ms gateway_error=none internet_error=none
+[2026-09-09 12:00:28] gateway=OK gateway_rtt=13.4ms internet=OK internet_rtt=55.0ms gateway_error=none internet_error=none
+[2026-09-09 12:00:34] gateway=OK gateway_rtt=2870.4ms internet=OK internet_rtt=2535.8ms gateway_error=none internet_error=none
+[2026-09-09 12:00:44] gateway=OK gateway_rtt=483.8ms internet=OK internet_rtt=146.3ms gateway_error=none internet_error=none
+[2026-09-09 12:00:50] gateway=OK gateway_rtt=221.0ms internet=OK internet_rtt=249.1ms gateway_error=none internet_error=none
+[2026-09-09 12:00:55] gateway=OK gateway_rtt=160.0ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 12:00:55] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 12:01:05] gateway=OK gateway_rtt=85.0ms internet=OK internet_rtt=39.0ms gateway_error=none internet_error=none
+[2026-09-09 12:01:05] EVENT_END type=INTERNET_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 12:01:11] gateway=OK gateway_rtt=633.4ms internet=OK internet_rtt=154.2ms gateway_error=none internet_error=none
+[2026-09-09 12:01:16] gateway=OK gateway_rtt=418.2ms internet=OK internet_rtt=19.4ms gateway_error=none internet_error=none
+[2026-09-09 12:01:22] gateway=OK gateway_rtt=550.4ms internet=OK internet_rtt=759.4ms gateway_error=none internet_error=none
+[2026-09-09 12:01:28] gateway=OK gateway_rtt=30.3ms internet=OK internet_rtt=23.5ms gateway_error=none internet_error=none
+[2026-09-09 12:01:33] gateway=OK gateway_rtt=10.7ms internet=OK internet_rtt=22.2ms gateway_error=none internet_error=none
+[2026-09-09 12:01:38] gateway=OK gateway_rtt=2216.2ms internet=OK internet_rtt=2331.2ms gateway_error=none internet_error=none
+[2026-09-09 12:01:48] gateway=OK gateway_rtt=200.4ms internet=OK internet_rtt=53.5ms gateway_error=none internet_error=none
+[2026-09-09 12:01:53] gateway=OK gateway_rtt=140.8ms internet=OK internet_rtt=43.1ms gateway_error=none internet_error=none
+[2026-09-09 12:01:58] gateway=OK gateway_rtt=6.4ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 12:01:58] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 12:02:08] gateway=OK gateway_rtt=179.8ms internet=OK internet_rtt=176.3ms gateway_error=none internet_error=none
+[2026-09-09 12:02:08] EVENT_END type=INTERNET_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 12:02:14] gateway=OK gateway_rtt=1300.2ms internet=OK internet_rtt=571.2ms gateway_error=none internet_error=none
+[2026-09-09 12:02:21] gateway=OK gateway_rtt=14.0ms internet=OK internet_rtt=16.7ms gateway_error=none internet_error=none
+[2026-09-09 12:02:26] gateway=OK gateway_rtt=42.7ms internet=OK internet_rtt=49.5ms gateway_error=none internet_error=none
+[2026-09-09 12:02:31] gateway=OK gateway_rtt=235.5ms internet=OK internet_rtt=55.1ms gateway_error=none internet_error=none
+[2026-09-09 12:02:36] gateway=OK gateway_rtt=19.9ms internet=OK internet_rtt=89.5ms gateway_error=none internet_error=none
+[2026-09-09 12:02:41] gateway=OK gateway_rtt=8.3ms internet=OK internet_rtt=17.3ms gateway_error=none internet_error=none
+[2026-09-09 12:02:46] gateway=OK gateway_rtt=6.3ms internet=OK internet_rtt=17.2ms gateway_error=none internet_error=none
+[2026-09-09 12:02:51] gateway=OK gateway_rtt=156.2ms internet=OK internet_rtt=39.3ms gateway_error=none internet_error=none
+[2026-09-09 12:02:57] gateway=OK gateway_rtt=8.1ms internet=OK internet_rtt=17.2ms gateway_error=none internet_error=none
+[2026-09-09 12:03:02] gateway=OK gateway_rtt=6.5ms internet=OK internet_rtt=22.8ms gateway_error=none internet_error=none
+[2026-09-09 12:03:07] gateway=OK gateway_rtt=8.9ms internet=OK internet_rtt=21.3ms gateway_error=none internet_error=none
+[2026-09-09 12:03:12] gateway=OK gateway_rtt=6.1ms internet=OK internet_rtt=18.0ms gateway_error=none internet_error=none
+[2026-09-09 12:03:17] gateway=OK gateway_rtt=2215.8ms internet=OK internet_rtt=763.3ms gateway_error=none internet_error=none
+[2026-09-09 12:03:25] gateway=OK gateway_rtt=19.9ms internet=OK internet_rtt=51.0ms gateway_error=none internet_error=none
+[2026-09-09 12:03:30] gateway=OK gateway_rtt=157.2ms internet=OK internet_rtt=10.5ms gateway_error=none internet_error=none
+[2026-09-09 12:03:35] gateway=OK gateway_rtt=7.0ms internet=OK internet_rtt=17.0ms gateway_error=none internet_error=none
+[2026-09-09 12:03:40] gateway=OK gateway_rtt=6.2ms internet=OK internet_rtt=27.6ms gateway_error=none internet_error=none
+[2026-09-09 12:03:45] gateway=OK gateway_rtt=11.0ms internet=OK internet_rtt=48.5ms gateway_error=none internet_error=none
+[2026-09-09 12:03:50] gateway=OK gateway_rtt=511.2ms internet=OK internet_rtt=54.7ms gateway_error=none internet_error=none
+[2026-09-09 12:03:56] gateway=OK gateway_rtt=14.4ms internet=OK internet_rtt=64.4ms gateway_error=none internet_error=none
+[2026-09-09 12:04:01] gateway=OK gateway_rtt=735.7ms internet=OK internet_rtt=171.5ms gateway_error=none internet_error=none
+[2026-09-09 12:04:07] gateway=OK gateway_rtt=39.2ms internet=OK internet_rtt=27.6ms gateway_error=none internet_error=none
+[2026-09-09 12:04:12] gateway=OK gateway_rtt=6.9ms internet=OK internet_rtt=11.6ms gateway_error=none internet_error=none
+[2026-09-09 12:04:17] gateway=OK gateway_rtt=8.7ms internet=OK internet_rtt=19.1ms gateway_error=none internet_error=none
+[2026-09-09 12:04:22] gateway=OK gateway_rtt=6.7ms internet=OK internet_rtt=17.6ms gateway_error=none internet_error=none
+[2026-09-09 12:04:27] gateway=OK gateway_rtt=6.1ms internet=OK internet_rtt=23.5ms gateway_error=none internet_error=none
+[2026-09-09 12:04:32] gateway=OK gateway_rtt=8.3ms internet=OK internet_rtt=19.9ms gateway_error=none internet_error=none
+[2026-09-09 12:04:37] gateway=OK gateway_rtt=8.4ms internet=OK internet_rtt=18.0ms gateway_error=none internet_error=none
+[2026-09-09 12:04:42] gateway=OK gateway_rtt=8.7ms internet=OK internet_rtt=19.3ms gateway_error=none internet_error=none
+[2026-09-09 12:04:47] gateway=OK gateway_rtt=5.5ms internet=OK internet_rtt=19.3ms gateway_error=none internet_error=none
+[2026-09-09 12:04:53] gateway=OK gateway_rtt=12.4ms internet=OK internet_rtt=30.6ms gateway_error=none internet_error=none
+[2026-09-09 12:04:58] gateway=OK gateway_rtt=38.7ms internet=OK internet_rtt=37.6ms gateway_error=none internet_error=none
+[2026-09-09 12:05:03] gateway=OK gateway_rtt=14.4ms internet=OK internet_rtt=147.6ms gateway_error=none internet_error=none
+[2026-09-09 12:05:08] gateway=OK gateway_rtt=1625.7ms internet=OK internet_rtt=681.7ms gateway_error=none internet_error=none
+[2026-09-09 12:05:15] gateway=OK gateway_rtt=6.4ms internet=OK internet_rtt=20.5ms gateway_error=none internet_error=none
+[2026-09-09 12:05:20] gateway=OK gateway_rtt=8.7ms internet=OK internet_rtt=16.8ms gateway_error=none internet_error=none
+[2026-09-09 12:05:25] gateway=OK gateway_rtt=154.0ms internet=OK internet_rtt=34.5ms gateway_error=none internet_error=none
+[2026-09-09 12:05:31] gateway=OK gateway_rtt=420.0ms internet=OK internet_rtt=28.0ms gateway_error=none internet_error=none
+[2026-09-09 12:05:36] gateway=OK gateway_rtt=636.7ms internet=OK internet_rtt=204.0ms gateway_error=none internet_error=none
+[2026-09-09 12:05:42] gateway=OK gateway_rtt=11.7ms internet=OK internet_rtt=15.4ms gateway_error=none internet_error=none
+[2026-09-09 12:05:47] gateway=OK gateway_rtt=5.1ms internet=OK internet_rtt=20.2ms gateway_error=none internet_error=none
+[2026-09-09 12:05:52] gateway=OK gateway_rtt=459.1ms internet=OK internet_rtt=91.8ms gateway_error=none internet_error=none
+[2026-09-09 12:05:58] gateway=OK gateway_rtt=921.3ms internet=OK internet_rtt=540.6ms gateway_error=none internet_error=none
+[2026-09-09 12:06:04] gateway=OK gateway_rtt=181.6ms internet=OK internet_rtt=537.6ms gateway_error=none internet_error=none
+[2026-09-09 12:06:10] gateway=OK gateway_rtt=547.6ms internet=OK internet_rtt=1635.3ms gateway_error=none internet_error=none
+[2026-09-09 12:06:17] gateway=OK gateway_rtt=308.7ms internet=OK internet_rtt=77.2ms gateway_error=none internet_error=none
+[2026-09-09 12:06:22] gateway=OK gateway_rtt=6.1ms internet=OK internet_rtt=14.5ms gateway_error=none internet_error=none
+[2026-09-09 12:06:27] gateway=OK gateway_rtt=5.5ms internet=OK internet_rtt=17.6ms gateway_error=none internet_error=none
+[2026-09-09 12:06:32] gateway=OK gateway_rtt=4.6ms internet=OK internet_rtt=19.8ms gateway_error=none internet_error=none
+[2026-09-09 12:06:38] gateway=OK gateway_rtt=940.0ms internet=OK internet_rtt=908.8ms gateway_error=none internet_error=none
+[2026-09-09 12:06:44] gateway=OK gateway_rtt=7.9ms internet=OK internet_rtt=22.8ms gateway_error=none internet_error=none
+[2026-09-09 12:06:49] gateway=OK gateway_rtt=22.4ms internet=OK internet_rtt=28.4ms gateway_error=none internet_error=none
+[2026-09-09 12:06:55] gateway=OK gateway_rtt=6.9ms internet=OK internet_rtt=51.6ms gateway_error=none internet_error=none
+[2026-09-09 12:07:00] gateway=OK gateway_rtt=7.3ms internet=OK internet_rtt=22.2ms gateway_error=none internet_error=none
+[2026-09-09 12:07:05] gateway=OK gateway_rtt=46.5ms internet=OK internet_rtt=97.5ms gateway_error=none internet_error=none
+[2026-09-09 12:07:10] gateway=OK gateway_rtt=35.7ms internet=OK internet_rtt=24.1ms gateway_error=none internet_error=none
+[2026-09-09 12:07:15] gateway=OK gateway_rtt=12.2ms internet=OK internet_rtt=18.1ms gateway_error=none internet_error=none
+[2026-09-09 12:07:20] gateway=OK gateway_rtt=8.7ms internet=OK internet_rtt=17.7ms gateway_error=none internet_error=none
+[2026-09-09 12:07:25] gateway=OK gateway_rtt=6.4ms internet=OK internet_rtt=16.2ms gateway_error=none internet_error=none
+[2026-09-09 12:07:30] gateway=OK gateway_rtt=3793.2ms internet=OK internet_rtt=321.3ms gateway_error=none internet_error=none
+[2026-09-09 12:07:39] gateway=OK gateway_rtt=579.7ms internet=OK internet_rtt=72.5ms gateway_error=none internet_error=none
+[2026-09-09 12:07:45] gateway=OK gateway_rtt=771.8ms internet=OK internet_rtt=1027.5ms gateway_error=none internet_error=none
+[2026-09-09 12:07:52] gateway=OK gateway_rtt=9.9ms internet=OK internet_rtt=20.2ms gateway_error=none internet_error=none
+[2026-09-09 12:07:57] gateway=OK gateway_rtt=24.8ms internet=OK internet_rtt=14.3ms gateway_error=none internet_error=none
+[2026-09-09 12:08:02] gateway=OK gateway_rtt=11.3ms internet=OK internet_rtt=16.8ms gateway_error=none internet_error=none
+[2026-09-09 12:08:07] gateway=OK gateway_rtt=8.1ms internet=OK internet_rtt=19.2ms gateway_error=none internet_error=none
+[2026-09-09 12:08:12] gateway=OK gateway_rtt=9.2ms internet=OK internet_rtt=17.3ms gateway_error=none internet_error=none
+[2026-09-09 12:08:17] gateway=OK gateway_rtt=9.8ms internet=OK internet_rtt=21.2ms gateway_error=none internet_error=none
+[2026-09-09 12:08:22] gateway=OK gateway_rtt=11.1ms internet=OK internet_rtt=19.5ms gateway_error=none internet_error=none
+[2026-09-09 12:08:27] gateway=OK gateway_rtt=5.4ms internet=OK internet_rtt=18.0ms gateway_error=none internet_error=none
+[2026-09-09 12:08:32] gateway=OK gateway_rtt=7.8ms internet=OK internet_rtt=16.2ms gateway_error=none internet_error=none
+[2026-09-09 12:08:37] gateway=OK gateway_rtt=127.9ms internet=OK internet_rtt=28.2ms gateway_error=none internet_error=none
+[2026-09-09 12:08:43] gateway=OK gateway_rtt=4968.5ms internet=OK internet_rtt=3371.2ms gateway_error=none internet_error=none
+[2026-09-09 12:08:56] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 12:08:56] EVENT_START type=BOTH_FAIL gateway=FAIL internet=FAIL
+[2026-09-09 12:09:11] gateway=OK gateway_rtt=3974.6ms internet=OK internet_rtt=1853.9ms gateway_error=none internet_error=none
+[2026-09-09 12:09:11] EVENT_END type=BOTH_FAIL duration=15s gateway=OK internet=OK
+[2026-09-09 12:09:22] gateway=OK gateway_rtt=1596.0ms internet=OK internet_rtt=1516.5ms gateway_error=none internet_error=none
+[2026-09-09 12:09:30] gateway=OK gateway_rtt=72.2ms internet=OK internet_rtt=105.7ms gateway_error=none internet_error=none
+[2026-09-09 12:09:35] gateway=OK gateway_rtt=1784.9ms internet=OK internet_rtt=3107.2ms gateway_error=none internet_error=none
+[2026-09-09 12:09:45] gateway=OK gateway_rtt=1205.0ms internet=OK internet_rtt=560.7ms gateway_error=none internet_error=none
+[2026-09-09 12:09:52] gateway=OK gateway_rtt=426.4ms internet=OK internet_rtt=32.8ms gateway_error=none internet_error=none
+[2026-09-09 12:09:57] gateway=OK gateway_rtt=582.1ms internet=OK internet_rtt=879.3ms gateway_error=none internet_error=none
+[2026-09-09 12:10:04] gateway=OK gateway_rtt=144.6ms internet=OK internet_rtt=153.3ms gateway_error=none internet_error=none
+[2026-09-09 12:10:09] gateway=OK gateway_rtt=17.5ms internet=OK internet_rtt=55.2ms gateway_error=none internet_error=none
+[2026-09-09 12:10:14] gateway=OK gateway_rtt=523.6ms internet=OK internet_rtt=468.9ms gateway_error=none internet_error=none
+[2026-09-09 12:10:20] gateway=FAIL gateway_rtt=N/A internet=OK internet_rtt=267.2ms gateway_error=ping command timed out internet_error=none
+[2026-09-09 12:10:20] EVENT_START type=GATEWAY_ONLY gateway=FAIL internet=OK
+[2026-09-09 12:10:31] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 12:10:46] gateway=OK gateway_rtt=371.0ms internet=OK internet_rtt=34.8ms gateway_error=none internet_error=none
+[2026-09-09 12:10:46] EVENT_END type=GATEWAY_ONLY duration=25s gateway=OK internet=OK
+[2026-09-09 12:10:51] gateway=OK gateway_rtt=472.4ms internet=OK internet_rtt=71.7ms gateway_error=none internet_error=none
+[2026-09-09 12:10:57] gateway=FAIL gateway_rtt=N/A internet=OK internet_rtt=39.2ms gateway_error=ping command timed out internet_error=none
+[2026-09-09 12:10:57] EVENT_START type=GATEWAY_ONLY gateway=FAIL internet=OK
+[2026-09-09 12:11:07] gateway=OK gateway_rtt=312.0ms internet=OK internet_rtt=36.0ms gateway_error=none internet_error=none
+[2026-09-09 12:11:07] EVENT_END type=GATEWAY_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 12:11:12] gateway=OK gateway_rtt=117.0ms internet=OK internet_rtt=36.5ms gateway_error=none internet_error=none
+[2026-09-09 12:11:17] gateway=OK gateway_rtt=594.3ms internet=OK internet_rtt=449.8ms gateway_error=none internet_error=none
+[2026-09-09 12:11:23] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 12:11:23] EVENT_START type=BOTH_FAIL gateway=FAIL internet=FAIL
+[2026-09-09 12:11:38] gateway=OK gateway_rtt=708.4ms internet=OK internet_rtt=144.5ms gateway_error=none internet_error=none
+[2026-09-09 12:11:38] EVENT_END type=BOTH_FAIL duration=15s gateway=OK internet=OK
+[2026-09-09 12:11:44] gateway=OK gateway_rtt=498.4ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 12:11:44] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 12:11:55] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 12:12:10] gateway=OK gateway_rtt=17.7ms internet=OK internet_rtt=27.4ms gateway_error=none internet_error=none
+[2026-09-09 12:12:10] EVENT_END type=INTERNET_ONLY duration=25s gateway=OK internet=OK
+[2026-09-09 12:12:15] gateway=OK gateway_rtt=267.1ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 12:12:15] EVENT_START type=INTERNET_ONLY gateway=OK internet=FAIL
+[2026-09-09 12:12:25] gateway=OK gateway_rtt=5.4ms internet=OK internet_rtt=39.5ms gateway_error=none internet_error=none
+[2026-09-09 12:12:25] EVENT_END type=INTERNET_ONLY duration=10s gateway=OK internet=OK
+[2026-09-09 12:12:30] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 12:12:30] EVENT_START type=BOTH_FAIL gateway=FAIL internet=FAIL
+[2026-09-09 12:12:45] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 12:13:00] gateway=OK gateway_rtt=669.5ms internet=OK internet_rtt=98.1ms gateway_error=none internet_error=none
+[2026-09-09 12:13:00] EVENT_END type=BOTH_FAIL duration=30s gateway=OK internet=OK
+[2026-09-09 12:13:06] gateway=OK gateway_rtt=21.7ms internet=OK internet_rtt=52.9ms gateway_error=none internet_error=none
+[2026-09-09 12:13:11] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 12:13:11] EVENT_START type=BOTH_FAIL gateway=FAIL internet=FAIL
+[2026-09-09 12:13:26] gateway=OK gateway_rtt=615.1ms internet=OK internet_rtt=46.8ms gateway_error=none internet_error=none
+[2026-09-09 12:13:26] EVENT_END type=BOTH_FAIL duration=15s gateway=OK internet=OK
+[2026-09-09 12:13:32] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 12:13:32] EVENT_START type=BOTH_FAIL gateway=FAIL internet=FAIL
+[2026-09-09 12:13:47] gateway=OK gateway_rtt=936.9ms internet=OK internet_rtt=329.8ms gateway_error=none internet_error=none
+[2026-09-09 12:13:47] EVENT_END type=BOTH_FAIL duration=15s gateway=OK internet=OK
+[2026-09-09 12:13:53] gateway=OK gateway_rtt=1161.0ms internet=OK internet_rtt=1068.3ms gateway_error=none internet_error=none
+[2026-09-09 12:14:00] gateway=OK gateway_rtt=283.3ms internet=OK internet_rtt=48.7ms gateway_error=none internet_error=none
+[2026-09-09 12:14:06] gateway=FAIL gateway_rtt=N/A internet=FAIL internet_rtt=N/A gateway_error=ping command timed out internet_error=ping command timed out
+[2026-09-09 12:14:06] EVENT_START type=BOTH_FAIL gateway=FAIL internet=FAIL
+[2026-09-09 12:14:21] gateway=OK gateway_rtt=750.8ms internet=FAIL internet_rtt=N/A gateway_error=none internet_error=ping command timed out
+[2026-09-09 12:14:27] EVENT_END type=BOTH_FAIL duration=20s gateway=FINAL internet=FINAL
+[2026-09-09 12:14:27] END samples=1173 gateway_failures=41 internet_failures=64 total_events=57 total_outage_time=15m 59s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=1 type=INTERNET_ONLY start=2026-09-09 10:14:27 end=2026-09-09 10:15:58 duration=1m 30s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=2 type=INTERNET_ONLY start=2026-09-09 10:17:07 end=2026-09-09 10:17:18 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=3 type=INTERNET_ONLY start=2026-09-09 10:19:17 end=2026-09-09 10:19:50 duration=32s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=4 type=INTERNET_ONLY start=2026-09-09 10:24:05 end=2026-09-09 10:24:15 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=5 type=INTERNET_ONLY start=2026-09-09 10:35:45 end=2026-09-09 10:35:55 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=6 type=INTERNET_ONLY start=2026-09-09 10:38:49 end=2026-09-09 10:38:59 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=7 type=INTERNET_ONLY start=2026-09-09 10:45:06 end=2026-09-09 10:45:16 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=8 type=INTERNET_ONLY start=2026-09-09 10:56:53 end=2026-09-09 10:57:03 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=9 type=INTERNET_ONLY start=2026-09-09 10:57:39 end=2026-09-09 10:57:49 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=10 type=INTERNET_ONLY start=2026-09-09 10:58:49 end=2026-09-09 10:58:59 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=11 type=INTERNET_ONLY start=2026-09-09 10:59:04 end=2026-09-09 10:59:14 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=12 type=GATEWAY_ONLY start=2026-09-09 11:02:06 end=2026-09-09 11:02:17 duration=11s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=13 type=GATEWAY_ONLY start=2026-09-09 11:03:44 end=2026-09-09 11:03:54 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=14 type=INTERNET_ONLY start=2026-09-09 11:08:22 end=2026-09-09 11:08:34 duration=11s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=15 type=INTERNET_ONLY start=2026-09-09 11:16:53 end=2026-09-09 11:17:04 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=16 type=INTERNET_ONLY start=2026-09-09 11:20:05 end=2026-09-09 11:20:15 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=17 type=GATEWAY_ONLY start=2026-09-09 11:21:15 end=2026-09-09 11:21:25 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=18 type=GATEWAY_ONLY start=2026-09-09 11:26:00 end=2026-09-09 11:26:11 duration=11s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=19 type=BOTH_FAIL start=2026-09-09 11:26:29 end=2026-09-09 11:26:59 duration=30s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=20 type=INTERNET_ONLY start=2026-09-09 11:27:06 end=2026-09-09 11:27:16 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=21 type=GATEWAY_ONLY start=2026-09-09 11:28:10 end=2026-09-09 11:28:25 duration=14s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=22 type=INTERNET_ONLY start=2026-09-09 11:31:42 end=2026-09-09 11:31:55 duration=13s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=23 type=BOTH_FAIL start=2026-09-09 11:32:17 end=2026-09-09 11:32:32 duration=15s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=24 type=INTERNET_ONLY start=2026-09-09 11:35:33 end=2026-09-09 11:35:45 duration=12s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=25 type=INTERNET_ONLY start=2026-09-09 11:38:00 end=2026-09-09 11:38:10 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=26 type=INTERNET_ONLY start=2026-09-09 11:40:58 end=2026-09-09 11:41:08 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=27 type=INTERNET_ONLY start=2026-09-09 11:41:37 end=2026-09-09 11:42:18 duration=41s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=28 type=GATEWAY_ONLY start=2026-09-09 11:44:48 end=2026-09-09 11:45:10 duration=22s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=29 type=BOTH_FAIL start=2026-09-09 11:46:40 end=2026-09-09 11:46:55 duration=15s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=30 type=BOTH_FAIL start=2026-09-09 11:47:08 end=2026-09-09 11:47:38 duration=30s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=31 type=GATEWAY_ONLY start=2026-09-09 11:47:49 end=2026-09-09 11:48:00 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=32 type=GATEWAY_ONLY start=2026-09-09 11:48:31 end=2026-09-09 11:48:41 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=33 type=BOTH_FAIL start=2026-09-09 11:49:22 end=2026-09-09 11:49:37 duration=15s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=34 type=INTERNET_ONLY start=2026-09-09 11:50:45 end=2026-09-09 11:50:57 duration=11s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=35 type=GATEWAY_ONLY start=2026-09-09 11:51:16 end=2026-09-09 11:51:27 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=36 type=INTERNET_ONLY start=2026-09-09 11:51:43 end=2026-09-09 11:51:55 duration=12s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=37 type=GATEWAY_ONLY start=2026-09-09 11:52:06 end=2026-09-09 11:52:19 duration=12s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=38 type=BOTH_FAIL start=2026-09-09 11:52:27 end=2026-09-09 11:52:42 duration=15s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=39 type=GATEWAY_ONLY start=2026-09-09 11:55:15 end=2026-09-09 11:55:26 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=40 type=BOTH_FAIL start=2026-09-09 11:55:48 end=2026-09-09 11:56:03 duration=15s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=41 type=GATEWAY_ONLY start=2026-09-09 11:56:12 end=2026-09-09 11:56:42 duration=29s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=42 type=BOTH_FAIL start=2026-09-09 11:56:54 end=2026-09-09 11:57:39 duration=45s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=43 type=BOTH_FAIL start=2026-09-09 11:57:56 end=2026-09-09 11:58:11 duration=15s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=44 type=BOTH_FAIL start=2026-09-09 11:58:27 end=2026-09-09 11:58:42 duration=15s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=45 type=INTERNET_ONLY start=2026-09-09 11:58:55 end=2026-09-09 11:59:08 duration=12s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=46 type=INTERNET_ONLY start=2026-09-09 12:00:55 end=2026-09-09 12:01:05 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=47 type=INTERNET_ONLY start=2026-09-09 12:01:58 end=2026-09-09 12:02:08 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=48 type=BOTH_FAIL start=2026-09-09 12:08:56 end=2026-09-09 12:09:11 duration=15s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=49 type=GATEWAY_ONLY start=2026-09-09 12:10:20 end=2026-09-09 12:10:46 duration=25s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=50 type=GATEWAY_ONLY start=2026-09-09 12:10:57 end=2026-09-09 12:11:07 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=51 type=BOTH_FAIL start=2026-09-09 12:11:23 end=2026-09-09 12:11:38 duration=15s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=52 type=INTERNET_ONLY start=2026-09-09 12:11:44 end=2026-09-09 12:12:10 duration=25s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=53 type=INTERNET_ONLY start=2026-09-09 12:12:15 end=2026-09-09 12:12:25 duration=10s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=54 type=BOTH_FAIL start=2026-09-09 12:12:30 end=2026-09-09 12:13:00 duration=30s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=55 type=BOTH_FAIL start=2026-09-09 12:13:11 end=2026-09-09 12:13:26 duration=15s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=56 type=BOTH_FAIL start=2026-09-09 12:13:32 end=2026-09-09 12:13:47 duration=15s
+[2026-09-09 12:14:27] EVENT_SUMMARY index=57 type=BOTH_FAIL start=2026-09-09 12:14:06 end=2026-09-09 12:14:27 duration=20s
