@@ -8,7 +8,7 @@ import sys
 import time
 from pathlib import Path
 
-DEFAULT_DURATION_HOURS = 6
+DEFAULT_DURATION_HOURS = 2
 DEFAULT_INTERVAL_SECONDS = 5
 DEFAULT_EXTERNAL_TARGET = "8.8.8.8"
 
