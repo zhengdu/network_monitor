@@ -1,0 +1,3 @@
+[2026-09-08 10:44:38] START duration_hours=0.0001 interval_seconds=1.0 gateway=192.168.4.1 external_target=8.8.8.8
+[2026-09-08 10:44:38] gateway=OK gateway_rtt=6.7ms internet=OK internet_rtt=17.3ms gateway_error=none internet_error=none
+[2026-09-08 10:44:38] END samples=1 gateway_failures=0 internet_failures=0

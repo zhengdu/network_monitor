@@ -1,0 +1,3 @@
+[SUMMARY] Log file: /Volumes/MOVESPEED/myCode/checkInternet/network_monitor_20260908_104910.txt
+[SUMMARY] Total outage events detected: 0
+[SUMMARY] No outage events were detected in this run.
