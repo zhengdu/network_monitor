@@ -1,0 +1,57 @@
+[SUMMARY] Log file: /Volumes/MOVESPEED/myCode/network_monitor/network_monitor_20260910_094315.txt
+[SUMMARY] Total outage events detected: 53
+[SUMMARY] Event 1: type=INTERNET_ONLY | start=2026-09-10 09:46:12 | end=2026-09-10 09:46:32 | duration=20s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 2: type=INTERNET_ONLY | start=2026-09-10 09:49:09 | end=2026-09-10 09:49:19 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 3: type=INTERNET_ONLY | start=2026-09-10 09:56:08 | end=2026-09-10 09:56:18 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 4: type=INTERNET_ONLY | start=2026-09-10 10:06:45 | end=2026-09-10 10:06:55 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 5: type=INTERNET_ONLY | start=2026-09-10 10:33:34 | end=2026-09-10 10:33:44 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 6: type=INTERNET_ONLY | start=2026-09-10 10:38:37 | end=2026-09-10 10:38:37 | duration=0s | gateway=OK->OK | internet=FAIL->FAIL
+[SUMMARY] Event 7: type=INTERNET_ONLY | start=2026-09-10 10:48:03 | end=2026-09-10 10:48:13 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 8: type=INTERNET_ONLY | start=2026-09-10 10:50:34 | end=2026-09-10 10:50:34 | duration=0s | gateway=OK->OK | internet=FAIL->FAIL
+[SUMMARY] Event 9: type=INTERNET_ONLY | start=2026-09-10 11:00:05 | end=2026-09-10 11:00:25 | duration=20s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 10: type=INTERNET_ONLY | start=2026-09-10 11:08:35 | end=2026-09-10 11:08:45 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 11: type=INTERNET_ONLY | start=2026-09-10 11:13:08 | end=2026-09-10 11:13:28 | duration=20s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 12: type=INTERNET_ONLY | start=2026-09-10 11:25:37 | end=2026-09-10 11:25:47 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 13: type=INTERNET_ONLY | start=2026-09-10 11:25:57 | end=2026-09-10 11:26:07 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 14: type=INTERNET_ONLY | start=2026-09-10 11:27:08 | end=2026-09-10 11:27:38 | duration=30s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 15: type=INTERNET_ONLY | start=2026-09-10 11:27:58 | end=2026-09-10 11:27:58 | duration=0s | gateway=OK->OK | internet=FAIL->FAIL
+[SUMMARY] Event 16: type=INTERNET_ONLY | start=2026-09-10 12:02:47 | end=2026-09-10 12:02:47 | duration=0s | gateway=OK->OK | internet=FAIL->FAIL
+[SUMMARY] Event 17: type=INTERNET_ONLY | start=2026-09-10 12:10:21 | end=2026-09-10 12:10:31 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 18: type=INTERNET_ONLY | start=2026-09-10 12:17:51 | end=2026-09-10 12:18:21 | duration=30s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 19: type=INTERNET_ONLY | start=2026-09-10 12:23:30 | end=2026-09-10 12:23:40 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 20: type=INTERNET_ONLY | start=2026-09-10 12:28:53 | end=2026-09-10 12:29:14 | duration=20s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 21: type=INTERNET_ONLY | start=2026-09-10 12:30:24 | end=2026-09-10 12:30:34 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 22: type=INTERNET_ONLY | start=2026-09-10 12:30:39 | end=2026-09-10 12:30:49 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 23: type=INTERNET_ONLY | start=2026-09-10 12:31:55 | end=2026-09-10 12:32:05 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 24: type=INTERNET_ONLY | start=2026-09-10 12:32:10 | end=2026-09-10 12:32:20 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 25: type=INTERNET_ONLY | start=2026-09-10 12:33:26 | end=2026-09-10 12:33:46 | duration=20s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 26: type=INTERNET_ONLY | start=2026-09-10 12:35:07 | end=2026-09-10 12:35:17 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 27: type=INTERNET_ONLY | start=2026-09-10 12:37:14 | end=2026-09-10 12:37:14 | duration=0s | gateway=OK->OK | internet=FAIL->FAIL
+[SUMMARY] Event 28: type=INTERNET_ONLY | start=2026-09-10 12:39:14 | end=2026-09-10 12:39:34 | duration=20s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 29: type=INTERNET_ONLY | start=2026-09-10 12:43:52 | end=2026-09-10 12:44:02 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 30: type=INTERNET_ONLY | start=2026-09-10 13:04:59 | end=2026-09-10 13:05:09 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 31: type=INTERNET_ONLY | start=2026-09-10 13:18:48 | end=2026-09-10 13:19:09 | duration=20s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 32: type=INTERNET_ONLY | start=2026-09-10 13:22:36 | end=2026-09-10 13:22:46 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 33: type=INTERNET_ONLY | start=2026-09-10 13:25:48 | end=2026-09-10 13:25:58 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 34: type=INTERNET_ONLY | start=2026-09-10 13:26:08 | end=2026-09-10 13:26:18 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 35: type=INTERNET_ONLY | start=2026-09-10 13:38:47 | end=2026-09-10 13:38:57 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 36: type=INTERNET_ONLY | start=2026-09-10 13:39:47 | end=2026-09-10 13:39:57 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 37: type=INTERNET_ONLY | start=2026-09-10 13:47:52 | end=2026-09-10 13:48:02 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 38: type=INTERNET_ONLY | start=2026-09-10 14:00:31 | end=2026-09-10 14:00:41 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 39: type=INTERNET_ONLY | start=2026-09-10 14:00:56 | end=2026-09-10 14:01:06 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 40: type=INTERNET_ONLY | start=2026-09-10 14:20:33 | end=2026-09-10 14:20:43 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 41: type=INTERNET_ONLY | start=2026-09-10 14:21:44 | end=2026-09-10 14:21:54 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 42: type=INTERNET_ONLY | start=2026-09-10 14:28:49 | end=2026-09-10 14:29:09 | duration=20s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 43: type=INTERNET_ONLY | start=2026-09-10 14:40:36 | end=2026-09-10 14:40:46 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 44: type=INTERNET_ONLY | start=2026-09-10 14:42:48 | end=2026-09-10 14:42:58 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 45: type=INTERNET_ONLY | start=2026-09-10 14:49:43 | end=2026-09-10 14:49:53 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 46: type=INTERNET_ONLY | start=2026-09-10 15:00:35 | end=2026-09-10 15:00:45 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 47: type=INTERNET_ONLY | start=2026-09-10 15:03:47 | end=2026-09-10 15:03:57 | duration=10s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 48: type=INTERNET_ONLY | start=2026-09-10 15:05:23 | end=2026-09-10 15:05:43 | duration=20s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 49: type=INTERNET_ONLY | start=2026-09-10 15:21:14 | end=2026-09-10 15:21:44 | duration=30s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 50: type=INTERNET_ONLY | start=2026-09-10 15:21:59 | end=2026-09-10 15:22:19 | duration=20s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 51: type=INTERNET_ONLY | start=2026-09-10 15:25:53 | end=2026-09-10 15:26:13 | duration=20s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 52: type=INTERNET_ONLY | start=2026-09-10 15:32:34 | end=2026-09-10 15:33:04 | duration=30s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Event 53: type=INTERNET_ONLY | start=2026-09-10 15:42:32 | end=2026-09-10 15:42:52 | duration=20s | gateway=OK->OK | internet=FAIL->OK
+[SUMMARY] Breakdown by failure type:
+  - INTERNET_ONLY: 53 event(s)
